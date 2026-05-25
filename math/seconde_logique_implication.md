@@ -4,7 +4,7 @@
 
 ### Définition
 
-Une **implication** P ⟹ Q est une proposition logique qui affirme : « si P est vraie, alors Q est vraie ».
+Une **implication** $P \Rightarrow Q$ est une proposition logique qui affirme : « si P est vraie, alors Q est vraie ».
 
 Une implication n'est **fausse** que dans un seul cas : quand on part du vrai et qu'on arrive au faux.
 
@@ -12,7 +12,7 @@ Une implication n'est **fausse** que dans un seul cas : quand on part du vrai et
 
 Exemple concret : P = « il pleut », Q = « je prends mon parapluie », implication = « s'il pleut, je prends mon parapluie »
 
-| P | Q | P ⟹ Q | Interprétation |
+| P | Q | $P \Rightarrow Q$ | Interprétation |
 |---|---|--------|----------------|
 | V | V | V | Il pleut, je prends mon parapluie — normal |
 | V | F | **F** | Il pleut, je ne prends pas mon parapluie — j'ai trahi ma promesse |
@@ -28,28 +28,28 @@ Prendre son parapluie par beau temps ne viole pas la promesse — elle ne portai
 
 ### La contraposée
 
-L'implication P ⟹ Q est **logiquement équivalente** à sa contraposée ¬Q ⟹ ¬P. Les deux colonnes de leur table de vérité sont identiques.
+L'implication $P \Rightarrow Q$ est **logiquement équivalente** à sa contraposée $\neg Q \Rightarrow \neg P$. Les deux colonnes de leur table de vérité sont identiques.
 
-Cela permet, quand P ⟹ Q est difficile à démontrer directement, de démontrer ¬Q ⟹ ¬P à la place.
+Cela permet, quand $P \Rightarrow Q$ est difficile à démontrer directement, de démontrer $\neg Q \Rightarrow \neg P$ à la place.
 
 **Table de vérité — équivalence entre implication et contraposée :**
 
-| P | Q | P ⟹ Q | ¬P | ¬Q | ¬Q ⟹ ¬P |
+| P | Q | $P \Rightarrow Q$ | $\neg P$ | $\neg Q$ | $\neg Q \Rightarrow \neg P$ |
 |---|---|--------|----|----|----------|
 | V | V | V | F | F | V |
 | V | F | **F** | F | V | **F** |
 | F | V | V | V | F | V |
 | F | F | V | V | V | V |
 
-Les colonnes « P ⟹ Q » et « ¬Q ⟹ ¬P » sont identiques : les deux propositions sont logiquement équivalentes.
+Les colonnes $P \Rightarrow Q$ et $\neg Q \Rightarrow \neg P$ sont identiques : les deux propositions sont logiquement équivalentes.
 
-**Exemple d'application — p² pair ⟹ p pair :**
+**Exemple d'application — $p^2$ pair $\Rightarrow$ $p$ pair :**
 
 Cette implication est difficile à attaquer directement. On démontre sa contraposée à la place :
 
-> p impair ⟹ p² impair
+> $p$ impair $\Rightarrow$ $p^2$ impair
 
-Preuve directe : si p est impair, il existe k ∈ ℤ tel que p = 2k + 1. Alors :
+Preuve directe : si $p$ est impair, il existe $k \in \mathbb{Z}$ tel que $p = 2k + 1$. Alors :
 
 $$p^2 = (2k+1)^2 = 4k^2 + 4k + 1 = 2(2k^2 + 2k) + 1$$
 
@@ -59,11 +59,11 @@ ce qui est bien impair. La contraposée est démontrée, donc l'implication orig
 
 ## 2. Les quatre cas en contexte mathématique
 
-| P | Q | P ⟹ Q | Usage | Exemple |
+| P | Q | $P \Rightarrow Q$ | Usage | Exemple |
 |---|---|--------|-------|---------|
-| V | V | V | Raisonnement direct | n pair ⟹ n² pair |
+| V | V | V | Raisonnement direct | $n$ pair $\Rightarrow$ $n^2$ pair |
 | V | F | F | Contre-exemple, réfutation | « tout premier est impair » : 2 est premier (V) mais pair (F) |
-| F | F | V | Raisonnement par l'absurde | √2 irrationnel |
+| F | F | V | Raisonnement par l'absurde | $\sqrt{2}$ irrationnel |
 | F | V | V | Aucun usage mathématique direct | — |
 
 ---
@@ -87,9 +87,9 @@ On est dans V → F : l'implication est fausse, la règle est réfutée. Un seul
 
 **Exemple 2 — réfutation : 0 n'a pas d'inverse :**
 
-Supposons qu'il existe x tel que 0 × x = 1.
-Or 0 × x = 0 pour tout x, donc 0 = 1.
-0 = 1 est faux par les axiomes de l'arithmétique, indépendamment de l'hypothèse.
+Supposons qu'il existe $x$ tel que $0 \times x = 1$.
+Or $0 \times x = 0$ pour tout $x$, donc $0 = 1$.
+$0 = 1$ est faux par les axiomes de l'arithmétique, indépendamment de l'hypothèse.
 Donc 0 n'a pas d'inverse.
 
 > La contradiction est **externe** : c'est le résultat lui-même qui est inadmissible, pas l'hypothèse qui se contredit.
@@ -102,23 +102,23 @@ On pose la **négation** de ce qu'on veut prouver, on raisonne correctement, et 
 
 Structure :
 
-$$\neg P \implies \text{étape 1} \implies \text{étape 2} \implies \ldots \implies \text{contradiction}$$
+$$\neg P \Rightarrow \text{étape 1} \Rightarrow \text{étape 2} \Rightarrow \ldots \Rightarrow \text{contradiction}$$
 
 > La contradiction est **interne** : elle n'existerait pas sans l'hypothèse de départ.
 
 ### Condition de validité du raisonnement par l'absurde
 
-C'est la condition la plus importante et la plus souvent négligée : la contradiction obtenue doit être **en relation directe et continue avec l'hypothèse ¬P**.
+C'est la condition la plus importante et la plus souvent négligée : la contradiction obtenue doit être **en relation directe et continue avec l'hypothèse $\neg P$**.
 
-Si à un moment de la chaîne on introduit un élément extérieur qui ne découle pas de ¬P, la contradiction éventuelle ne dit rien sur ¬P — elle dit seulement que cet élément extérieur est faux.
+Si à un moment de la chaîne on introduit un élément extérieur qui ne découle pas de $\neg P$, la contradiction éventuelle ne dit rien sur $\neg P$ — elle dit seulement que cet élément extérieur est faux.
 
 La chaîne doit être fermée :
 
-$$\neg P \implies \ldots \implies \text{contradiction}$$
+$$\neg P \Rightarrow \ldots \Rightarrow \text{contradiction}$$
 
 chaque flèche étant une conséquence rigoureuse de la précédente, sans ingrédient étranger.
 
-**Dans la démonstration de √2 :** la contradiction sur le pgcd est entièrement construite depuis ¬P. C'est parce qu'on a supposé √2 rationnel qu'on a pu écrire p/q, élever au carré, et dériver la parité de p puis de q. Sans ¬P, aucune de ces étapes n'existe.
+**Dans la démonstration de $\sqrt{2}$ :** la contradiction sur le $\text{pgcd}$ est entièrement construite depuis $\neg P$. C'est parce qu'on a supposé $\sqrt{2}$ rationnel qu'on a pu écrire $p/q$, élever au carré, et dériver la parité de $p$ puis de $q$. Sans $\neg P$, aucune de ces étapes n'existe.
 
 ---
 
@@ -148,25 +148,25 @@ On déduit des conséquences de cette hypothèse, étape par étape, chaque lign
 
 ---
 
-**Exemple sur √2 :**
+**Exemple sur $\sqrt{2}$ :**
 
 Raisonnons par l'absurde.
 
-Supposons que √2 soit rationnel. Il existe alors deux entiers p et q avec q ≠ 0 et pgcd(p, q) = 1 tels que √2 = p/q.
+Supposons que $\sqrt{2}$ soit rationnel. Il existe alors deux entiers $p$ et $q$ avec $q \neq 0$ et $\text{pgcd}(p, q) = 1$ tels que $\sqrt{2} = p/q$.
 
-En élevant au carré : p² = 2q². Donc p² est pair, ce qui implique que p est pair. Il existe donc un entier k tel que p = 2k.
+En élevant au carré : $p^2 = 2q^2$. Donc $p^2$ est pair, ce qui implique que $p$ est pair. Il existe donc un entier $k$ tel que $p = 2k$.
 
-En substituant : 4k² = 2q², soit q² = 2k². Donc q² est pair, ce qui implique que q est pair.
+En substituant : $4k^2 = 2q^2$, soit $q^2 = 2k^2$. Donc $q^2$ est pair, ce qui implique que $q$ est pair.
 
-p et q sont tous deux pairs, donc pgcd(p, q) ≥ 2, ce qui contredit pgcd(p, q) = 1.
+$p$ et $q$ sont tous deux pairs, donc $\text{pgcd}(p, q) \geq 2$, ce qui contredit $\text{pgcd}(p, q) = 1$.
 
-L'hypothèse de départ est donc fausse : √2 est irrationnel.
+L'hypothèse de départ est donc fausse : $\sqrt{2}$ est irrationnel.
 
 ---
 
 ## 5. Démonstrations classiques
 
-### Un nombre est divisible par 3 si sa somme de chiffres l'est (raisonnement direct)
+### Un entier est divisible par 3 si sa somme de chiffres l'est (raisonnement direct)
 
 **Propriété :** si la somme des chiffres d'un entier est divisible par 3, alors cet entier est divisible par 3.
 
@@ -190,7 +190,7 @@ Si $a + b + c$ est divisible par 3, alors ce reste est nul, donc $n$ est divisib
 
 **P :** « 2 est un nombre premier » → vrai, car 2 n'est divisible que par 1 et par lui-même.
 
-**Q :** « 2 est impair » → faux, car 2 = 2 × 1 est pair.
+**Q :** « 2 est impair » → faux, car $2 = 2 \times 1$ est pair.
 
 On est dans le cas V → F : l'implication est fausse, donc la règle est réfutée.
 
@@ -198,28 +198,28 @@ On est dans le cas V → F : l'implication est fausse, donc la règle est réfut
 
 ---
 
-### 1/3 n'est pas décimal (absurde)
+### $\frac{1}{3}$ n'est pas décimal (absurde)
 
-**Définition :** un nombre décimal s'écrit a/10ⁿ avec a ∈ ℤ et n ∈ ℕ.
+**Définition :** un nombre décimal s'écrit $\frac{a}{10^n}$ avec $a \in \mathbb{Z}$ et $n \in \mathbb{N}$.
 
-**¬P :** supposons que 1/3 soit décimal. Il existe donc a et n tels que 1/3 = a/10ⁿ.
+**$\neg P$ :** supposons que $\frac{1}{3}$ soit décimal. Il existe donc $a$ et $n$ tels que $\frac{1}{3} = \frac{a}{10^n}$.
 
-En multipliant : 10ⁿ = 3a, donc 3 divise 10ⁿ.
+En multipliant : $10^n = 3a$, donc 3 divise $10^n$.
 
-Or 10ⁿ = 2ⁿ × 5ⁿ, dont les seuls facteurs premiers sont 2 et 5. 3 ne divise jamais 10ⁿ.
+Or $10^n = 2^n \times 5^n$, dont les seuls facteurs premiers sont 2 et 5. 3 ne divise jamais $10^n$.
 
-**Contradiction** : 3 divise 10ⁿ et 3 ne divise pas 10ⁿ.
+**Contradiction** : 3 divise $10^n$ et 3 ne divise pas $10^n$.
 
 ---
 
 ### Il existe une infinité de nombres premiers (absurde)
 
-**¬P :** supposons qu'il n'existe qu'un nombre fini de nombres premiers : p₁, p₂, …, pₙ.
+**$\neg P$ :** supposons qu'il n'existe qu'un nombre fini de nombres premiers : $p_1, p_2, \ldots, p_n$.
 
-Construisons N = p₁ × p₂ × … × pₙ + 1.
+Construisons $N = p_1 \times p_2 \times \ldots \times p_n + 1$.
 
-N > 1 donc N admet au moins un diviseur premier p (théorème fondamental de l'arithmétique). Ce p doit figurer dans la liste. Mais diviser N par n'importe quel pᵢ laisse un reste de 1 — donc p ne divise pas N.
+$N > 1$ donc $N$ admet au moins un diviseur premier $p$ (théorème fondamental de l'arithmétique). Ce $p$ doit figurer dans la liste. Mais diviser $N$ par n'importe quel $p_i$ laisse un reste de 1 — donc $p$ ne divise pas $N$.
 
-**Contradiction :** p divise N et p ne divise pas N.
+**Contradiction :** $p$ divise $N$ et $p$ ne divise pas $N$.
 
-> Cette démonstration est due à Euclide (vers 300 av. J.-C.). Elle est un corollaire du théorème fondamental de l'arithmétique, dont elle utilise implicitement le résultat pour affirmer que N admet un diviseur premier.
+> Cette démonstration est due à Euclide (vers 300 av. J.-C.). Elle est un corollaire du théorème fondamental de l'arithmétique, dont elle utilise implicitement le résultat pour affirmer que $N$ admet un diviseur premier.
