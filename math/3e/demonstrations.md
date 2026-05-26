@@ -1,5 +1,7 @@
 # Démonstrations de fin de cycle 4
 
+[← Retour à l'index](../README.md)
+
 ## Table des matières
 
 - [1. Qu'est-ce que démontrer ?](#1-quest-ce-que-démontrer-)

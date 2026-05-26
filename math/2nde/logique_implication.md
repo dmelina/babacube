@@ -1,5 +1,7 @@
 # La logique de l'implication et les raisonnements mathématiques
 
+[← Retour à l'index](../README.md)
+
 ## 1. L'implication et sa table de vérité
 
 ### Définition
