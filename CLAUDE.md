@@ -8,6 +8,16 @@ Deux cours sont en cours de rédaction :
 - `math/seconde_logique_implication.md` : cours de logique pour une classe de seconde
 - `math/troisieme_demonstrations.md` : cours de démonstrations de fin de cycle 4
 
+## État d'avancement
+
+### math/troisieme_demonstrations.md
+Reste à faire en 5.6 Algèbre :
+- L'inverse de l'inverse : $(a^{-1})^{-1} = a$
+- L'inverse d'une fraction : $\left(\dfrac{a}{b}\right)^{-1} = \dfrac{b}{a}$
+- La division de deux fractions : $\dfrac{a/b}{c/d} = \dfrac{ad}{bc}$
+
+Note : dans la démonstration de Pythagore (5.3), le fait que les quatre triangles forment bien un carré central de côté $c$ est admis sans démonstration.
+
 ## Conventions LaTeX
 
 - Utiliser `$$...$$` pour les formules en bloc et `$...$` pour les formules en ligne
@@ -15,6 +25,7 @@ Deux cours sont en cours de rédaction :
 - Utiliser `\Rightarrow` pour les implications et `\Leftrightarrow` pour les équivalences
 - Utiliser `\dfrac` pour les fractions dans le texte courant
 - Utiliser `\mathbb{Z}^{\ast}` et non `\mathbb{Z}^*` — le `*` est interprété par GitHub comme de l'italique avant le rendu LaTeX
+- Utiliser `\mapsto` pour la notation $f : x \mapsto ax + b$
 
 ## Conventions de rédaction
 
@@ -22,8 +33,14 @@ Deux cours sont en cours de rédaction :
 - Les définitions précèdent toujours les démonstrations dans chaque sous-partie
 - Les théorèmes admis sont dans des blocs `>` avec le mot **admis** explicite
 - Les résultats hors programme sont signalés par un préambule `> **Hors programme :**`
+- Les ouvertures vers la seconde sont signalées par un préambule `> **Ouverture vers la seconde :**`
 - Ne jamais utiliser le mot `car` — lui préférer `comme` ou `puisque`
-- Ne jamais introduire un objet mathématique sans l'avoir initialisé
+- Ne jamais introduire un objet mathématique sans l'avoir initialisé — toujours commencer par « Soient $a$, $b$... »
+- Pas de bullet points dans les démonstrations — tout en prose
+- Utiliser la disjonction de cas pour les raisonnements sur la parité et le signe
+- Le mot « donc » et « on en déduit » introduisent une conclusion
+- Le mot « or » introduit un fait connu qui fait avancer le raisonnement
+- Les mots « puisque » et « comme » introduisent une hypothèse ou un résultat déjà démontré
 
 ## Structure des cours
 
