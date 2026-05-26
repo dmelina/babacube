@@ -950,6 +950,24 @@ Donc $\dfrac{a}{b} = a \times b^{-1}$.
 
 ---
 
+### L'inverse de l'inverse
+
+**Propriété :** pour tout réel $a \neq 0$ :
+
+$$(a^{-1})^{-1} = a$$
+
+Soit $a$ un réel non nul. On pose $b = a^{-1}$.
+
+Par définition de l'inverse, $b$ est le nombre tel que $a \times b = 1$.
+
+On cherche maintenant l'inverse de $b$, c'est-à-dire le nombre qui, multiplié par $b$, donne $1$. Or $a \times b = 1$, donc $a$ vérifie exactement cette condition.
+
+On en déduit : $(a^{-1})^{-1} = b^{-1} = a$.
+
+[↑ Table des matières](#table-des-matières)
+
+---
+
 ### L'équation du premier degré admet une unique solution
 
 **Propriété :** l'équation $ax + b = 0$ avec $a \neq 0$ admet une unique solution.
