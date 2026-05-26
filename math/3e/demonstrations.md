@@ -1,4 +1,4 @@
-# Cours Troisième — Démonstrations de fin de cycle 4
+# Démonstrations de fin de cycle 4
 
 ## Table des matières
 
