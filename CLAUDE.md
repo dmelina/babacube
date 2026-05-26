@@ -5,14 +5,14 @@
 Ce repo contient des cours de mathématiques en Markdown avec notation LaTeX.
 Deux cours sont en cours de rédaction :
 
-- `math/seconde_logique_implication.md` : cours de logique pour une classe de seconde
-- `math/troisieme_demonstrations.md` : cours de démonstrations de fin de cycle 4
+- `math/2nde/logique_implication.md` : cours de logique pour une classe de seconde
+- `math/3e/demonstrations.md` : cours de démonstrations de fin de cycle 4
 
 ## État d'avancement
 
-### math/troisieme_demonstrations.md
+### math/3e/demonstrations.md
 Reste à faire en 5.6 Algèbre :
-- L'inverse de l'inverse : $(a^{-1})^{-1} = a$
+- ✅ L'inverse de l'inverse : $(a^{-1})^{-1} = a$
 - L'inverse d'une fraction : $\left(\dfrac{a}{b}\right)^{-1} = \dfrac{b}{a}$
 - La division de deux fractions : $\dfrac{a/b}{c/d} = \dfrac{ad}{bc}$
 
@@ -44,14 +44,14 @@ Note : dans la démonstration de Pythagore (5.3), le fait que les quatre triangl
 
 ## Structure des cours
 
-### math/seconde_logique_implication.md
+### math/2nde/logique_implication.md
 1. L'implication et sa table de vérité
 2. Les quatre cas en contexte mathématique
 3. Les types de raisonnement
 4. Rédaction type d'un raisonnement par l'absurde
 5. Démonstrations classiques
 
-### math/troisieme_demonstrations.md
+### math/3e/demonstrations.md
 1. Qu'est-ce que démontrer ?
 2. Rédaction type d'un raisonnement direct
 3. Conventions d'écriture
