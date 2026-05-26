@@ -856,9 +856,9 @@ $$P(A \cup B) = P(A) - P(A \cap B) + P(A \cap B) + P(B) - P(A \cap B) = P(A) + P
 
 ### Définitions
 
-- Un nombre **rationnel** est un nombre qui peut s'écrire sous la forme $\dfrac{p}{q}$ avec $p \in \mathbb{Z}$ et $q \in \mathbb{Z}^*$. L'ensemble des rationnels est noté $\mathbb{Q}$.
+- Un nombre **rationnel** est un nombre qui peut s'écrire sous la forme $\dfrac{p}{q}$ avec $p \in \mathbb{Z}$ et $q \in \mathbb{Z}^{\ast}$. L'ensemble des rationnels est noté $\mathbb{Q}$.
 
-> $\mathbb{Z}^*$ désigne les entiers non nuls, le symbole * signifie « privé de zéro », on note $\mathbb{Z}^* = \mathbb{Z} \setminus \{0\}$. Tout entier est un rationnel puisqu'on peut écrire $n = \dfrac{n}{1}$, donc $\mathbb{Z} \subset \mathbb{Q}$.
+> $\mathbb{Z}^{\ast}$ désigne les entiers non nuls, le symbole * signifie « privé de zéro », on note $\mathbb{Z}^{\ast} = \mathbb{Z} \setminus \{0\}$. Tout entier est un rationnel puisqu'on peut écrire $n = \dfrac{n}{1}$, donc $\mathbb{Z} \subset \mathbb{Q}$.
 
 - Le **quotient** $\dfrac{a}{b}$ avec $b \neq 0$ est le nombre qui, multiplié par $b$, donne $a$. Autrement dit :
 
