@@ -1,0 +1,47 @@
+# CLAUDE.md
+
+## Contexte du projet
+
+Ce repo contient des cours de mathématiques en Markdown avec notation LaTeX.
+Deux cours sont en cours de rédaction :
+
+- `math/seconde_logique_implication.md` : cours de logique pour une classe de seconde
+- `math/troisieme_demonstrations.md` : cours de démonstrations de fin de cycle 4
+
+## Conventions LaTeX
+
+- Utiliser `$$...$$` pour les formules en bloc et `$...$` pour les formules en ligne
+- Utiliser `\text{pgcd}` et non `\pgcd`
+- Utiliser `\Rightarrow` pour les implications et `\Leftrightarrow` pour les équivalences
+- Utiliser `\dfrac` pour les fractions dans le texte courant
+- Utiliser `\mathbb{Z}^{\ast}` et non `\mathbb{Z}^*` — le `*` est interprété par GitHub comme de l'italique avant le rendu LaTeX
+
+## Conventions de rédaction
+
+- Chaque démonstration se termine par une ancre `[↑ Table des matières](#table-des-matières)`
+- Les définitions précèdent toujours les démonstrations dans chaque sous-partie
+- Les théorèmes admis sont dans des blocs `>` avec le mot **admis** explicite
+- Les résultats hors programme sont signalés par un préambule `> **Hors programme :**`
+- Ne jamais utiliser le mot `car` — lui préférer `comme` ou `puisque`
+- Ne jamais introduire un objet mathématique sans l'avoir initialisé
+
+## Structure des cours
+
+### math/seconde_logique_implication.md
+1. L'implication et sa table de vérité
+2. Les quatre cas en contexte mathématique
+3. Les types de raisonnement
+4. Rédaction type d'un raisonnement par l'absurde
+5. Démonstrations classiques
+
+### math/troisieme_demonstrations.md
+1. Qu'est-ce que démontrer ?
+2. Rédaction type d'un raisonnement direct
+3. Conventions d'écriture
+4. Erreurs classiques à éviter
+5. Démonstrations (5.1 Arithmétique, 5.2 Proportionnalité, 5.3 Géométrie, 5.4 Fonctions, 5.5 Probabilités, 5.6 Algèbre, 5.7 Statistiques)
+
+## Conventions git
+
+- Préfixe `docs:` pour les commits sur les cours
+- Messages de commit en français
