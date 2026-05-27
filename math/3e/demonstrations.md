@@ -1237,6 +1237,10 @@ On en déduit que $x$ est entièrement déterminé par $a$ et $b$ — il n'y a q
 
 $$\bar{x} = \frac{x_1 + x_2 + \ldots + x_n}{n} = \frac{1}{n}\sum_{i=1}^{n} x_i$$
 
+> **Note — le symbole $\sum$ :** la lettre grecque sigma majuscule $\Sigma$ est utilisée en mathématiques pour désigner une somme. La notation $\displaystyle\sum_{i=1}^{n} x_i$ se lit « somme des $x_i$ pour $i$ allant de $1$ à $n$ » et désigne $x_1 + x_2 + \cdots + x_n$. L'indice $i$ prend successivement les valeurs $1, 2, \ldots, n$.
+>
+> **Exemple :** $\displaystyle\sum_{i=1}^{4} i = 1 + 2 + 3 + 4 = 10$.
+
 - La **médiane** est la valeur qui partage la série ordonnée en deux groupes de même effectif. Si $n$ est pair, c'est la moyenne des deux valeurs centrales.
 
 - L'**étendue** est la différence entre la valeur maximale et la valeur minimale :
