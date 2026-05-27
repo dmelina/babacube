@@ -11,10 +11,10 @@ Deux cours sont en cours de rédaction :
 ## État d'avancement
 
 ### math/3e/demonstrations.md
-Reste à faire en 5.6 Algèbre :
+Section 5.6 Algèbre complète :
 - ✅ L'inverse de l'inverse : $(a^{-1})^{-1} = a$
-- L'inverse d'une fraction : $\left(\dfrac{a}{b}\right)^{-1} = \dfrac{b}{a}$
-- La division de deux fractions : $\dfrac{a/b}{c/d} = \dfrac{ad}{bc}$
+- ✅ L'inverse d'une fraction : $\left(\dfrac{a}{b}\right)^{-1} = \dfrac{b}{a}$
+- ✅ La division de deux fractions : $\dfrac{a/b}{c/d} = \dfrac{ad}{bc}$
 
 Note : dans la démonstration de Pythagore (5.3), le fait que les quatre triangles forment bien un carré central de côté $c$ est admis sans démonstration.
 

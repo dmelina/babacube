@@ -1165,6 +1165,48 @@ $$\boxed{(a^{-1})^{-1} = a}$$
 
 ---
 
+### L'inverse d'une fraction
+
+**Propriété :** pour tous entiers $a$ et $b$ avec $a \neq 0$ et $b \neq 0$ :
+
+$$\left(\frac{a}{b}\right)^{-1} = \frac{b}{a}$$
+
+Soient $a$, $b$ deux entiers non nuls. On cherche l'inverse de $\dfrac{a}{b}$, c'est-à-dire le nombre qui, multiplié par $\dfrac{a}{b}$, donne $1$.
+
+Or, par la propriété de multiplication de deux fractions :
+
+$$\frac{a}{b} \times \frac{b}{a} = \frac{a \times b}{b \times a} = \frac{ab}{ab} = 1$$
+
+Puisque $\dfrac{a}{b} \times \dfrac{b}{a} = 1$, la fraction $\dfrac{b}{a}$ est bien l'inverse de $\dfrac{a}{b}$, donc :
+
+$$\boxed{\left(\frac{a}{b}\right)^{-1} = \frac{b}{a}}$$
+
+[↑ Table des matières](#table-des-matières)
+
+---
+
+### La division de deux fractions
+
+**Propriété :** pour tous entiers $a$, $b$, $c$, $d$ avec $b \neq 0$, $c \neq 0$ et $d \neq 0$ :
+
+$$\frac{a}{b} \div \frac{c}{d} = \frac{ad}{bc}$$
+
+Soient $a$, $b$, $c$, $d$ des entiers avec $b \neq 0$, $c \neq 0$ et $d \neq 0$. Par définition, diviser par $\dfrac{c}{d}$ revient à multiplier par son inverse. Or, par la propriété de l'inverse d'une fraction, $\left(\dfrac{c}{d}\right)^{-1} = \dfrac{d}{c}$, donc :
+
+$$\frac{a}{b} \div \frac{c}{d} = \frac{a}{b} \times \left(\frac{c}{d}\right)^{-1} = \frac{a}{b} \times \frac{d}{c}$$
+
+Or, par la propriété de multiplication de deux fractions :
+
+$$\frac{a}{b} \times \frac{d}{c} = \frac{a \times d}{b \times c} = \frac{ad}{bc}$$
+
+On en déduit :
+
+$$\boxed{\frac{a}{b} \div \frac{c}{d} = \frac{ad}{bc}}$$
+
+[↑ Table des matières](#table-des-matières)
+
+---
+
 ### L'équation du premier degré admet une unique solution
 
 **Propriété :** l'équation $ax + b = 0$ avec $a \neq 0$ admet une unique solution.
