@@ -65,44 +65,74 @@ On enchaîne les propriétés, théorèmes et calculs, chaque ligne découlant r
 
 ## 3. Conventions d'écriture
 
-Ces conventions ne sont pas des règles arbitraires — elles sont le fruit d'un consensus entre mathématiciens pour rendre les écrits clairs, lisibles et sans ambiguïté. Les respecter c'est parler le même langage que toute la communauté mathématique.
+Ces conventions ne sont pas des règles arbitraires, elles sont le fruit d'un consensus entre mathématiciens pour rendre les écrits clairs, lisibles et sans ambiguïté. Les respecter c'est parler le même langage que toute la communauté mathématique.
 
 ---
 
-- **Toujours réduire les fractions.** Une fraction doit toujours être présentée sous sa forme irréductible. On écrit $\dfrac{1}{2}$ et non $\dfrac{4}{8}$.
+- **Toujours réduire les fractions.**
 
-- **Encadrer ou souligner le résultat final.** Le résultat d'une démonstration ou d'un calcul doit être mis en évidence — encadré, souligné, ou précédé de « donc ». Le lecteur doit identifier immédiatement la conclusion.
+  Une fraction doit toujours être présentée sous sa forme irréductible. On écrit $\dfrac{1}{2}$ et non $\dfrac{4}{8}$.
 
-- **Ne jamais laisser de racine au dénominateur.** On écrit $\dfrac{\sqrt{2}}{2}$ et non $\dfrac{1}{\sqrt{2}}$. On rationalise le dénominateur en multipliant par $\dfrac{\sqrt{2}}{\sqrt{2}}$.
+- **Encadrer ou souligner le résultat final.**
 
-- **Ne jamais laisser de fraction dans une fraction.** $\dfrac{\dfrac{a}{b}}{c}$ s'écrit $\dfrac{a}{bc}$.
+  Le résultat d'une démonstration ou d'un calcul doit être mis en évidence: encadré, souligné, ou précédé de « donc ». Le lecteur doit identifier immédiatement la conclusion.
 
-- **Ne pas écrire $\times$ devant une lettre.** On écrit $2x$ et non $2 \times x$. Le signe $\times$ est réservé aux produits entre nombres.
+- **Ne jamais laisser de racine au dénominateur.**
 
-- **Ne pas commencer une phrase par un symbole mathématique.** On écrit « Donc la solution est : $x = 2$ » et non « $x = 2$ est la solution ».
+  On écrit $\dfrac{\sqrt{2}}{2}$ et non $\dfrac{1}{\sqrt{2}}$. On rationalise le dénominateur en multipliant par $\dfrac{\sqrt{2}}{\sqrt{2}}$ :
 
-- **Justifier chaque étape.** Chaque ligne d'une démonstration doit être accompagnée de sa justification : « par le théorème de Pythagore », « par définition de la parité », « par hypothèse ». Une étape non justifiée n'est pas une démonstration.
+  $$\dfrac{1}{\sqrt{2}} = \dfrac{1}{\sqrt{2}} \times \dfrac{\sqrt{2}}{\sqrt{2}} = \dfrac{\sqrt{2}}{\sqrt{2} \times \sqrt{2}} = \dfrac{\sqrt{2}}{2}$$
 
-- **Ne pas sauter d'étapes.** Chaque ligne doit découler explicitement de la précédente. Ce qui semble évident à l'auteur ne l'est pas forcément au lecteur.
+- **Ne jamais laisser de fraction dans une fraction.**
 
-- **Utiliser les bons connecteurs logiques.** Les connecteurs structurent le raisonnement et indiquent au lecteur ce qui se passe :
-  - « **donc** » et « **on en déduit** » introduisent une **conclusion**
+  $\dfrac{\enspace\dfrac{a}{b}\enspace}{c}$ s'écrit $\dfrac{a}{bc}$.
+
+- **Ne pas écrire $\times$ devant une lettre.**
+
+  On écrit $2x$ et non $2 \times x$. Le signe $\times$ est réservé aux produits entre nombres.
+
+- **Ne pas commencer une phrase par un symbole mathématique.**
+
+  On n'écrit pas « $\sqrt{2}$ est irrationnel. » mais « On en déduit que $\sqrt{2}$ est irrationnel. »
+
+- **Justifier chaque étape.**
+
+  Chaque ligne d'une démonstration doit être accompagnée de sa justification : « par le théorème de Pythagore », « par définition de la parité », « par hypothèse ». Une étape non justifiée n'est pas une démonstration.
+
+- **Ne pas sauter d'étapes.**
+
+  Chaque ligne doit découler explicitement de la précédente. Ce qui semble évident à l'auteur ne l'est pas forcément au lecteur.
+
+- **Utiliser les bons connecteurs logiques.**
+
+  Les connecteurs structurent le raisonnement et indiquent au lecteur ce qui se passe :
+  - « **donc** » et « **on en déduit** » introduisent une **conséquence** (intermédiaire ou finale)
   - « **or** » introduit un **fait connu ou établi** qui fait avancer le raisonnement
   - « **puisque** » et « **comme** » introduisent une **hypothèse** ou un résultat déjà démontré
 
-- **Distinguer $\Rightarrow$ et $\Leftrightarrow$.** Le symbole $\Rightarrow$ signifie « implique » — le raisonnement va dans un seul sens. Le symbole $\Leftrightarrow$ signifie « équivaut à » — le raisonnement est valide dans les deux sens et donne directement la réciproque. Utiliser $\Leftrightarrow$ quand on peut, c'est démontrer plus en écrivant moins.
+- **Distinguer $\Rightarrow$ et $\Leftrightarrow$.**
+
+  Le symbole $\Rightarrow$ signifie « implique », le raisonnement va dans un seul sens. Le symbole $\Leftrightarrow$ signifie « équivaut à » ou « si et seulement si », le raisonnement est valide dans les deux sens et donne directement la réciproque.
 
 ---
 
 ## 4. Erreurs classiques à éviter
 
-**Vérifier n'est pas démontrer.** Montrer que la propriété est vraie pour $n = 2$, $n = 4$ et $n = 6$ ne prouve rien en général.
+- **Vérifier n'est pas démontrer.**
 
-**Ne pas confondre les deux sens d'une implication.** Démontrer que $n$ pair $\Rightarrow$ $n^2$ pair ne démontre pas que $n^2$ pair $\Rightarrow$ $n$ pair (même si c'est vrai, il faut une démonstration séparée).
+  Montrer que la propriété est vraie pour $n = 2$, $n = 4$ et $n = 6$ ne prouve rien en général.
 
-**Toujours poser les objets.** Écrire « soit $n$ un entier pair, il existe $k$ tel que $n = 2k$ » avant tout calcul. Ne jamais partir directement de $n = 2k$ sans avoir introduit $k$.
+- **Ne pas confondre les deux sens d'une implication.**
 
-**Conclure explicitement.** La dernière ligne doit toujours énoncer clairement ce qu'on vient de prouver.
+  Démontrer que $n$ pair $\Rightarrow$ $n^2$ pair ne démontre pas que $n^2$ pair $\Rightarrow$ $n$ pair (même si c'est vrai, il faut une démonstration séparée).
+
+- **Toujours initialiser les objets.**
+
+  Écrire « soit $n$ un entier pair, il existe $k$ tel que $n = 2k$ » avant tout calcul. Ne jamais partir directement de $n = 2k$ sans avoir introduit $n$ et $k$.
+
+- **Conclure explicitement.**
+
+  La dernière ligne doit toujours énoncer clairement ce qu'on vient de prouver.
 
 
 [↑ Table des matières](#table-des-matières)
@@ -131,13 +161,15 @@ Ces conventions ne sont pas des règles arbitraires — elles sont le fruit d'un
 
 **Propriété :** si $a$ et $b$ sont deux entiers pairs, alors $a + b$ est pair.
 
-Soit $a$ et $b$ deux entiers pairs. Il existe donc deux entiers $j$ et $k$ tels que $a = 2j$ et $b = 2k$.
+Soit $a$ et $b$ deux entiers pairs. Il existe donc deux entiers $k$ et $k'$ tels que $a = 2k$ et $b = 2k'$.
 
 Alors :
 
-$$a + b = 2j + 2k = 2(j + k)$$
+$$a + b = 2k + 2k' = 2(k + k')$$
 
-$j + k$ est un entier, donc $a + b$ est de la forme $2 \times \text{entier}$ : $a + b$ est pair.
+Or $k + k'$ est un entier, donc :
+
+$$\boxed{a + b \text{ est pair}}$$
 
 
 [↑ Table des matières](#table-des-matières)
@@ -148,13 +180,15 @@ $j + k$ est un entier, donc $a + b$ est de la forme $2 \times \text{entier}$ : $
 
 **Propriété :** si $a$ et $b$ sont deux entiers impairs, alors $a + b$ est pair.
 
-Soit $a$ et $b$ deux entiers impairs. Il existe donc deux entiers $j$ et $k$ tels que $a = 2j + 1$ et $b = 2k + 1$.
+Soit $a$ et $b$ deux entiers impairs. Il existe donc deux entiers $k$ et $k'$ tels que $a = 2k + 1$ et $b = 2k' + 1$.
 
 Alors :
 
-$$a + b = (2j + 1) + (2k + 1) = 2j + 2k + 2 = 2(j + k + 1)$$
+$$a + b = (2k + 1) + (2k' + 1) = 2k + 2k' + 2 = 2(k + k' + 1)$$
 
-$j + k + 1$ est un entier, donc $a + b$ est pair.
+Or $k + k' + 1$ est un entier, donc :
+
+$$\boxed{a + b \text{ est pair}}$$
 
 
 [↑ Table des matières](#table-des-matières)
@@ -171,7 +205,9 @@ Alors :
 
 $$n^2 = (2k+1)^2 = 4k^2 + 4k + 1 = 2(2k^2 + 2k) + 1$$
 
-$2k^2 + 2k$ est un entier, donc $n^2$ est de la forme $2 \times \text{entier} + 1$ : $n^2$ est impair.
+Or $2k^2 + 2k$ est un entier, donc :
+
+$$\boxed{n^2 \text{ est impair}}$$
 
 
 [↑ Table des matières](#table-des-matières)
@@ -186,11 +222,31 @@ $2k^2 + 2k$ est un entier, donc $n^2$ est de la forme $2 \times \text{entier} + 
 
 Deux cas se présentent :
 
-**Cas 1 :** $n$ est pair. Il existe un entier $k$ tel que $n = 2k$, donc $n(n+1) = 2k(n+1)$, qui est pair.
+**Cas 1 :** supposons $n$ pair. Il existe un entier $k$ tel que $n = 2k$. 
 
-**Cas 2 :** $n$ est impair. Alors $n + 1$ est pair, il existe un entier $k$ tel que $n+1 = 2k$, donc $n(n+1) = 2kn$, qui est pair.
+Alors :
 
-Dans les deux cas, $n(n+1)$ est pair.
+$$n(n+1) = 2k(n+1)$$
+
+Or $k(n+1)$ est un entier, donc $\underline{n(n+1) \text{ est pair}}$.
+
+**Cas 2 :** supposons $n$ impair. Il existe un entier $k'$ tel que: 
+
+$$n = 2k'+1$$
+
+Donc : 
+
+$$n+1 = 2k'+2 = 2(k'+1)$$
+
+Alors :
+
+$$n(n+1) = n \times 2(k'+1) = 2n(k'+1)$$
+
+Or $n(k'+1)$ est un entier, donc $\underline{n(n+1) \text{ est pair}}$.
+
+Dans les deux cas :
+
+$$\boxed{n(n+1) \text{ est pair}}$$
 
 
 [↑ Table des matières](#table-des-matières)
@@ -205,7 +261,7 @@ Il suffit de montrer que $n(n+1)(n+2)$ est à la fois divisible par 2 et par 3.
 
 **Divisibilité par 2 :** $n(n+1)$ est le produit de deux entiers consécutifs, donc il est pair d'après la propriété précédente. Donc $n(n+1)(n+2)$ est divisible par 2.
 
-**Divisibilité par 3 :** par la division euclidienne, tout entier $n$ divisé par 3 donne un reste qui est forcément 0, 1 ou 2 — s'il était 3 ou plus, on pourrait encore diviser. Donc tout entier $n$ s'écrit sous l'une des trois formes $3k$, $3k+1$ ou $3k+2$. On examine chaque cas :
+**Divisibilité par 3 :** par la division euclidienne, tout entier $n$ divisé par 3 donne un reste qui est forcément 0, 1 ou 2. S'il était 3 ou plus, on pourrait encore diviser. Donc tout entier $n$ s'écrit sous l'une des trois formes $3k$, $3k+1$ ou $3k+2$. On examine chaque cas :
 
 - Si $n = 3k$ : alors $n$ est divisible par 3.
 - Si $n = 3k + 1$ : alors $n + 2 = 3k + 3 = 3(k+1)$, qui est divisible par 3.
@@ -213,30 +269,11 @@ Il suffit de montrer que $n(n+1)(n+2)$ est à la fois divisible par 2 et par 3.
 
 Dans les trois cas, l'un des trois entiers consécutifs est divisible par 3, donc leur produit l'est aussi.
 
-$n(n+1)(n+2)$ est divisible par 2 et par 3, donc divisible par $2 \times 3 = 6$.
+On en déduit que $n(n+1)(n+2)$ est divisible par 2 et par 3, donc :
+
+$$\boxed{n(n+1)(n+2) \text{ est divisible par } 6}$$
 
 > 2 et 3 sont deux nombres premiers distincts, ils ne partagent aucun facteur commun. On peut donc bien conclure que le produit $2 \times 3 = 6$ divise $n(n+1)(n+2)$. Ce résultat sera formalisé plus tard par le **théorème de Gauss**.
-
-
-[↑ Table des matières](#table-des-matières)
-
----
-
-### Critère de divisibilité par 2
-
-**Propriété :** un entier est divisible par 2 si et seulement si son dernier chiffre est 0, 2, 4, 6 ou 8.
-
-Prenons un entier à deux chiffres $n = 10a + b$ où $a$ est le chiffre des dizaines et $b$ le chiffre des unités. On réécrit :
-
-$$n = 10a + b = 2(5a) + b$$
-
-$2(5a)$ est un multiple de 2 et ne contribue pas au reste dans la division par 2. Donc $n$ et $b$ ont le même reste dans la division par 2.
-
-$n$ est divisible par 2 si et seulement si $b$ est divisible par 2, c'est-à-dire si $b \in \{0, 2, 4, 6, 8\}$.
-
-**Exemple :** $n = 74$, le dernier chiffre est 4, qui est pair, donc 74 est divisible par 2. ✓
-
-> Comme pour la divisibilité par 3, la démonstration est menée sur un entier à deux chiffres pour simplifier la lecture, mais le raisonnement se généralise à tout entier quel que soit son nombre de chiffres.
 
 
 [↑ Table des matières](#table-des-matières)
@@ -249,7 +286,11 @@ $n$ est divisible par 2 si et seulement si $b$ est divisible par 2, c'est-à-dir
 
 $$n + (n+1) + (n+2) = 3n + 3 = 3(n+1)$$
 
-$n + 1$ est un entier, donc $3(n+1)$ est divisible par 3.
+Or $n + 1$ est un entier, donc :
+
+$$\boxed{3(n+1) \text{ est divisible par } 3}$$
+
+> Comme pour la divisibilité par 2, la démonstration est menée sur un entier à deux chiffres pour simplifier la lecture, mais le raisonnement se généralise à tout entier quel que soit son nombre de chiffres.
 
 
 [↑ Table des matières](#table-des-matières)
@@ -264,7 +305,132 @@ Alors :
 
 $$n^2 = (2k)^2 = 4k^2$$
 
-$k^2$ est un entier, donc $n^2 = 4k^2$ est divisible par 4.
+Or $k^2$ est un entier, donc :
+
+$$\boxed{n^2 \text{ est divisible par } 4}$$
+
+
+[↑ Table des matières](#table-des-matières)
+
+---
+
+### Critère de divisibilité par 2
+
+**Propriété :** un entier est divisible par 2 si et seulement si son dernier chiffre est 0, 2, 4, 6 ou 8.
+
+Prenons un entier à deux chiffres $n = 10a + b$ où $a$ est le chiffre des dizaines et $b$ le chiffre des unités. On réécrit :
+
+$$n = 10a + b = 2(5a) + b$$
+
+Or $2(5a)$ est un multiple de 2 et ne contribue pas au reste dans la division par 2, donc $n$ et $b$ ont le même reste dans la division par 2.
+
+On en déduit que $n$ est divisible par 2 si et seulement si $b$ est divisible par 2, c'est-à-dire :
+
+$$\boxed{b \in \{0, 2, 4, 6, 8\}}$$
+
+**Exemple :** $n = 74$, le dernier chiffre est 4, qui est pair, donc 74 est divisible par 2. ✓
+
+[↑ Table des matières](#table-des-matières)
+
+---
+
+### Critère de divisibilité par 3
+
+**Propriété :** un entier est divisible par 3 si et seulement si la somme de ses chiffres est divisible par 3.
+
+Prenons un entier à trois chiffres $n = 100a + 10b + c$ où $a$, $b$, $c$ sont ses chiffres. On réécrit :
+
+$$n = 99a + 9b + (a + b + c) = 3(33a + 3b) + (a + b + c)$$
+
+Or $3(33a + 3b)$ est un multiple de 3 et ne contribue pas au reste dans la division par 3, donc $n$ et $a + b + c$ ont le même reste dans la division par 3.
+
+On en déduit que $n$ est divisible par 3 si et seulement si :
+
+$$\boxed{a + b + c \text{ est divisible par } 3}$$
+
+**Exemple :** $n = 123$, somme des chiffres $= 1 + 2 + 3 = 6$, divisible par 3, donc 123 est divisible par 3. ✓
+
+**Exemple :** $n = 457$, somme des chiffres $= 4 + 5 + 7 = 16$, non divisible par 3, donc 457 n'est pas divisible par 3. ✓
+
+> Comme pour les autres critères, la démonstration est menée sur un entier à trois chiffres, mais le raisonnement se généralise à tout entier quel que soit son nombre de chiffres.
+
+
+[↑ Table des matières](#table-des-matières)
+
+---
+
+### Critère de divisibilité par 5
+
+**Propriété :** un entier est divisible par 5 si et seulement si son dernier chiffre est 0 ou 5.
+
+Prenons un entier à deux chiffres $n = 10a + b$ où $a$ est le chiffre des dizaines et $b$ le chiffre des unités. On réécrit :
+
+$$n = 10a + b = 5(2a) + b$$
+
+Or $5(2a)$ est un multiple de 5 et ne contribue pas au reste dans la division par 5, donc $n$ et $b$ ont le même reste dans la division par 5.
+
+On en déduit que $n$ est divisible par 5 si et seulement si $b$ est divisible par 5, c'est-à-dire :
+
+$$\boxed{b \in \{0, 5\}}$$
+
+**Exemple :** $n = 85$, le dernier chiffre est 5, donc 85 est divisible par 5. ✓
+
+**Exemple :** $n = 73$, le dernier chiffre est 3, donc 73 n'est pas divisible par 5. ✓
+
+> Comme pour les autres critères, la démonstration est menée sur un entier à trois chiffres, mais le raisonnement se généralise à tout entier quel que soit son nombre de chiffres.
+
+
+[↑ Table des matières](#table-des-matières)
+
+---
+
+### Critère de divisibilité par 7 (admis)
+
+> **Hors programme :** ce critère ne figure pas au programme de troisième. La règle existe, mais sa démonstration repose sur des propriétés de congruences qui dépassent le cadre d'un raisonnement direct tel que présenté dans ce cours. Elle ne sera pas démontrée ici.
+
+**Règle :** on retire le dernier chiffre du nombre, on le double, et on soustrait ce résultat au nombre restant. On répète l'opération jusqu'à obtenir un nombre dont la divisibilité par 7 est évidente. Le nombre de départ est divisible par 7 si et seulement si le résultat final l'est.
+
+**Exemple 1 :** $n = 343$.
+
+- On retire le dernier chiffre : $34$ | $3$
+- On double le dernier chiffre : $2 \times 3 = 6$
+- On soustrait : $34 - 6 = 28 = 4 \times 7$ ✓
+
+Donc 343 est divisible par 7.
+
+**Exemple 2 :** $n = 2\,401$.
+
+- On retire le dernier chiffre : $240$ | $1$
+- On double le dernier chiffre : $2 \times 1 = 2$
+- On soustrait : $240 - 2 = 238$
+- On recommence : $23$ | $8$ → $2 \times 8 = 16$ → $23 - 16 = 7$ ✓
+
+Donc 2 401 est divisible par 7.
+
+
+[↑ Table des matières](#table-des-matières)
+
+---
+
+### Critère de divisibilité par 10
+
+**Propriété :** un entier est divisible par 10 si et seulement si son dernier chiffre est 0.
+
+Prenons un entier à deux chiffres $n = 10a + b$ où $a$ est le chiffre des dizaines et $b$ le chiffre des unités. On réécrit :
+
+$$n = 10a + b$$
+
+Or $10a$ est un multiple de 10 et ne contribue pas au reste dans la division par 10, donc $n$ et $b$ ont le même reste dans la division par 10.
+
+On en déduit que $n$ est divisible par 10 si et seulement si :
+
+$$\boxed{b = 0}$$
+
+**Exemple :** $n = 370$, le dernier chiffre est 0, donc 370 est divisible par 10. ✓
+
+**Exemple :** $n = 75$, le dernier chiffre est 5, donc 75 n'est pas divisible par 10. ✓
+
+> On peut aussi retrouver ce résultat en combinant les critères par 2 et par 5 : un entier est divisible par 10 si et seulement si il est divisible par 2 **et** par 5, c'est-à-dire si son dernier chiffre est à la fois dans $\{0,2,4,6,8\}$ et dans $\{0,5\}$, ce qui donne uniquement $\{0\}$.
 
 
 [↑ Table des matières](#table-des-matières)
@@ -273,15 +439,19 @@ $k^2$ est un entier, donc $n^2 = 4k^2$ est divisible par 4.
 
 ### Critère de divisibilité par 11
 
+> **Hors programme :** ce critère ne figure pas au programme de troisième, mais la démonstration est accessible et la règle est suffisamment surprenante pour mériter qu'on s'y arrête.
+
 **Propriété :** un entier est divisible par 11 si et seulement si sa somme alternée de chiffres est divisible par 11.
 
 Prenons un entier à trois chiffres $n = 100a + 10b + c$. On réécrit :
 
 $$n = 99a + 11b + (a - b + c) = 11(9a + b) + (a - b + c)$$
 
-$11(9a + b)$ est un multiple de 11 et ne contribue pas au reste dans la division par 11. Donc $n$ et $a - b + c$ ont le même reste dans la division par 11.
+Or $11(9a + b)$ est un multiple de 11 et ne contribue pas au reste dans la division par 11, donc $n$ et $a - b + c$ ont le même reste dans la division par 11.
 
-$n$ est divisible par 11 si et seulement si $a - b + c$ est divisible par 11.
+On en déduit que $n$ est divisible par 11 si et seulement si :
+
+$$\boxed{a - b + c \text{ est divisible par } 11}$$
 
 **Exemple :** $n = 253$, somme alternée $= 2 - 5 + 3 = 0$, divisible par 11, donc 253 est divisible par 11. ✓
 
@@ -298,7 +468,7 @@ $n$ est divisible par 11 si et seulement si $a - b + c$ est divisible par 11.
 
 **Affirmation à réfuter :** tout carré est pair.
 
-$3$ est un entier et $3^2 = 9$, qui est impair.
+Prenons $n = 3$ : on a $3^2 = 9$, qui est impair.
 
 On a trouvé un entier dont le carré est impair : l'affirmation est fausse.
 
@@ -310,6 +480,8 @@ On a trouvé un entier dont le carré est impair : l'affirmation est fausse.
 ---
 
 ### Somme des $n$ premiers entiers
+
+> **Hors programme :** cette formule ne figure pas au programme de troisième. Elle sera redémontrée en classe de première dans le cadre des suites arithmétiques. La démonstration présentée ici, dite « par double écriture », est accessible dès le collège et constitue un bel exemple de raisonnement élégant.
 
 **Propriété :** la somme des $n$ premiers entiers vaut $\dfrac{n(n+1)}{2}$.
 
@@ -328,7 +500,7 @@ Chaque paire vaut $n+1$, et il y a $n$ paires, donc :
 
 $$2S = n(n+1)$$
 
-$$S = \frac{n(n+1)}{2}$$
+$$\boxed{S = \dfrac{n(n+1)}{2}}$$
 
 **Exemple :** $1 + 2 + \ldots + 100 = \dfrac{100 \times 101}{2} = 5050$. ✓
 
@@ -363,7 +535,7 @@ On multiplie les deux membres par $b \times d$, qui est non nul :
 
 $$\frac{a}{b} \times b \times d = \frac{c}{d} \times b \times d$$
 
-$$ad = bc$$
+$$\boxed{ad = bc}$$
 
 **Réciproque :** soient $a$, $c$ des réels et $b$, $d$ des réels non nuls. Si $ad = bc$ alors $\dfrac{a}{b} = \dfrac{c}{d}$.
 
@@ -371,7 +543,7 @@ On part de $ad = bc$. On divise les deux membres par $b \times d$, qui est non n
 
 $$\frac{ad}{bd} = \frac{bc}{bd}$$
 
-$$\frac{a}{b} = \frac{c}{d}$$
+$$\boxed{\dfrac{a}{b} = \dfrac{c}{d}}$$
 
 > Le produit en croix n'est pas une règle magique — c'est simplement la conséquence d'une multiplication puis d'une division par $bd$.
 
@@ -427,7 +599,7 @@ Le rapport $\dfrac{\lambda b}{\lambda a}$ vaut $k$, donc la colonne $(\lambda a,
 |---|---|---|
 | Images | 6 | **24** |
 
-$8 = 4 \times 2$ et $24 = 4 \times 6$, et $\dfrac{24}{8} = 3 = k$. ✓
+On vérifie : $8 = 4 \times 2$ et $24 = 4 \times 6$, et $\dfrac{24}{8} = 3 = k$. ✓
 
 
 [↑ Table des matières](#table-des-matières)
@@ -446,7 +618,9 @@ Calculons $f(0)$ :
 
 $$f(0) = k \times 0 = 0$$
 
-Donc le point de coordonnées $(0, 0)$ appartient à la courbe représentative de $f$ : la fonction passe par l'origine.
+Donc le point de coordonnées $(0, 0)$ appartient à la courbe représentative de $f$, c'est-à-dire :
+
+$$\boxed{f(0) = 0}$$
 
 
 [↑ Table des matières](#table-des-matières)
@@ -469,7 +643,9 @@ $$g(f(x)) = g(ax) = b \times ax = abx$$
 
 En posant $k = ab$, on obtient $g \circ f(x) = kx$.
 
-$k = ab$ est un réel, donc $g \circ f$ est bien une fonction linéaire de coefficient $ab$.
+Or $k = ab$ est un réel, donc :
+
+$$\boxed{g \circ f : x \mapsto abx}$$
 
 
 [↑ Table des matières](#table-des-matières)
@@ -494,7 +670,7 @@ $$100 \times 1{,}10 = 110 \quad \text{puis} \quad 110 \times 1{,}10 = 121$$
 
 $$100 \times 1{,}20 = 120$$
 
-$121 \neq 120$ : les deux résultats sont différents, l'affirmation est fausse.
+Or $121 \neq 120$ : les deux résultats sont différents, donc l'affirmation est fausse.
 
 Ce qui se passe réellement : appliquer $10\%$ puis $10\%$ revient à multiplier par $1{,}10 \times 1{,}10 = (1{,}10)^2 = 1{,}21$, soit une augmentation de $21\%$ et non de $20\%$. C'est directement la composée $g \circ f$ avec $f(x) = 1{,}10x$ et $g(x) = 1{,}10x$.
 
@@ -524,7 +700,7 @@ $$v_{moy} = \frac{120}{1 + 0{,}5} = \frac{120}{1{,}5} = 80 \text{ km/h}$$
 
 $$\frac{60 + 120}{2} = 90 \text{ km/h}$$
 
-$80 \neq 90$ : la vitesse moyenne n'est pas la moyenne arithmétique des vitesses. L'affirmation est fausse.
+Or $80 \neq 90$ : la vitesse moyenne n'est pas la moyenne arithmétique des vitesses, donc l'affirmation est fausse.
 
 > Ce qu'on calcule ici s'appelle la **moyenne harmonique**, qui est toujours inférieure ou égale à la moyenne arithmétique. C'est elle qui donne la vraie vitesse moyenne quand les distances sont égales.
 
@@ -566,11 +742,11 @@ $80 \neq 90$ : la vitesse moyenne n'est pas la moyenne arithmétique des vitesse
 
 Soient deux droites qui se coupent en un point $O$, formant quatre angles. On note $\alpha$ et $\alpha'$ deux angles opposés par le sommet, et $\beta$ l'angle entre eux.
 
-$\alpha$ et $\beta$ sont **supplémentaires** — ils forment un angle plat — donc :
+Or $\alpha$ et $\beta$ sont **supplémentaires** — ils forment un angle plat — donc :
 
 $$\alpha + \beta = 180°$$
 
-$\alpha'$ et $\beta$ sont aussi **supplémentaires** — ils forment un angle plat de l'autre côté — donc :
+Or $\alpha'$ et $\beta$ sont aussi **supplémentaires** — ils forment un angle plat de l'autre côté — donc :
 
 $$\alpha' + \beta = 180°$$
 
@@ -580,7 +756,7 @@ $$\alpha + \beta = \alpha' + \beta$$
 
 En soustrayant $\beta$ des deux membres :
 
-$$\alpha = \alpha'$$
+$$\boxed{\alpha = \alpha'}$$
 
 [↑ Table des matières](#table-des-matières)
 
@@ -592,17 +768,17 @@ $$\alpha = \alpha'$$
 
 Soient deux droites parallèles $d_1$ et $d_2$ coupées par une sécante $s$ en deux points $A$ et $B$. On note $\alpha$ l'angle formé en $A$ et $\alpha'$ l'angle alterne-interne formé en $B$, et $\beta$ l'angle correspondant à $\alpha$ en $B$.
 
-$d_1$ et $d_2$ sont parallèles, donc $\alpha$ et $\beta$ sont des **angles correspondants** :
+Puisque $d_1$ et $d_2$ sont parallèles, $\alpha$ et $\beta$ sont des **angles correspondants** :
 
 $$\alpha = \beta$$
 
-$\beta$ et $\alpha'$ sont **opposés par le sommet**, donc d'après la propriété précédente :
+Or $\beta$ et $\alpha'$ sont **opposés par le sommet**, donc d'après la propriété précédente :
 
 $$\beta = \alpha'$$
 
 On conclut :
 
-$$\alpha = \alpha'$$
+$$\boxed{\alpha = \alpha'}$$
 
 [↑ Table des matières](#table-des-matières)
 
@@ -630,7 +806,9 @@ On applique le même raisonnement avec les projetés sur l'axe des ordonnées :
 
 $$y_M = \frac{y_A + y_B}{2}$$
 
-Le milieu $M$ a donc bien pour coordonnées $\left(\dfrac{x_A + x_B}{2}, \dfrac{y_A + y_B}{2}\right)$.
+Le milieu $M$ a donc bien pour coordonnées :
+
+$$\boxed{M\left(\dfrac{x_A + x_B}{2},\ \dfrac{y_A + y_B}{2}\right)}$$
 
 [↑ Table des matières](#table-des-matières)
 
@@ -660,7 +838,7 @@ $$a^2 + 2ab + b^2 = 2ab + c^2$$
 
 En soustrayant $2ab$ des deux membres :
 
-$$a^2 + b^2 = c^2$$
+$$\boxed{a^2 + b^2 = c^2}$$
 
 > Toutes les étapes sont des **équivalences** ($\Leftrightarrow$) et non de simples implications ($\Rightarrow$) : on peut lire la démonstration dans les deux sens. Si l'angle est droit alors $a^2 + b^2 = c^2$, et si $a^2 + b^2 = c^2$ alors l'angle est droit. La réciproque est donc démontrée en même temps, sans avoir besoin d'une démonstration séparée.
 
@@ -714,7 +892,7 @@ Comme $a \neq c$, on a $a - c \neq 0$, donc on peut diviser :
 
 $$x_0 = \frac{d - b}{a - c}$$
 
-$x_0$ est unique. On obtient ensuite $y_0 = f(x_0)$, qui est également unique.
+On en déduit que $x_0$ est unique. On obtient ensuite $y_0 = f(x_0)$, qui est également unique.
 
 Il existe donc un unique point d'intersection $M\left(\dfrac{d-b}{a-c},\ f\left(\dfrac{d-b}{a-c}\right)\right)$.
 
@@ -732,7 +910,9 @@ Soit $x$ un réel. Calculons $f(-x)$ :
 
 $$f(-x) = (-x)^2 = x^2 = f(x)$$
 
-Donc $f(-x) = f(x)$ pour tout réel $x$ : $f$ est bien une fonction paire.
+Donc, pour tout réel $x$ :
+
+$$\boxed{f(-x) = f(x)}$$
 
 [↑ Table des matières](#table-des-matières)
 
@@ -777,7 +957,7 @@ $$P(\{e_1\} \cup \{e_2\} \cup \ldots \cup \{e_n\}) = P(\{e_1\}) + P(\{e_2\}) + \
 
 Or $\{e_1\} \cup \{e_2\} \cup \ldots \cup \{e_n\} = \Omega$, donc par l'axiome 2 :
 
-$$P(\{e_1\}) + P(\{e_2\}) + \ldots + P(\{e_n\}) = P(\Omega) = 1$$
+$$\boxed{P(\{e_1\}) + P(\{e_2\}) + \ldots + P(\{e_n\}) = 1}$$
 
 [↑ Table des matières](#table-des-matières)
 
@@ -787,7 +967,7 @@ $$P(\{e_1\}) + P(\{e_2\}) + \ldots + P(\{e_n\}) = P(\Omega) = 1$$
 
 **Propriété :** pour tout événement $A$, $P(\bar{A}) = 1 - P(A)$.
 
-$A$ et $\bar{A}$ n'ont aucune issue en commun, donc par l'axiome 3 :
+Or $A$ et $\bar{A}$ n'ont aucune issue en commun, donc par l'axiome 3 :
 
 $$P(A \cup \bar{A}) = P(A) + P(\bar{A})$$
 
@@ -797,7 +977,7 @@ $$P(A) + P(\bar{A}) = 1$$
 
 On conclut :
 
-$$P(\bar{A}) = 1 - P(A)$$
+$$\boxed{P(\bar{A}) = 1 - P(A)}$$
 
 [↑ Table des matières](#table-des-matières)
 
@@ -807,7 +987,7 @@ $$P(\bar{A}) = 1 - P(A)$$
 
 **Propriété :** $P(\emptyset) = 0$.
 
-$\emptyset$ et $\Omega$ n'ont aucune issue en commun, donc par l'axiome 3 :
+Or $\emptyset$ et $\Omega$ n'ont aucune issue en commun, donc par l'axiome 3 :
 
 $$P(\emptyset \cup \Omega) = P(\emptyset) + P(\Omega)$$
 
@@ -817,7 +997,7 @@ $$P(\Omega) = P(\emptyset) + P(\Omega)$$
 
 En soustrayant $P(\Omega)$ des deux membres :
 
-$$P(\emptyset) = 0$$
+$$\boxed{P(\emptyset) = 0}$$
 
 [↑ Table des matières](#table-des-matières)
 
@@ -848,7 +1028,7 @@ $$P(A \cap \bar{B}) = P(A) - P(A \cap B) \quad \text{et} \quad P(\bar{A} \cap B)
 
 En substituant :
 
-$$P(A \cup B) = P(A) - P(A \cap B) + P(A \cap B) + P(B) - P(A \cap B) = P(A) + P(B) - P(A \cap B)$$
+$$\boxed{P(A \cup B) = P(A) + P(B) - P(A \cap B)}$$
 
 [↑ Table des matières](#table-des-matières)
 
@@ -892,7 +1072,7 @@ $$S \times b = a + c$$
 
 Or $\dfrac{a+c}{b}$ est le nombre qui, multiplié par $b$, donne $a+c$. Comme $S \times b = a+c$, on conclut :
 
-$$S = \frac{a+c}{b}$$
+$$\boxed{\dfrac{a}{b} + \dfrac{c}{b} = \dfrac{a+c}{b}}$$
 
 [↑ Table des matières](#table-des-matières)
 
@@ -920,7 +1100,7 @@ $$P \times (b \times d) = a \times c$$
 
 Or $\dfrac{a \times c}{b \times d}$ est le nombre qui, multiplié par $b \times d$, donne $a \times c$. Comme $P \times (b \times d) = a \times c$, on conclut :
 
-$$P = \frac{a \times c}{b \times d}$$
+$$\boxed{\dfrac{a}{b} \times \dfrac{c}{d} = \dfrac{a \times c}{b \times d}}$$
 
 [↑ Table des matières](#table-des-matières)
 
@@ -946,7 +1126,7 @@ Or $\dfrac{a}{b}$ est le nombre qui, multiplié par $b$, donne $a$. Comme $Q \ti
 
 $$Q = \frac{a}{b}$$
 
-Donc $\dfrac{a}{b} = a \times b^{-1}$.
+$$\boxed{\dfrac{a}{b} = a \times b^{-1}}$$
 
 [↑ Table des matières](#table-des-matières)
 
@@ -964,7 +1144,9 @@ Par définition de l'inverse, $b$ est le nombre tel que $a \times b = 1$.
 
 On cherche maintenant l'inverse de $b$, c'est-à-dire le nombre qui, multiplié par $b$, donne $1$. Or $a \times b = 1$, donc $a$ vérifie exactement cette condition.
 
-On en déduit : $(a^{-1})^{-1} = b^{-1} = a$.
+On en déduit :
+
+$$\boxed{(a^{-1})^{-1} = a}$$
 
 [↑ Table des matières](#table-des-matières)
 
@@ -982,9 +1164,9 @@ $$ax = -b$$
 
 Comme $a \neq 0$, on peut diviser les deux membres par $a$ :
 
-$$x = \frac{-b}{a}$$
+$$\boxed{x = \dfrac{-b}{a}}$$
 
-$x$ est entièrement déterminé par $a$ et $b$ — il n'y a qu'une seule valeur possible. La solution est unique.
+On en déduit que $x$ est entièrement déterminé par $a$ et $b$ — il n'y a qu'une seule valeur possible. La solution est unique.
 
 > Comme dans la démonstration du point d'intersection de deux fonctions affines, c'est l'hypothèse $a \neq 0$ qui autorise la division et garantit l'unicité de la solution.
 
@@ -1020,6 +1202,6 @@ $$\bar{x} = \frac{1+2+3+4+100}{5} = \frac{110}{5} = 22$$
 
 Médiane $= 3$
 
-$22 \neq 3$ : la valeur extrême 100 a fait exploser la moyenne alors que la médiane reste représentative de la série. Dans ce cas la médiane est un meilleur indicateur.
+Or $22 \neq 3$ : la valeur extrême 100 a fait exploser la moyenne alors que la médiane reste représentative de la série. Dans ce cas la médiane est un meilleur indicateur.
 
 [↑ Table des matières](#table-des-matières)
