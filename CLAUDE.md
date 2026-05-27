@@ -35,6 +35,7 @@ Note : dans la démonstration de Pythagore (5.3), le fait que les quatre triangl
 - Les résultats hors programme sont signalés par un préambule `> **Hors programme :**`
 - Les ouvertures vers la seconde sont signalées par un préambule `> **Ouverture vers la seconde :**`
 - Ne jamais utiliser le mot `car` — lui préférer `comme` ou `puisque`
+- Ne jamais utiliser le tiret long `—` dans le texte courant — lui préférer `:` quand la seconde proposition explique la première, `,` pour une insertion parenthétique, `.` pour séparer deux phrases indépendantes
 - Ne jamais introduire un objet mathématique sans l'avoir initialisé — toujours commencer par « Soient $a$, $b$... »
 - Pas de bullet points dans les démonstrations — tout en prose
 - Utiliser la disjonction de cas pour les raisonnements sur la parité et le signe

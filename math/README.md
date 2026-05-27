@@ -2,7 +2,8 @@
 
 ## Troisième
 
-1. [Démonstrations de fin de cycle 4](3e/demonstrations.md)
+1. [Vocabulaire mathématique](3e/vocabulaire_mathematique.md)
+2. [Démonstrations de fin de cycle 4](3e/demonstrations.md)
 
 ## Seconde
 
