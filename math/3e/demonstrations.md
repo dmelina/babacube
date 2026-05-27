@@ -83,6 +83,10 @@ Ces conventions ne sont pas des règles arbitraires, elles sont le fruit d'un co
 
   $$\dfrac{1}{\sqrt{2}} = \dfrac{1}{\sqrt{2}} \times \dfrac{\sqrt{2}}{\sqrt{2}} = \dfrac{\sqrt{2}}{\sqrt{2} \times \sqrt{2}} = \dfrac{\sqrt{2}}{2}$$
 
+  > **Ouverture vers la seconde :** lorsque le dénominateur est de la forme $a + \sqrt{b}$, on multiplie par son **conjugué** $a - \sqrt{b}$ pour faire apparaître l'identité $(a+\sqrt{b})(a-\sqrt{b}) = a^2 - b$ :
+  >
+  > $$\dfrac{1}{1+\sqrt{2}} = \dfrac{1}{1+\sqrt{2}} \times \dfrac{1-\sqrt{2}}{1-\sqrt{2}} = \dfrac{1-\sqrt{2}}{1^2 - (\sqrt{2})^2} = \dfrac{1-\sqrt{2}}{1-2} = \dfrac{1-\sqrt{2}}{-1} = \sqrt{2}-1$$
+
 - **Ne jamais laisser de fraction dans une fraction.**
 
   $\dfrac{\enspace\dfrac{a}{b}\enspace}{c}$ s'écrit $\dfrac{a}{bc}$.
