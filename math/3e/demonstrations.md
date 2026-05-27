@@ -1105,6 +1105,16 @@ Or $\dfrac{a \times c}{b \times d}$ est le nombre qui, multiplié par $b \times 
 
 $$\boxed{\dfrac{a}{b} \times \dfrac{c}{d} = \dfrac{a \times c}{b \times d}}$$
 
+**Corollaire 1 :** pour tout rationnel $\dfrac{a}{b}$ avec $b \neq 0$ et tout entier $k$ :
+
+$$\dfrac{a}{b} \times k = \dfrac{a}{b} \times \dfrac{k}{1} = \dfrac{a \times k}{b \times 1} = \boxed{\dfrac{ka}{b}}$$
+
+**Corollaire 2 :** pour tous entiers $a$, $b \neq 0$ et $k \neq 0$ :
+
+$$\dfrac{ka}{kb} = \dfrac{k \times a}{k \times b} = \dfrac{k}{k} \times \dfrac{a}{b} = 1 \times \dfrac{a}{b} = \boxed{\dfrac{a}{b}}$$
+
+C'est la justification algébrique de la simplification d'une fraction par un facteur commun.
+
 [↑ Table des matières](#table-des-matières)
 
 ---
