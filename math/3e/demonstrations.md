@@ -326,7 +326,7 @@ Or $2(5a)$ est un multiple de 2 et ne contribue pas au reste dans la division pa
 
 On en déduit que $n$ est divisible par 2 si et seulement si $b$ est divisible par 2, c'est-à-dire :
 
-$$\boxed{b \in \{0, 2, 4, 6, 8\}}$$
+$$\boxed{b \in \lbrace 0, 2, 4, 6, 8 \rbrace}$$
 
 **Exemple :** $n = 74$, le dernier chiffre est 4, qui est pair, donc 74 est divisible par 2. ✓
 
@@ -371,7 +371,7 @@ Or $5(2a)$ est un multiple de 5 et ne contribue pas au reste dans la division pa
 
 On en déduit que $n$ est divisible par 5 si et seulement si $b$ est divisible par 5, c'est-à-dire :
 
-$$\boxed{b \in \{0, 5\}}$$
+$$\boxed{b \in \lbrace 0, 5 \rbrace}$$
 
 **Exemple :** $n = 85$, le dernier chiffre est 5, donc 85 est divisible par 5. ✓
 
