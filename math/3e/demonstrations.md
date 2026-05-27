@@ -545,7 +545,7 @@ $$\frac{ad}{bd} = \frac{bc}{bd}$$
 
 $$\boxed{\dfrac{a}{b} = \dfrac{c}{d}}$$
 
-> Le produit en croix n'est pas une règle magique — c'est simplement la conséquence d'une multiplication puis d'une division par $bd$.
+> Le produit en croix n'est pas une règle magique, c'est simplement la conséquence d'une multiplication puis d'une division par $bd$.
 
 
 [↑ Table des matières](#table-des-matières)
@@ -628,6 +628,8 @@ $$\boxed{f(0) = 0}$$
 ---
 
 ### La composée de deux fonctions linéaires est linéaire
+
+> **Hors programme :** la composition de fonctions ne figure pas au programme de troisième, mais la démonstration est courte et accessible, et elle illustre bien comment les fonctions linéaires se comportent entre elles.
 
 > La notation $g \circ f$ se lit « $g$ rond $f$ ». Elle désigne la fonction qui consiste à appliquer $f$ en premier, puis $g$ au résultat. Ainsi $g \circ f(x) = g(f(x))$ : on calcule d'abord $f(x)$, puis on applique $g$ à ce résultat.
 
@@ -922,6 +924,7 @@ $$\boxed{f(-x) = f(x)}$$
 
 ### Définitions
 
+- Une **expérience aléatoire** est une expérience qui vérifie trois conditions : on ne peut pas prévoir le résultat à l'avance, on connaît tous les résultats possibles, et elle peut être répétée dans les mêmes conditions.
 - L'**univers** (noté $\Omega$) est l'ensemble de tous les résultats possibles d'une expérience aléatoire.
 - Une **issue** est un résultat élémentaire possible de l'expérience. Les issues sont les éléments de $\Omega$.
 - Un **événement élémentaire** est un événement qui ne contient qu'une seule issue.
