@@ -1,5 +1,9 @@
 # Mathématiques
 
+## Cinquième
+
+1. [Figures géométriques usuelles](5e/figures_geometriques.md)
+
 ## Troisième
 
 1. [Vocabulaire mathématique](3e/vocabulaire_mathematique.md)
