@@ -3,6 +3,7 @@
 ## Cinquième
 
 1. [Figures géométriques usuelles](5e/figures_geometriques.md)
+2. [Formulaire — Aires et périmètres](5e/formulaire_aires_perimetres.md)
 
 ## Troisième
 
