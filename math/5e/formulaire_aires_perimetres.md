@@ -1,4 +1,4 @@
-# Formulaire — Aires et périmètres
+# Formulaire: Aires et périmètres
 
 [← Retour à l'index](../README.md) · [→ Figures géométriques usuelles](figures_geometriques.md)
 
