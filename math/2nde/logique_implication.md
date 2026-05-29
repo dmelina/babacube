@@ -16,17 +16,17 @@ Exemple concret : P = « il pleut », Q = « je prends mon parapluie », implica
 
 | P | Q | $P \Rightarrow Q$ | Interprétation |
 |---|---|--------|----------------|
-| V | V | V | Il pleut, je prends mon parapluie — normal |
-| V | F | **F** | Il pleut, je ne prends pas mon parapluie — j'ai trahi ma promesse |
-| F | V | V | Il ne pleut pas, je prends quand même mon parapluie — bizarre mais pas une violation |
-| F | F | V | Il ne pleut pas, je ne prends pas mon parapluie — ma promesse ne portait pas sur ce cas |
+| V | V | V | Il pleut, je prends mon parapluie : normal |
+| V | F | **F** | Il pleut, je ne prends pas mon parapluie : j'ai trahi ma promesse |
+| F | V | V | Il ne pleut pas, je prends quand même mon parapluie : bizarre mais pas une violation |
+| F | F | V | Il ne pleut pas, je ne prends pas mon parapluie : ma promesse ne portait pas sur ce cas |
 
 ### Le cas contre-intuitif : F → V
 
 Si P est fausse, l'implication est toujours vraie, quelle que soit la valeur de Q. Une implication est une **promesse** : on ne peut la briser que si la condition est remplie mais la conséquence ne suit pas.
 
 Exemple : « S'il pleut, je prends mon parapluie. »
-Prendre son parapluie par beau temps ne viole pas la promesse — elle ne portait que sur ce qu'on ferait s'il pleuvait.
+Prendre son parapluie par beau temps ne viole pas la promesse : elle ne portait que sur ce qu'on ferait s'il pleuvait.
 
 ### La contraposée
 
@@ -78,16 +78,16 @@ On part d'hypothèses vraies, on applique des règles vraies, on arrive à une c
 
 ### Le contre-exemple et la réfutation (V → F)
 
-On suppose une hypothèse vraie, et on montre qu'elle conduit à un **résultat faux de manière externe** — faux par les axiomes ou règles déjà établies, indépendamment de l'hypothèse.
+On suppose une hypothèse vraie, et on montre qu'elle conduit à un **résultat faux de manière externe** : faux par les axiomes ou règles déjà établies, indépendamment de l'hypothèse.
 
-**Exemple 1 — contre-exemple : « tout nombre premier est impair »**
+**Exemple 1, contre-exemple : « tout nombre premier est impair »**
 
 P : « 2 est un nombre premier » → vrai.
 Q : « 2 est impair » → faux.
 
 On est dans V → F : l'implication est fausse, la règle est réfutée. Un seul contre-exemple suffit à démolir une affirmation universelle.
 
-**Exemple 2 — réfutation : 0 n'a pas d'inverse :**
+**Exemple 2, réfutation : 0 n'a pas d'inverse :**
 
 Supposons qu'il existe $x$ tel que $0 \times x = 1$.
 Or $0 \times x = 0$ pour tout $x$, donc $0 = 1$.
@@ -98,9 +98,9 @@ Donc 0 n'a pas d'inverse.
 
 ### Le raisonnement par l'absurde (F → F)
 
-On pose la **négation** de ce qu'on veut prouver, on raisonne correctement, et on arrive à une **antilogie** — une contradiction fabriquée entièrement depuis l'hypothèse. L'hypothèse se détruit de l'intérieur.
+On pose la **négation** de ce qu'on veut prouver, on raisonne correctement, et on arrive à une **antilogie** : une contradiction fabriquée entièrement depuis l'hypothèse. L'hypothèse se détruit de l'intérieur.
 
-> Une antilogie — qu'on appelle aussi **formule antilogique** ou simplement **contradiction** — est une proposition qui est toujours fausse, quelle que soit la situation. Elle ne peut jamais être vraie dans aucun univers. L'exemple type est « A et non A » : affirmer en même temps une chose et son contraire.
+> Une antilogie, qu'on appelle aussi **formule antilogique** ou simplement **contradiction**, est une proposition qui est toujours fausse, quelle que soit la situation. Elle ne peut jamais être vraie dans aucun univers. L'exemple type est « A et non A » : affirmer en même temps une chose et son contraire.
 
 Structure :
 
@@ -112,7 +112,7 @@ $$\neg P \Rightarrow \text{étape 1} \Rightarrow \text{étape 2} \Rightarrow \ld
 
 C'est la condition la plus importante et la plus souvent négligée : la contradiction obtenue doit être **en relation directe et continue avec l'hypothèse $\neg P$**.
 
-Si à un moment de la chaîne on introduit un élément extérieur qui ne découle pas de $\neg P$, la contradiction éventuelle ne dit rien sur $\neg P$ — elle dit seulement que cet élément extérieur est faux.
+Si à un moment de la chaîne on introduit un élément extérieur qui ne découle pas de $\neg P$, la contradiction éventuelle ne dit rien sur $\neg P$ : elle dit seulement que cet élément extérieur est faux.
 
 La chaîne doit être fermée :
 
@@ -130,19 +130,19 @@ La rédaction doit suivre une structure rigoureuse en quatre temps.
 
 ---
 
-**Étape 1 — Annonce de la méthode**
+**Étape 1 : Annonce de la méthode**
 
 > « Raisonnons par l'absurde. »
 
-**Étape 2 — Pose de l'hypothèse contraire**
+**Étape 2 : Pose de l'hypothèse contraire**
 
 > « Supposons que [négation de ce qu'on veut prouver]. »
 
-**Étape 3 — Développement du raisonnement**
+**Étape 3 : Développement du raisonnement**
 
 On déduit des conséquences de cette hypothèse, étape par étape, chaque ligne découlant rigoureusement de la précédente, sans introduire d'élément extérieur à l'hypothèse.
 
-**Étape 4 — Mise en évidence de la contradiction et conclusion**
+**Étape 4 : Mise en évidence de la contradiction et conclusion**
 
 > « On obtient [résultat A] et [résultat B], ce qui est contradictoire. »
 >
