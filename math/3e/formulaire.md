@@ -158,11 +158,7 @@ $$\begin{cases} ax + by = c \cr dx + ey = f \end{cases}$$
 
 **Méthode par substitution :** exprimer $x$ (ou $y$) en fonction de l'autre inconnue dans une équation, puis substituer dans l'autre.
 
-**Exemple :**
-
-$(1) : 2x + y = 5$
-
-$(2) : x - y = 1$
+**Exemple :** $$\begin{cases} 2x + y = 5 \cr x - y = 1 \end{cases}$$
 >
 > De la 2e équation : $x = 1 + y$.
 >
@@ -174,11 +170,7 @@ $(2) : x - y = 1$
 
 **Méthode par combinaison :** multiplier chaque équation par un coefficient de sorte à faire disparaître une inconnue en additionnant les deux équations.
 
-**Exemple :**
-
-$(1) : 2x + y = 5$
-
-$(2) : x - y = 1$
+**Exemple :** $$\begin{cases} 2x + y = 5 \cr x - y = 1 \end{cases}$$
 >
 > En additionnant les deux équations : $3x = 6$, donc $x = 2$.
 >
