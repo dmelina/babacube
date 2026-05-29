@@ -723,6 +723,7 @@ Or $80 \neq 90$ : la vitesse moyenne n'est pas la moyenne arithmétique des vite
 - Deux angles **opposés par le sommet** sont formés par deux droites qui se coupent, de part et d'autre du point d'intersection.
 - Deux angles **alternes-internes** sont formés par deux droites coupées par une sécante, situés de part et d'autre de la sécante et entre les deux droites.
 - Deux angles **correspondants** sont formés par deux droites coupées par une sécante, situés du même côté de la sécante, l'un entre les deux droites et l'autre à l'extérieur.
+- La **médiatrice** d'un segment $[AB]$ est la droite perpendiculaire à $[AB]$ passant par son milieu.
 
 ### Axiome
 
@@ -733,6 +734,8 @@ Or $80 \neq 90$ : la vitesse moyenne n'est pas la moyenne arithmétique des vite
 > **Théorème de Thalès :** soient deux droites sécantes en un point $O$, coupées par deux droites parallèles en les points $A$, $B$ d'une part et $A'$, $B'$ d'autre part. Alors :
 >
 > $$\frac{OA}{OA'} = \frac{OB}{OB'} = \frac{AB}{A'B'}$$
+
+> **Cas d'égalité des triangles :** deux triangles sont isométriques si l'une des conditions suivantes est vérifiée : trois paires de côtés respectivement égaux (cas CCC) ; deux paires de côtés égaux et l'angle compris respectivement égaux (cas CAC) ; un côté égal et deux paires d'angles respectivement égaux (cas ACA).
 
 > **Inégalité triangulaire :** dans tout triangle, la longueur de chaque côté est strictement inférieure à la somme des deux autres :
 >
@@ -815,6 +818,36 @@ $$y_M = \frac{y_A + y_B}{2}$$
 Le milieu $M$ a donc bien pour coordonnées :
 
 $$\boxed{M\left(\dfrac{x_A + x_B}{2},\ \dfrac{y_A + y_B}{2}\right)}$$
+
+[↑ Table des matières](#table-des-matières)
+
+---
+
+### Théorème de la médiatrice (raisonnement par équivalence)
+
+**Propriété :** pour tout point $M$ du plan, $M$ est sur la médiatrice du segment $[AB]$ si et seulement si $MA = MB$.
+
+**Sens direct.** Soient $[AB]$ un segment, $I$ son milieu et $M$ un point sur la médiatrice de $[AB]$.
+
+Puisque $M$ est sur la médiatrice, $(MI)$ est perpendiculaire à $(AB)$ en $I$, donc $\hat{MIA} = \hat{MIB} = 90°$. Puisque $I$ est le milieu de $[AB]$, on a $IA = IB$. Enfin $MI = MI$. Les triangles $MIA$ et $MIB$ ont l'angle droit en $I$ compris entre deux paires de côtés respectivement égaux : par le cas d'égalité des triangles (cas CAC), ils sont isométriques.
+
+> **Note :** deux triangles sont dits **isométriques** lorsqu'ils sont superposables, c'est-à-dire qu'ils ont exactement la même forme et les mêmes dimensions. On dit aussi qu'ils sont **identiques**. À ne pas confondre avec les **triangles semblables**, qui ont la même forme mais des dimensions éventuellement différentes : deux triangles isométriques sont toujours semblables, mais deux triangles semblables ne sont pas nécessairement isométriques.
+
+On en déduit que :
+
+$$\boxed{MA = MB}$$
+
+**Sens réciproque.** Soient $[AB]$ un segment, $I$ son milieu et $M$ un point tel que $MA = MB$.
+
+Puisque $I$ est le milieu de $[AB]$, on a $IA = IB$. Or $MI = MI$. Les triangles $MIA$ et $MIB$ ont donc trois paires de côtés respectivement égaux : par le cas d'égalité des triangles (cas CCC), ils sont isométriques. On en déduit que $\hat{MIA} = \hat{MIB}$. Or ces deux angles sont supplémentaires, puisqu'ils forment un angle plat en $I$, donc :
+
+$$\hat{MIA} = \hat{MIB} = \frac{180°}{2} = 90°$$
+
+La droite $(MI)$ est donc perpendiculaire à $(AB)$ en son milieu $I$ :
+
+$$\boxed{M \text{ appartient à la médiatrice de } [AB]}$$
+
+On a donc démontré que $M$ est sur la médiatrice de $[AB]$ si et seulement si $MA = MB$.
 
 [↑ Table des matières](#table-des-matières)
 
