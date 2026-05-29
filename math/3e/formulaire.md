@@ -152,13 +152,13 @@ $(a^2 - b^2) = (a + b)(a - b)$
 
 Soient $a$, $b$, $c$, $d$, $e$, $f$ des réels. Un système de deux équations à deux inconnues $x$ et $y$ s'écrit :
 
-$$\left\{\begin{array}{l} ax + by = c \\ dx + ey = f \end{array}\right.$$
+$$\begin{cases} ax + by = c \\ dx + ey = f \end{cases}$$
 
 **Méthode par substitution :** exprimer $x$ (ou $y$) en fonction de l'autre inconnue dans une équation, puis substituer dans l'autre.
 
 > **Exemple :**
 >
-> $$\left\{\begin{array}{l} 2x + y = 5 \\ x - y = 1 \end{array}\right.$$
+> $$\begin{cases} 2x + y = 5 \\ x - y = 1 \end{cases}$$
 >
 > De la 2e équation : $x = 1 + y$.
 >
@@ -172,7 +172,7 @@ $$\left\{\begin{array}{l} ax + by = c \\ dx + ey = f \end{array}\right.$$
 
 > **Exemple :**
 >
-> $$\left\{\begin{array}{l} 2x + y = 5 \\ x - y = 1 \end{array}\right.$$
+> $$\begin{cases} 2x + y = 5 \\ x - y = 1 \end{cases}$$
 >
 > En additionnant les deux équations : $3x = 6$, donc $x = 2$.
 >
