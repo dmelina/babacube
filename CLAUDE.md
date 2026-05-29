@@ -26,6 +26,7 @@ Note : dans la démonstration de Pythagore (5.3), le fait que les quatre triangl
 - Utiliser `\dfrac` pour les fractions dans le texte courant
 - Utiliser `\mathbb{Z}^{\ast}` et non `\mathbb{Z}^*` — le `*` est interprété par GitHub comme de l'italique avant le rendu LaTeX
 - Utiliser `\mapsto` pour la notation $f : x \mapsto ax + b$
+- Pour les systèmes d'équations (`\begin{cases}`), toujours utiliser `$$...$$` (mode display) et `\cr` pour les sauts de ligne — le mode inline `$...$` et `\\` ne s'affichent pas correctement sur GitHub
 
 ## Conventions de rédaction
 
