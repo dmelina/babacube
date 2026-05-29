@@ -887,6 +887,30 @@ $$\boxed{a^2 + b^2 = c^2}$$
 
 ---
 
+### Relation fondamentale de la trigonométrie
+
+**Propriété :** pour tout triangle $ABC$ rectangle en $C$ et pour tout angle aigu $\alpha = \hat{A}$ :
+
+$$\sin^2(\alpha) + \cos^2(\alpha) = 1$$
+
+Soient $ABC$ un triangle rectangle en $C$, $\alpha = \hat{A}$ un angle aigu. On pose $a = BC$, $b = AC$ et $c = AB$ l'hypoténuse.
+
+Par définition du sinus et du cosinus :
+
+$$\sin(\alpha) = \frac{a}{c} \quad \text{et} \quad \cos(\alpha) = \frac{b}{c}$$
+
+Puisque $ABC$ est rectangle en $C$, le théorème de Pythagore affirme que $a^2 + b^2 = c^2$. En divisant les deux membres par $c^2$ :
+
+$$\begin{aligned} \frac{a^2 + b^2}{c^2} &= \frac{c^2}{c^2} \cr \Leftrightarrow \quad \frac{a^2}{c^2} + \frac{b^2}{c^2} &= 1 \end{aligned}$$
+
+Or $\dfrac{a^2}{c^2} = \left(\dfrac{a}{c}\right)^2 = \sin^2(\alpha)$ et $\dfrac{b^2}{c^2} = \left(\dfrac{b}{c}\right)^2 = \cos^2(\alpha)$. On en déduit :
+
+$$\boxed{\sin^2(\alpha) + \cos^2(\alpha) = 1}$$
+
+[↑ Table des matières](#table-des-matières)
+
+---
+
 ### 5.4 Fonctions
 
 ### Monotonie d'une fonction affine (raisonnement direct par disjonction de cas)
