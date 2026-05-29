@@ -320,7 +320,7 @@ $$\boxed{n^2 \text{ est divisible par } 4}$$
 
 ### Critère de divisibilité par 2
 
-**Propriété :** un entier est divisible par 2 si et seulement si son dernier chiffre est 0, 2, 4, 6 ou 8.
+**Propriété :** pour tout entier $n$, $n$ est divisible par 2 si et seulement si son dernier chiffre est 0, 2, 4, 6 ou 8.
 
 Prenons un entier à deux chiffres $n = 10a + b$ où $a$ est le chiffre des dizaines et $b$ le chiffre des unités. On réécrit :
 
@@ -340,7 +340,7 @@ $$\boxed{b \in \lbrace 0, 2, 4, 6, 8 \rbrace}$$
 
 ### Critère de divisibilité par 3
 
-**Propriété :** un entier est divisible par 3 si et seulement si la somme de ses chiffres est divisible par 3.
+**Propriété :** pour tout entier $n$, $n$ est divisible par 3 si et seulement si la somme de ses chiffres est divisible par 3.
 
 Prenons un entier à trois chiffres $n = 100a + 10b + c$ où $a$, $b$, $c$ sont ses chiffres. On réécrit :
 
@@ -365,7 +365,7 @@ $$\boxed{a + b + c \text{ est divisible par } 3}$$
 
 ### Critère de divisibilité par 5
 
-**Propriété :** un entier est divisible par 5 si et seulement si son dernier chiffre est 0 ou 5.
+**Propriété :** pour tout entier $n$, $n$ est divisible par 5 si et seulement si son dernier chiffre est 0 ou 5.
 
 Prenons un entier à deux chiffres $n = 10a + b$ où $a$ est le chiffre des dizaines et $b$ le chiffre des unités. On réécrit :
 
@@ -418,7 +418,7 @@ Donc 2 401 est divisible par 7.
 
 ### Critère de divisibilité par 10
 
-**Propriété :** un entier est divisible par 10 si et seulement si son dernier chiffre est 0.
+**Propriété :** pour tout entier $n$, $n$ est divisible par 10 si et seulement si son dernier chiffre est 0.
 
 Prenons un entier à deux chiffres $n = 10a + b$ où $a$ est le chiffre des dizaines et $b$ le chiffre des unités. On réécrit :
 
@@ -445,7 +445,7 @@ $$\boxed{b = 0}$$
 
 > **Hors programme :** ce critère ne figure pas au programme de troisième, mais la démonstration est accessible et la règle est suffisamment surprenante pour mériter qu'on s'y arrête.
 
-**Propriété :** un entier est divisible par 11 si et seulement si sa somme alternée de chiffres est divisible par 11.
+**Propriété :** pour tout entier $n$, $n$ est divisible par 11 si et seulement si sa somme alternée de chiffres est divisible par 11.
 
 Prenons un entier à trois chiffres $n = 100a + 10b + c$. On réécrit :
 
@@ -487,7 +487,7 @@ On a trouvé un entier dont le carré est impair : l'affirmation est fausse.
 
 > **Hors programme :** cette formule ne figure pas au programme de troisième. Elle sera redémontrée en classe de première dans le cadre des suites arithmétiques. La démonstration présentée ici, dite « par double écriture », est accessible dès le collège et constitue un bel exemple de raisonnement élégant.
 
-**Propriété :** la somme des $n$ premiers entiers vaut $\dfrac{n(n+1)}{2}$.
+**Propriété :** pour tout entier $n \geq 1$, la somme des $n$ premiers entiers vaut $\dfrac{n(n+1)}{2}$.
 
 On veut calculer $S = 1 + 2 + 3 + \ldots + n$.
 
@@ -637,7 +637,7 @@ $$\boxed{f(0) = 0}$$
 
 > La notation $g \circ f$ se lit « $g$ rond $f$ ». Elle désigne la fonction qui consiste à appliquer $f$ en premier, puis $g$ au résultat. Ainsi $g \circ f(x) = g(f(x))$ : on calcule d'abord $f(x)$, puis on applique $g$ à ce résultat.
 
-**Propriété :** la composée de deux fonctions linéaires est une fonction linéaire.
+**Propriété :** pour toutes fonctions linéaires $f$ et $g$, leur composée est une fonction linéaire.
 
 Soient $f$ et $g$ deux fonctions linéaires et $a$, $b$ deux réels. Pour tout réel $x$ :
 
@@ -747,7 +747,7 @@ Or $80 \neq 90$ : la vitesse moyenne n'est pas la moyenne arithmétique des vite
 
 ### Angles opposés par le sommet
 
-**Propriété :** deux angles opposés par le sommet sont égaux.
+**Propriété :** pour toutes droites se coupant en un point $O$, deux angles opposés par le sommet sont égaux.
 
 Soient deux droites qui se coupent en un point $O$, formant quatre angles. On note $\alpha$ et $\alpha'$ deux angles opposés par le sommet, et $\beta$ l'angle entre eux.
 
@@ -855,7 +855,9 @@ On a donc démontré que $M$ est sur la médiatrice de $[AB]$ si et seulement si
 
 ### Théorème de Pythagore et sa réciproque (raisonnement par équivalence)
 
-**Propriété :** dans un triangle, l'angle en $C$ est droit si et seulement si $a^2 + b^2 = c^2$, où $a$, $b$ sont les deux côtés de l'angle droit et $c$ l'hypoténuse.
+**Propriété :** pour tout triangle $ABC$, l'angle en $C$ est droit si et seulement si $AB^2 = AC^2 + BC^2$.
+
+On note $a = BC$, $b = AC$ les cathètes et $c = AB$ l'hypoténuse.
 
 > **Note :** cette démonstration admet que les quatre triangles rectangles identiques de côtés $a$, $b$, $c$ disposés aux coins d'un grand carré de côté $a+b$ forment bien un carré central de côté $c$. La vérification rigoureuse de ce point nécessiterait une démonstration supplémentaire que nous n'effectuons pas ici.
 
@@ -891,7 +893,7 @@ $$\boxed{a^2 + b^2 = c^2}$$
 
 > Le mot **monotonie** désigne le comportement global d'une fonction : est-elle toujours croissante, toujours décroissante, ou constante sur son domaine ? Une fonction est dite **monotone** si elle est entièrement croissante ou entièrement décroissante.
 
-**Propriété :** une fonction affine $f(x) = ax + b$ est croissante si et seulement si $a > 0$.
+**Propriété :** pour toute fonction affine $f : x \mapsto ax + b$, $f$ est croissante si et seulement si $a > 0$.
 
 > Comme pour le produit de deux entiers consécutifs, il s'agit d'un raisonnement direct par **disjonction de cas** — mais cette fois sur le **signe de $a$** et non sur la parité. On distingue trois cas : $a > 0$, $a < 0$ et $a = 0$.
 
@@ -1246,7 +1248,7 @@ $$\boxed{\frac{a}{b} \div \frac{c}{d} = \frac{ad}{bc}}$$
 
 ### L'équation du premier degré admet une unique solution
 
-**Propriété :** l'équation $ax + b = 0$ avec $a \neq 0$ admet une unique solution.
+**Propriété :** pour tous réels $a \neq 0$ et $b$, l'équation $ax + b = 0$ admet une unique solution.
 
 Soient $a$, $b$ deux réels avec $a \neq 0$. On cherche les réels $x$ tels que $ax + b = 0$.
 
