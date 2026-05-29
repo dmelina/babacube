@@ -152,9 +152,7 @@ $(a^2 - b^2) = (a + b)(a - b)$
 
 Soient $a$, $b$, $c$, $d$, $e$, $f$ des réels. Un système de deux équations à deux inconnues $x$ et $y$ s'écrit :
 
-$(1) : ax + by = c$
-
-$(2) : dx + ey = f$
+$$\begin{cases} ax + by = c \cr dx + ey = f \end{cases}$$
 
 
 
