@@ -156,7 +156,9 @@ $$\begin{cases} ax + by = c \\ dx + ey = f \end{cases}$$
 
 **Méthode par substitution :** exprimer $x$ (ou $y$) en fonction de l'autre inconnue dans une équation, puis substituer dans l'autre.
 
-> **Exemple :** $\begin{cases} 2x + y = 5 \\ x - y = 1 \end{cases}$
+> **Exemple :**
+>
+> $$\begin{cases} 2x + y = 5 \\ x - y = 1 \end{cases}$$
 >
 > De la 2e équation : $x = 1 + y$.
 >
@@ -168,7 +170,9 @@ $$\begin{cases} ax + by = c \\ dx + ey = f \end{cases}$$
 
 **Méthode par combinaison :** multiplier chaque équation par un coefficient de sorte à faire disparaître une inconnue en additionnant les deux équations.
 
-> **Exemple :** $\begin{cases} 2x + y = 5 \\ x - y = 1 \end{cases}$
+> **Exemple :**
+>
+> $$\begin{cases} 2x + y = 5 \\ x - y = 1 \end{cases}$$
 >
 > En additionnant les deux équations : $3x = 6$, donc $x = 2$.
 >
