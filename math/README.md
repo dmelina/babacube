@@ -4,6 +4,11 @@
 
 1. [Figures géométriques usuelles](5e/figures_geometriques.md)
 2. [Formulaire: Aires et périmètres](5e/formulaire_aires_perimetres.md)
+3. [Formulaire: Volumes](5e/formulaire_volumes.md)
+
+## Quatrième
+
+1. [Formulaire: Volumes](4e/formulaire_volumes.md)
 
 ## Troisième
 
