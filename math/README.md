@@ -14,6 +14,7 @@
 
 1. [Vocabulaire mathématique](3e/vocabulaire_mathematique.md)
 2. [Démonstrations de fin de cycle 4](3e/demonstrations.md)
+3. [Formulaire](3e/formulaire.md)
 
 ## Seconde
 
