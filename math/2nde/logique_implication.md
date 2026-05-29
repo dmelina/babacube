@@ -150,22 +150,6 @@ On déduit des conséquences de cette hypothèse, étape par étape, chaque lign
 
 ---
 
-**Exemple sur $\sqrt{2}$ :**
-
-Raisonnons par l'absurde.
-
-Supposons que $\sqrt{2}$ soit rationnel. Il existe alors deux entiers $p$ et $q$ avec $q \neq 0$ et $\text{pgcd}(p, q) = 1$ tels que $\sqrt{2} = p/q$.
-
-En élevant au carré : $p^2 = 2q^2$. Donc $p^2$ est pair, ce qui implique que $p$ est pair. Il existe donc un entier $k$ tel que $p = 2k$.
-
-En substituant : $4k^2 = 2q^2$, soit $q^2 = 2k^2$. Donc $q^2$ est pair, ce qui implique que $q$ est pair.
-
-$p$ et $q$ sont tous deux pairs, donc $\text{pgcd}(p, q) \geq 2$, ce qui contredit $\text{pgcd}(p, q) = 1$.
-
-L'hypothèse de départ est donc fausse : $\sqrt{2}$ est irrationnel.
-
----
-
 ## 5. Démonstrations classiques
 
 ### Un entier est divisible par 3 si sa somme de chiffres l'est (raisonnement direct)
@@ -178,7 +162,9 @@ $$n = 99a + 9b + (a + b + c) = 3(33a + 3b) + (a + b + c)$$
 
 Le terme $3(33a + 3b)$ est un multiple de 3 et ne contribue pas au reste dans la division par 3. Donc $n$ et $a + b + c$ ont le même reste dans la division par 3.
 
-Si $a + b + c$ est divisible par 3, alors ce reste est nul, donc $n$ est divisible par 3.
+Si $a + b + c$ est divisible par 3, alors ce reste est nul, donc :
+
+$$\boxed{n \text{ est divisible par 3}}$$
 
 **Exemple :** $n = 246$, somme des chiffres $= 2 + 4 + 6 = 12$, divisible par 3, donc 246 est divisible par 3. ✓
 
@@ -200,28 +186,58 @@ On est dans le cas V → F : l'implication est fausse, donc la règle est réfut
 
 ---
 
-### $\frac{1}{3}$ n'est pas décimal (absurde)
+### $\frac{1}{3}$ n'est pas décimal (raisonnement par l'absurde)
+
+**Propriété :** $\dfrac{1}{3}$ n'est pas un nombre décimal.
 
 **Définition :** un nombre décimal s'écrit $\frac{a}{10^n}$ avec $a \in \mathbb{Z}$ et $n \in \mathbb{N}$.
 
-**$\neg P$ :** supposons que $\frac{1}{3}$ soit décimal. Il existe donc $a$ et $n$ tels que $\frac{1}{3} = \frac{a}{10^n}$.
+Raisonnons par l'absurde.
 
-En multipliant : $10^n = 3a$, donc 3 divise $10^n$.
+Supposons que $\dfrac{1}{3}$ soit décimal. Il existe donc un entier $a \in \mathbb{Z}$ et un entier $n \in \mathbb{N}$ tels que $\dfrac{1}{3} = \dfrac{a}{10^n}$.
+
+Par produit en croix : $10^n = 3a$, donc 3 divise $10^n$.
 
 Or $10^n = 2^n \times 5^n$, dont les seuls facteurs premiers sont 2 et 5. 3 ne divise jamais $10^n$.
 
-**Contradiction** : 3 divise $10^n$ et 3 ne divise pas $10^n$.
+On obtient que 3 divise $10^n$ et que 3 ne divise pas $10^n$, ce qui est contradictoire. L'hypothèse de départ est donc fausse :
+
+$$\boxed{\dfrac{1}{3} \text{ n'est pas décimal}}$$
 
 ---
 
-### Il existe une infinité de nombres premiers (absurde)
+### $\sqrt{2}$ est irrationnel (raisonnement par l'absurde)
 
-**$\neg P$ :** supposons qu'il n'existe qu'un nombre fini de nombres premiers : $p_1, p_2, \ldots, p_n$.
+**Propriété :** $\sqrt{2}$ est irrationnel.
+
+Raisonnons par l'absurde.
+
+Supposons que $\sqrt{2}$ soit rationnel. Il existe alors deux entiers $p$ et $q$ avec $q \neq 0$ et $\text{pgcd}(p, q) = 1$ tels que $\sqrt{2} = \dfrac{p}{q}$.
+
+En élevant au carré : $p^2 = 2q^2$. Donc $p^2$ est pair, ce qui implique que $p$ est pair. Il existe donc un entier $k$ tel que $p = 2k$.
+
+En substituant : $4k^2 = 2q^2$, soit $q^2 = 2k^2$. Donc $q^2$ est pair, ce qui implique que $q$ est pair.
+
+$p$ et $q$ sont tous deux pairs, donc $\text{pgcd}(p, q) \geq 2$. On obtient que $\text{pgcd}(p, q) \geq 2$ et que $\text{pgcd}(p, q) = 1$, ce qui est contradictoire. L'hypothèse de départ est donc fausse :
+
+$$\boxed{\sqrt{2} \text{ est irrationnel}}$$
+
+---
+
+### Il existe une infinité de nombres premiers (raisonnement par l'absurde)
+
+**Propriété :** il existe une infinité de nombres premiers.
+
+Raisonnons par l'absurde.
+
+Supposons qu'il n'existe qu'un nombre fini de nombres premiers : $p_1, p_2, \ldots, p_n$.
 
 Construisons $N = p_1 \times p_2 \times \ldots \times p_n + 1$.
 
-$N > 1$ donc $N$ admet au moins un diviseur premier $p$ (théorème fondamental de l'arithmétique). Ce $p$ doit figurer dans la liste. Mais diviser $N$ par n'importe quel $p_i$ laisse un reste de 1 — donc $p$ ne divise pas $N$.
+$N > 1$ donc $N$ admet au moins un diviseur premier $p$ (théorème fondamental de l'arithmétique). Ce $p$ doit figurer dans la liste. Or diviser $N$ par n'importe quel $p_i$ laisse un reste de 1, donc $p$ ne divise pas $N$.
 
-**Contradiction :** $p$ divise $N$ et $p$ ne divise pas $N$.
+On obtient que $p$ divise $N$ et que $p$ ne divise pas $N$, ce qui est contradictoire. L'hypothèse de départ est donc fausse :
+
+$$\boxed{\text{il existe une infinité de nombres premiers}}$$
 
 > Cette démonstration est due à Euclide (vers 300 av. J.-C.). Elle est un corollaire du théorème fondamental de l'arithmétique, dont elle utilise implicitement le résultat pour affirmer que $N$ admet un diviseur premier.
