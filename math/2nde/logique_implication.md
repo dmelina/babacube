@@ -228,6 +228,8 @@ $$\boxed{\sqrt{2} \text{ est irrationnel}}$$
 
 **Propriété :** il existe une infinité de nombres premiers.
 
+> **Rappel :** un **nombre premier** est un entier supérieur ou égal à 2 qui n'est divisible que par 1 et par lui-même. Les premiers nombres premiers sont 2, 3, 5, 7, 11, 13...
+
 Raisonnons par l'absurde.
 
 Supposons qu'il n'existe qu'un nombre fini de nombres premiers : $p_1, p_2, \ldots, p_n$.
