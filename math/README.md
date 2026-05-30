@@ -18,4 +18,10 @@
 
 ## Seconde
 
-1. [Logique et implication](2nde/logique_implication.md)
+### Logique et raisonnement
+
+1. [La logique de l'implication](2nde/logique_implication.md)
+
+### Algèbre
+
+1. [Formalisation de l'espace vectoriel $\mathbb{R}^2$](2nde/espace_vectoriel.md)
