@@ -22,6 +22,6 @@
 
 1. [La logique de l'implication](2nde/logique_implication.md)
 
-### Algèbre
+### Géométrie analytique
 
 1. [Formalisation de l'espace vectoriel ℝ²](2nde/espace_vectoriel.md)
