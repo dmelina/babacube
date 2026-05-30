@@ -13,8 +13,8 @@
 ## Troisième
 
 1. [Vocabulaire mathématique](3e/vocabulaire_mathematique.md)
-2. [Démonstrations de fin de cycle 4](3e/demonstrations.md)
-3. [Condition nécessaire et condition suffisante](3e/condition_necessaire_suffisante.md)
+2. [Condition nécessaire et condition suffisante](3e/condition_necessaire_suffisante.md)
+3. [Démonstrations de fin de cycle 4](3e/demonstrations.md)
 4. [Formulaire](3e/formulaire.md)
 
 ## Seconde
