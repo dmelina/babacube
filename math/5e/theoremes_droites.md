@@ -15,7 +15,7 @@
 
 ## 1. Rappel des définitions
 
-Deux droites sont dites **parallèles** si elles ne se coupent pas. On note $d_1 \parallel d_2$.
+Deux droites sont dites **parallèles** si elles n'ont aucun point commun : elles ne se rencontrent jamais, même prolongées à l'infini dans les deux sens. On note $d_1 \parallel d_2$.
 
 Deux droites sont dites **perpendiculaires** si elles se coupent en formant un angle droit. On note $d_1 \perp d_2$.
 
