@@ -230,9 +230,9 @@ Un triangle quelconque ne possède aucune propriété supplémentaire au-delà d
 
 **Corollaire :** connaissant un angle aigu, on en déduit l'autre : $\hat{A} = 90° - \hat{B}$.
 
-> **Pour aller plus loin :** le théorème de Pythagore affirme que $AB^2 = AC^2 + BC^2$.
-
-> **Pour aller plus loin :** la [médiane](#mediane) issue de $C$ vers l'hypoténuse $AB$ est égale à la moitié de l'hypoténuse : le milieu de $AB$ est équidistant des trois sommets.
+> **Pour aller plus loin :**
+> - Le théorème de Pythagore affirme que $AB^2 = AC^2 + BC^2$.
+> - La [médiane](#mediane) issue de $C$ vers l'hypoténuse $AB$ est égale à la moitié de l'hypoténuse : le milieu de $AB$ est équidistant des trois sommets.
 
 Un triangle rectangle isocèle est un triangle rectangle dont les deux cathètes sont égales ; ses angles aigus mesurent chacun $45°$.
 
@@ -249,11 +249,11 @@ Un triangle rectangle isocèle est un triangle rectangle dont les deux cathètes
 **Propriétés :**
 
 - Le cercle possède une infinité d'[axes de symétrie](#axe-de-symetrie) : tout diamètre est un [axe de symétrie](#axe-de-symetrie).
-- La [médiatrice](#mediatrice) de toute corde passe par le centre du cercle.
-- Deux cordes de même longueur sont équidistantes du centre, et réciproquement.
+- La [médiatrice](#mediatrice) de toute corde d'un cercle passe par son centre.
+- Dans un même cercle, deux cordes égales sont deux à deux équidistantes du centre.
 
-> **Pour aller plus loin :** une tangente à un cercle est perpendiculaire au rayon en son point de contact.
-
-> **Pour aller plus loin :** tout angle inscrit dans un demi-cercle, c'est-à-dire dont les deux côtés s'appuient sur un diamètre, est un angle droit.
+> **Pour aller plus loin :** 
+> - une tangente à un cercle est perpendiculaire au rayon en son point de contact.
+> - tout angle inscrit dans un demi-cercle, c'est-à-dire dont les deux côtés s'appuient sur un diamètre, est un angle droit.
 
 [↑ Table des matières](#table-des-matières)
