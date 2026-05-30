@@ -28,6 +28,8 @@ On définit :
 
 $$(a, b) + (c, d) = (a + c,\ b + d)$$
 
+> **Admis :** les propriétés ci-dessous sont posées comme vraies à ce niveau. Elles pourront être démontrées formellement dans un cours d'algèbre linéaire en classe préparatoire ou à l'université.
+
 Elle vérifie les propriétés suivantes :
 
 | Propriété | Formulation |
@@ -44,6 +46,8 @@ Elle vérifie les propriétés suivantes :
 Pour $\lambda \in \mathbb{R}$ et $(a, b) \in \mathbb{R}^2$ :
 
 $$\lambda \cdot (a, b) = (\lambda a,\ \lambda b)$$
+
+> **Admis :** les propriétés ci-dessous sont posées comme vraies à ce niveau. Elles pourront être démontrées formellement dans un cours d'algèbre linéaire en classe préparatoire ou à l'université.
 
 Elle vérifie :
 
