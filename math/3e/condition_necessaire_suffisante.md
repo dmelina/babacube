@@ -21,15 +21,21 @@ Maîtriser ces notions, c'est apprendre à poser les bonnes questions sur un th�
 
 ## 1. Condition suffisante
 
-**Définition.** On dit que $P$ est une **condition suffisante** de $Q$ lorsque $P \Rightarrow Q$.
+**Définition:** On dit que $P$ est une **condition suffisante** de $Q$ lorsque $P \Rightarrow Q$.
 
-Autrement dit : savoir que $P$ est vraie **suffit** à conclure que $Q$ est vraie. $P$ garantit $Q$.
+Autrement dit, savoir que $P$ est vraie **suffit** à conclure que $Q$ est vraie. $P$ garantit $Q$.
 
-**Exemple intuitif.** Être né en France est une condition suffisante pour avoir la nationalité française à la naissance. Savoir qu'un enfant est né en France suffit à conclure qu'il est français, sans avoir besoin d'autres informations.
+**Exemple intuitif:** Habiter à Paris est une condition suffisante pour habiter en France. Savoir que quelqu'un habite à Paris suffit à conclure qu'il habite en France, sans avoir besoin d'autres informations.
 
-**Exemple mathématique.** Soit $n$ un entier. Être divisible par 4 est une condition suffisante pour être divisible par 2 : si $4 \mid n$, alors $2 \mid n$. Connaître la divisibilité par 4 suffit à conclure la divisibilité par 2.
+> La réciproque est fausse: on peut habiter en France sans habiter à Paris (à Lyon, à Marseille, etc.).
 
-> La condition suffisante n'est pas toujours réciproque : 6 est divisible par 2 mais pas par 4. Être divisible par 4 suffit, mais n'est pas indispensable.
+> À l'inverse, habiter en France est une condition **nécessaire** pour habiter à Paris : on ne peut pas habiter à Paris sans habiter en France. C'est précisément ce qu'étudie la section suivante.
+
+**Exemple mathématique:** Soit $n$ un entier. Être divisible par 4 est une condition suffisante pour être divisible par 2 : si $4 \mid n$, alors $2 \mid n$. Connaître la divisibilité par 4 suffit à conclure la divisibilité par 2.
+
+> La réciproque est fausse: être divisible par 2 ne suffit pas à conclure qu'un entier est divisible par 4.
+
+> À l'inverse, être divisible par 2 est une condition **nécessaire** pour être divisible par 4 : un entier non divisible par 2 ne peut pas être divisible par 4. C'est précisément ce qu'étudie la section suivante.
 
 [↑ Table des matières](#table-des-matières)
 
@@ -37,15 +43,21 @@ Autrement dit : savoir que $P$ est vraie **suffit** à conclure que $Q$ est vrai
 
 ## 2. Condition nécessaire
 
-**Définition.** On dit que $P$ est une **condition nécessaire** de $Q$ lorsque $Q \Rightarrow P$.
+**Définition:** On dit que $P$ est une **condition nécessaire** de $Q$ lorsque $Q \Rightarrow P$.
 
-Autrement dit : $Q$ ne peut pas être vraie sans que $P$ le soit. $P$ est indispensable pour que $Q$ ait lieu.
+Autrement dit, $Q$ ne peut pas être vraie sans que $P$ le soit. $P$ est indispensable pour que $Q$ ait lieu.
 
-**Exemple intuitif.** Avoir un billet est une condition nécessaire pour monter dans le train. Sans billet, il est impossible de monter : le billet est indispensable. Mais il ne suffit pas : il faut aussi être au bon quai, au bon horaire.
+**Exemple intuitif:** Habiter en France est une condition nécessaire pour habiter à Paris. Sans habiter en France, il est impossible d'habiter à Paris : c'est indispensable.
 
-**Exemple mathématique.** Soit $n$ un entier. Être divisible par 2 est une condition nécessaire pour être divisible par 4 : si $4 \mid n$, alors $2 \mid n$. Autrement dit, un entier non divisible par 2 ne peut pas être divisible par 4. La divisibilité par 2 est donc indispensable.
+> La réciproque est fausse : habiter en France ne suffit pas à conclure qu'on habite à Paris.
 
-> La condition nécessaire n'est pas toujours suffisante : 6 est divisible par 2 mais pas par 4. La divisibilité par 2 est nécessaire, mais ne garantit pas la divisibilité par 4.
+> À l'inverse, habiter à Paris est une condition **suffisante** pour habiter en France : c'est la condition étudiée en section 1.
+
+**Exemple mathématique:** Soit $n$ un entier. Être divisible par 2 est une condition nécessaire pour être divisible par 4 : un entier non divisible par 2 ne peut pas être divisible par 4. La divisibilité par 2 est donc indispensable.
+
+> La réciproque est fausse : être divisible par 2 ne suffit pas à conclure qu'un entier est divisible par 4.
+
+> À l'inverse, être divisible par 4 est une condition **suffisante** pour être divisible par 2 : c'est la condition étudiée en section 1.
 
 [↑ Table des matières](#table-des-matières)
 

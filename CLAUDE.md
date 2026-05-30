@@ -28,6 +28,10 @@ Note : dans la démonstration de Pythagore (5.3), le fait que les quatre triangl
 - Utiliser `\mapsto` pour la notation $f : x \mapsto ax + b$
 - Pour les systèmes d'équations (`\begin{cases}`), toujours utiliser `$$...$$` (mode display) et `\cr` pour les sauts de ligne — le mode inline `$...$` et `\\` ne s'affichent pas correctement sur GitHub
 
+## Conventions typographiques
+
+- Pas d'espace avant les deux-points `:`, un espace après — on écrit `**Définition:**` et non `**Définition :**`
+
 ## Conventions de rédaction
 
 - Chaque démonstration se termine par une ancre `[↑ Table des matières](#table-des-matières)`
