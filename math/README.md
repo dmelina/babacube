@@ -24,4 +24,4 @@
 
 ### Algèbre
 
-1. [Formalisation de l'espace vectoriel $\mathbb{R}^2$](2nde/espace_vectoriel.md)
+1. [Formalisation de l'espace vectoriel ℝ²](2nde/espace_vectoriel.md)
