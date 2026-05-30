@@ -49,8 +49,6 @@ Une droite qui en coupe une autre est appelée **sécante**.
 
 **Exemple:** Les deux rails d'une voie ferrée sont parallèles. Une traverse posée perpendiculairement à l'un des rails est donc aussi perpendiculaire à l'autre.
 
-> Les théorèmes 2 et 3 sont réciproques l'un de l'autre : l'un part du parallélisme pour conclure la perpendicularité, l'autre part de la perpendicularité pour conclure le parallélisme.
-
 [↑ Table des matières](#table-des-matières)
 
 ---
@@ -64,7 +62,5 @@ Une droite qui en coupe une autre est appelée **sécante**.
 **Formulation symbolique:** Si $d_1 \perp d$ et $d_2 \perp d$, alors $d_1 \parallel d_2$.
 
 **Exemple:** Deux murs d'une pièce perpendiculaires au sol sont parallèles entre eux.
-
-> Ce théorème est la réciproque du théorème 2.
 
 [↑ Table des matières](#table-des-matières)
