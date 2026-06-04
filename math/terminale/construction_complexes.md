@@ -2,8 +2,7 @@
 
 [← Retour à l'index](../README.md)
 
-> Cours de terminale, approfondissement  
-> Prérequis : notions d'ensemble, espace vectoriel ℝ², polynômes
+> Prérequis : notions d'ensemble, espace vectoriel $\mathbb{R}^2$, polynômes
 
 ---
 
