@@ -19,12 +19,6 @@
 3. [Démonstrations de fin de cycle 4](3e/demonstrations.md)
 4. [Formulaire](3e/formulaire.md)
 
-## Terminale
-
-### Nombres complexes
-
-1. [Construction du corps des nombres complexes](terminale/construction_complexes.md)
-
 ## Seconde
 
 ### Logique et raisonnement
@@ -34,3 +28,11 @@
 ### Géométrie analytique
 
 1. [Formalisation de l'espace vectoriel ℝ²](2nde/espace_vectoriel.md)
+
+## Première
+
+## Terminale
+
+### Nombres complexes
+
+1. [Construction du corps des nombres complexes](terminale/construction_complexes.md)
