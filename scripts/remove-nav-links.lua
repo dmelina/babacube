@@ -7,6 +7,7 @@ local nav_patterns = {
   "Vocabulaire",
   "Chronologie",
   "Table des mati",
+  "Cours complet",
 }
 
 local function is_nav_link(el)
