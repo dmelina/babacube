@@ -1,3 +1,8 @@
+---
+description: Génère un PDF à partir d'un fichier Markdown de cours d'histoire. Utiliser quand l'utilisateur veut exporter ou imprimer un cours.
+argument-hint: [chemin/vers/fichier.md]
+---
+
 Génère un PDF à partir d'un fichier Markdown de cours d'histoire.
 
 Si l'utilisateur a fourni un nom de fichier en argument, utilise-le. Sinon, demande-lui quel fichier Markdown convertir.
