@@ -111,6 +111,23 @@ Les élèves visés sont exigeants : le contenu peut dépasser le programme offi
 - Ne jamais introduire un personnage ou un événement sans le situer (date, contexte)
 - Les termes du vocabulaire sont en **gras** avec lien à leur première occurrence dans chaque section
 
+### Génération PDF
+
+Commande pour générer un PDF à partir d'un cours d'histoire :
+
+```bash
+pandoc <fichier.md> -o <fichier.pdf> \
+  --pdf-engine=xelatex \
+  -V papersize=a4 \
+  -V geometry:left=2.5cm,right=2.5cm,top=2.5cm,bottom=2.5cm \
+  -V header-includes='\renewcommand{\arraystretch}{1.8}' \
+  --lua-filter=/mnt/c/Users/davym/Documents/Github/babacube/remove-nav-links.lua
+```
+
+- `arraystretch=1.8` : espacement des lignes dans les tableaux
+- `remove-nav-links.lua` : supprime les liens de navigation (Retour à l'index, Vocabulaire, Chronologie, Table des matières) du PDF
+- Marges : 2.5 cm sur les quatre côtés
+
 ---
 
 ## Conventions git
