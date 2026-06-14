@@ -1,4 +1,4 @@
-# Fiche de révision — La Première Guerre mondiale (Brevet)
+# Fiche de révision : La Première Guerre mondiale (Brevet)
 
 [← Retour à l'index](../README.md) · [← Cours complet](premiere_guerre_mondiale.md)
 

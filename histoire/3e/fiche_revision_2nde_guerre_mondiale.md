@@ -1,4 +1,4 @@
-# Fiche de révision — La Seconde Guerre mondiale (Brevet)
+# Fiche de révision : La Seconde Guerre mondiale (Brevet)
 
 [← Retour à l'index](../README.md) · [← Cours complet](seconde_guerre_mondiale.md)
 
