@@ -44,3 +44,7 @@ function Link(el)
     return {}
   end
 end
+
+function HorizontalRule()
+  return {}
+end
