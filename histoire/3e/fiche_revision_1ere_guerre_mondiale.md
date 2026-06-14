@@ -45,6 +45,8 @@
 
 ---
 
+\newpage
+
 ## Les deux camps
 
 | L'Entente | Les Puissances centrales |
