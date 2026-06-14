@@ -95,6 +95,18 @@
 
 ---
 
+## La France sous l'Occupation : Vichy et la Résistance
+
+**Le Régime de Vichy.** Après la défaite, Pétain signe l'armistice et obtient les pleins pouvoirs le 10 juillet 1940 : c'est la fin de la République. Il met en place un régime autoritaire fondé sur la devise « Travail, Famille, Patrie ». À Montoire (24 octobre 1940), il engage la France dans la [**collaboration**](seconde_guerre_mondiale.md#voc-collaboration) avec l'Allemagne. En 1943, le [**STO**](seconde_guerre_mondiale.md#voc-sto) réquisitionne les jeunes Français pour les usines allemandes. Vichy mène aussi une politique antisémite de sa propre initiative : Statut des Juifs (octobre 1940), camps d'internement, et la Rafle du Vél d'Hiv (16-17 juillet 1942) où 13 000 Juifs sont arrêtés par la police française et déportés vers Auschwitz.
+
+**La Résistance extérieure.** Le 18 juin 1940, de Gaulle lance depuis Londres son appel à continuer le combat. Il fonde la France Libre et les [**FFL**](seconde_guerre_mondiale.md#voc-ffl) (Forces Françaises Libres), qui combattent aux côtés des Alliés en Afrique du Nord puis en Europe.
+
+**La Résistance intérieure.** En France occupée, des citoyens agissent clandestinement : journaux interdits, faux papiers, sabotages, renseignements transmis à Londres. Le refus du STO pousse des milliers de jeunes à rejoindre les [**maquis**](seconde_guerre_mondiale.md#voc-maquis), qui forment les [**FFI**](seconde_guerre_mondiale.md#voc-ffi) (Forces Françaises de l'Intérieur). En mai 1943, Jean Moulin unifie tous ces mouvements au sein du [**CNR**](seconde_guerre_mondiale.md#voc-cnr).
+
+**La Libération.** Après les débarquements en Normandie (6 juin 1944) et en Provence (15 août 1944), les FFI et FFL participent à la libération du territoire. Paris est libéré le 25 août 1944. Le programme du CNR est appliqué : rétablissement des libertés, droit de vote pour les femmes, création de la Sécurité sociale.
+
+---
+
 ## Le génocide des Juifs et des Tziganes
 
 Le génocide des Juifs (la [**Shoah**](#voc-shoah)) et des Tziganes est la face la plus criminelle du nazisme. Il s'est déroulé en trois étapes.
@@ -115,6 +127,8 @@ Au total, six millions de Juifs et plusieurs centaines de milliers de Tziganes s
 - **Hitler:** chancelier puis Führer de l'Allemagne nazie (1933-1945)
 - **Léon Blum:** chef du gouvernement du Front Populaire (1936)
 - **De Gaulle:** général français, lance l'appel du 18 juin 1940, chef de la France libre
+- **Jean Moulin:** représentant de de Gaulle en France occupée, crée le CNR en mai 1943, arrêté et mort sous la torture en 1943
+- **Pétain:** maréchal, chef du Régime de Vichy (1940-1944), condamné pour haute trahison à la Libération
 - **Roosevelt:** président des États-Unis, chef des Alliés
 - **Churchill:** Premier ministre britannique
 
