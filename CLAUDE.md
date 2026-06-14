@@ -121,7 +121,7 @@ pandoc <fichier.md> -o <fichier.pdf> \
   -V papersize=a4 \
   -V geometry:left=2.5cm,right=2.5cm,top=2.5cm,bottom=2.5cm \
   -V header-includes='\renewcommand{\arraystretch}{1.8}' \
-  --lua-filter=/mnt/c/Users/davym/Documents/Github/babacube/scripts/remove-nav-links.lua
+  --lua-filter=scripts/remove-nav-links.lua
 ```
 
 - `arraystretch=1.8` : espacement des lignes dans les tableaux
