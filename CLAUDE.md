@@ -35,7 +35,6 @@ Les élèves visés sont exigeants : le contenu peut dépasser le programme offi
 
 ## Conventions communes
 
-- Pas de « car » : préférer « comme » ou « puisque »
 - Pas de tiret long « — » dans le texte courant
 - Pas d'espace avant les deux-points (écrire `**Définition:**` et non `**Définition :**`)
 - Chaque grande section se termine par `[↑ Table des matières](#table-des-matières)`
@@ -56,6 +55,7 @@ Les élèves visés sont exigeants : le contenu peut dépasser le programme offi
 
 ### Conventions de rédaction
 
+- Pas de « car » : préférer « comme » ou « puisque »
 - Pas de bullet points dans les démonstrations : tout en prose
 - Les définitions précèdent toujours les démonstrations dans chaque sous-partie
 - Ne jamais introduire un objet mathématique sans l'avoir initialisé — toujours commencer par « Soient $a$, $b$... »
