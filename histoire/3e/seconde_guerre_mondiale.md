@@ -13,7 +13,8 @@
    - [I. Une guerre d'anéantissement planétaire](#i-une-guerre-danéantissement-planétaire-aux-violences-extrêmes)
    - [II. La mobilisation totale](#ii-la-mobilisation-totale-des-économies-et-des-sociétés)
    - [III. Un affrontement idéologique mondial](#iii-un-affrontement-idéologique-mondial)
-   - [IV. Le bilan et le génocide des Juifs et des Tziganes](#iv-le-bilan-du-conflit-et-le-génocide-des-juifs-et-des-tziganes)
+   - [IV. La France sous l'Occupation : Vichy et la Résistance](#iv-la-france-sous-loccupation--vichy-et-la-résistance-1940-1944)
+   - [V. Le bilan et le génocide des Juifs et des Tziganes](#v-le-bilan-du-conflit-et-le-génocide-des-juifs-et-des-tziganes)
 
 [Vocabulaire](#vocabulaire) · [Chronologie](#chronologie)
 
@@ -27,13 +28,23 @@
 
 <a id="voc-blitzkrieg"></a>**Blitzkrieg (guerre éclair):** stratégie militaire offensive allemande combinant l'aviation, les chars blindés et l'infanterie rapide pour percer les lignes ennemies avant qu'elles ne puissent se réorganiser.
 
+<a id="voc-collaboration"></a>**Collaboration:** politique par laquelle le gouvernement de Vichy accepte de coopérer activement avec l'Allemagne nazie occupante sur les plans économique, politique et militaire.
+
 <a id="voc-camp-concentration"></a>**Camp de concentration:** camp d'enfermement et de travail forcé où les nazis plaçaient les opposants ou les personnes jugées dangereuses. La mortalité y était extrêmement forte.
 
 <a id="voc-camp-extermination"></a>**Camp d'extermination:** centre construit par les nazis spécifiquement pour l'assassinat de masse immédiat et industriel des populations déportées.
 
+<a id="voc-cnr"></a>**CNR (Conseil National de la Résistance):** organe créé par Jean Moulin en mai 1943 pour unifier tous les mouvements de résistance intérieure sous l'autorité du général de Gaulle.
+
 <a id="voc-culte-personnalité"></a>**Culte de la personnalité:** adoration d'un chef organisée de manière systématique par la propagande d'État.
 
 <a id="voc-einsatzgruppen"></a>**Einsatzgruppen:** unités mobiles de policiers et de soldats SS qui suivaient l'armée allemande lors de l'invasion de l'URSS pour fusiller systématiquement les Juifs et les opposants.
+
+<a id="voc-exode"></a>**Exode:** fuite massive et désorganisée d'environ 8 millions de civils français sur les routes, en mai-juin 1940, devant l'avancée allemande.
+
+<a id="voc-ffi"></a>**FFI (Forces Françaises de l'Intérieur):** armée de résistants intérieurs formée en France occupée, notamment par les maquisards, qui participèrent activement à la libération du territoire en 1944.
+
+<a id="voc-ffl"></a>**FFL (Forces Françaises Libres):** armée de volontaires créée par le général de Gaulle à Londres pour combattre aux côtés des Alliés après l'armistice de 1940.
 
 <a id="voc-ghetto"></a>**Ghetto:** quartier fermé d'une ville, isolé par des murs ou des barbelés, où les nazis enfermaient de force les populations juives dans des conditions misérables en attendant leur déportation.
 
@@ -45,13 +56,27 @@
 
 <a id="voc-kolkhoze"></a>**Kolkhoze:** exploitation agricole collective soviétique, où les paysans mettaient en commun leurs terres, leur bétail et leur matériel sous le contrôle de l'État.
 
+<a id="voc-ligne-démarcation"></a>**Ligne de démarcation:** frontière imposée par l'armistice de juin 1940, séparant la zone nord occupée par l'armée allemande de la zone sud dite « libre », administrée par le régime de Vichy.
+
+<a id="voc-maquis"></a>**Maquis:** groupes de combattants résistants, souvent des jeunes fuyant le STO, cachés dans les zones rurales et montagneuses (Vercors, Glières) pour mener des actions armées contre l'occupant.
+
+<a id="voc-milice"></a>**Milice:** organisation paramilitaire française créée par Vichy en 1943 pour traquer les résistants et les Juifs, en étroite collaboration avec la Gestapo.
+
 <a id="voc-police-politique"></a>**Police politique:** police chargée de traquer non pas les criminels de droit commun, mais les opposants politiques au régime.
 
 <a id="voc-propagande"></a>**Propagande:** diffusion par un État d'idées qu'il veut imposer à toute la population pour influencer ses pensées et ses actions.
 
+<a id="voc-rafle"></a>**Rafle:** arrestation massive et organisée d'une population ciblée par les forces de l'ordre. La Rafle du Vélodrome d'Hiver (juillet 1942) est la plus grande rafle de Juifs organisée par la police française.
+
+<a id="voc-régime-vichy"></a>**Régime de Vichy (État français):** régime autoritaire mis en place par le maréchal Pétain après la défaite de 1940. Il supprime la République, collabore avec l'Allemagne nazie et mène une politique antisémite de sa propre initiative.
+
+<a id="voc-résistance"></a>**Résistance:** ensemble des actions et mouvements clandestins qui refusent l'occupation allemande et la politique de Vichy : sabotages, journaux interdits, réseaux d'évasion, maquis armés.
+
 <a id="voc-régime-totalitaire"></a>**Régime totalitaire:** régime politique dans lequel l'État contrôle tous les aspects de la vie (politique, économique, culturel) et cherche à soumettre l'ensemble de la population par la propagande et la répression.
 
 <a id="voc-répression"></a>**Répression:** fait d'arrêter par la force et de punir sévèrement des opposants politiques.
+
+<a id="voc-sto"></a>**STO (Service du Travail Obligatoire):** réquisition forcée instaurée par Vichy en 1943, contraignant les jeunes Français nés entre 1920 et 1922 à aller travailler dans les usines de guerre en Allemagne. Le refus du STO pousse des milliers de jeunes à rejoindre les maquis.
 
 <a id="voc-shoah"></a>**Shoah / Solution finale:** « Shoah » est un terme hébreu signifiant « catastrophe », désignant le génocide des Juifs d'Europe. « Solution finale » est l'expression codée utilisée par les nazis pour nommer ce projet d'extermination planifiée d'un peuple entier.
 
@@ -79,11 +104,19 @@
 | 10 mai – 22 juin 1940 | Bataille de France : la Blitzkrieg contourne la ligne Maginot par les Ardennes. Les nazis entrent dans Paris le 14 juin. La France capitule en 43 jours. |
 | 18 juin 1940 | Appel du général de Gaulle depuis Londres : il refuse la défaite et appelle les Français à continuer le combat. C'est l'acte fondateur de la France libre. |
 | 22 juin 1940 | Armistice signé par le maréchal Pétain. La France est coupée en deux : zone occupée au nord, zone libre au sud sous le régime de Vichy. |
+| 10 juillet 1940 | Le Parlement réuni à Vichy vote les pleins pouvoirs constitutionnels à Pétain. C'est la fin officielle de la IIIe République et la naissance du Régime de Vichy. |
+| Octobre 1940 | Premier Statut des Juifs : Vichy, de sa propre initiative, exclut les Juifs de la fonction publique, des médias et de nombreuses professions. |
+| 24 octobre 1940 | Entrevue de Montoire : Pétain rencontre Hitler et engage officiellement la France dans la collaboration avec le IIIe Reich. |
+| 16–17 juillet 1942 | Rafle du Vélodrome d'Hiver (Vél d'Hiv) : plus de 13 000 Juifs (dont 4 000 enfants) sont arrêtés à Paris par la police française, puis déportés vers Auschwitz. |
+| 1943 | STO (Service du Travail Obligatoire) : Vichy réquisitionne les jeunes Français pour travailler dans les usines allemandes. Le refus du STO alimente les maquis. |
+| Mai 1943 | Jean Moulin crée le CNR (Conseil National de la Résistance), unifiant tous les mouvements de résistance intérieure. |
+| 21 avril 1944 | Le droit de vote est accordé aux femmes françaises (il sera exercé pour la première fois en 1945). |
 | 22 juin 1941 | Opération Barbarossa : l'Allemagne envahit l'URSS en rompant le pacte de 1939. C'est le plus grand assaut militaire de l'histoire. L'URSS bascule dans le camp des Alliés. |
 | 7 décembre 1941 | Attaque japonaise sur Pearl Harbor (Hawaii) : la flotte américaine du Pacifique est détruite. Les États-Unis entrent en guerre le lendemain. |
 | 20 janvier 1942 | Conférence de Wannsee (Berlin) : les hauts responsables nazis planifient la « Solution finale », c'est-à-dire l'extermination systématique de tous les Juifs d'Europe. |
 | Nov. 1942 – 2 fév. 1943 | Bataille de Stalingrad : après cinq mois de combats acharnés, la 6e armée allemande capitule. C'est le tournant décisif : l'Allemagne ne reprendra plus l'initiative. |
 | 6 juin 1944 | Débarquement allié en Normandie (opération Overlord) : 156 000 soldats alliés débarquent sur les plages normandes. C'est la plus grande opération amphibie de l'histoire. |
+| 15 août 1944 | Débarquement allié en Provence : les FFI et les FFL participent à la libération du sud de la France. |
 | 25 août 1944 | Libération de Paris par les forces françaises et alliées. |
 | 8 mai 1945 | Capitulation sans condition de l'Allemagne nazie. Hitler s'est suicidé le 30 avril à Berlin. C'est la fin de la guerre en Europe. |
 | 6 et 9 août 1945 | Les États-Unis larguent deux bombes atomiques sur Hiroshima (80 000 morts immédiats) et Nagasaki (40 000 morts immédiats). |
@@ -211,7 +244,43 @@ Les [**Alliés**](#voc-alliés), de leur côté, se battent au nom de la défens
 
 ---
 
-### IV. Le bilan du conflit et le génocide des Juifs et des Tziganes
+### IV. La France sous l'Occupation : Vichy et la Résistance (1940-1944)
+
+#### A) La débâcle et la naissance du Régime de Vichy
+
+En mai-juin 1940, la [**Blitzkrieg**](#voc-blitzkrieg) allemande écrase l'armée française en quelques semaines. C'est la débâcle. Près de 8 millions de civils fuient sur les routes dans un climat de panique totale : c'est l'[**exode**](#voc-exode). Le 16 juin 1940, le maréchal Philippe Pétain est nommé chef du gouvernement. Il signe l'armistice le 22 juin, divisant le pays en deux zones séparées par la [**ligne de démarcation**](#voc-ligne-démarcation) : au nord, une zone occupée par l'armée allemande ; au sud, une zone dite « libre » administrée depuis la ville de Vichy.
+
+Le 10 juillet 1940, le Parlement, réuni à Vichy, vote les pleins pouvoirs constitutionnels à Pétain. C'est la fin de la IIIe République et la naissance du [**Régime de Vichy**](#voc-régime-vichy), un État autoritaire dans lequel Pétain cumule tous les pouvoirs, supprime les élections et censure les médias.
+
+#### B) La politique du Régime de Vichy : collaboration et antisémitisme
+
+Pétain rejette les valeurs républicaines et met en place une idéologie réactionnaire résumée par la devise « Travail, Famille, Patrie », en remplacement de « Liberté, Égalité, Fraternité ». Les syndicats et le droit de grève sont interdits. La femme au foyer et la famille nombreuse sont glorifiées.
+
+Le 24 octobre 1940, lors de l'entrevue de Montoire, Pétain rencontre Hitler et engage officiellement la France dans la [**collaboration**](#voc-collaboration) avec le IIIe Reich. En 1943, Vichy instaure le [**STO**](#voc-sto) (Service du Travail Obligatoire), réquisitionnant les jeunes Français pour travailler de force dans les usines allemandes.
+
+Le Régime de Vichy mène également une politique antisémite de sa propre initiative, sans que l'Allemagne ne l'impose au départ. Dès octobre 1940, le premier Statut des Juifs exclut ces derniers de la fonction publique et de nombreuses professions. Vichy ouvre des camps d'internement sur le territoire français, comme Drancy. Les 16 et 17 juillet 1942, lors de la [**Rafle du Vélodrome d'Hiver**](#voc-rafle), plus de 13 000 Juifs, dont plus de 4 000 enfants, sont arrêtés à Paris par la police française et déportés vers Auschwitz. Au total, Vichy a livré près de 76 000 Juifs de France aux nazis, dont très peu reviendront.
+
+#### C) La Résistance : refuser la défaite et combattre l'occupant
+
+Face à l'occupation et à la politique de Vichy, une [**résistance**](#voc-résistance) s'organise sur deux fronts.
+
+Depuis Londres, le général de Gaulle lance le 18 juin 1940 son appel à poursuivre le combat. Il fonde la France Libre et crée les [**FFL**](#voc-ffl) (Forces Françaises Libres), une armée de volontaires qui combat aux côtés des Alliés en Afrique du Nord et en Europe.
+
+En France occupée, des citoyens refusent clandestinement l'occupation : ils rédigent et diffusent des journaux interdits, fabriquent de faux papiers, sabotent les voies ferrées et transmettent des renseignements à Londres. À partir de 1943, le refus du STO pousse des milliers de jeunes à fuir dans les zones montagneuses pour former les [**maquis**](#voc-maquis). Ces combattants constituent les [**FFI**](#voc-ffi) (Forces Françaises de l'Intérieur). La [**Milice**](#voc-milice), organisation paramilitaire créée par Vichy, les traque avec une férocité redoublée aux côtés de la Gestapo.
+
+Pour unifier ces mouvements dispersés, le général de Gaulle envoie son représentant Jean Moulin en France. En mai 1943, Moulin réussit à fédérer tous les mouvements de résistance intérieure au sein du [**CNR**](#voc-cnr) (Conseil National de la Résistance). Le CNR coordonne les actions militaires et prépare les réformes politiques pour l'après-guerre, notamment l'instauration du droit de vote pour les femmes (21 avril 1944) et la création de la Sécurité sociale (1945).
+
+#### D) La Libération et le rétablissement de la République
+
+À la suite des débarquements alliés en Normandie (6 juin 1944) et en Provence (15 août 1944), les FFI et les FFL participent activement à la libération des villes françaises. Le 25 août 1944, Paris est libéré. Le général de Gaulle y prononce un discours affirmant la légitimité de la République et l'effacement du Régime de Vichy.
+
+Le Gouvernement Provisoire de la République Française (GPRF), dirigé par de Gaulle, prend le pouvoir et applique le programme du CNR : rétablissement des libertés fondamentales, droit de vote accordé aux femmes, création de la Sécurité sociale pour protéger les citoyens contre les risques de la vie. Les dirigeants de Vichy sont jugés pour haute trahison.
+
+[↑ Table des matières](#table-des-matières)
+
+---
+
+### V. Le bilan du conflit et le génocide des Juifs et des Tziganes
 
 #### 1. Un bilan effroyable
 

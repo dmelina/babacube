@@ -16,6 +16,12 @@
 | **1er sept. 1939** | Invasion de la Pologne : début de la Seconde Guerre mondiale |
 | **Mai–juin 1940** | Blitzkrieg : la France capitule en six semaines |
 | **18 juin 1940** | Appel du Général de Gaulle depuis Londres |
+| **10 juil. 1940** | Vote des pleins pouvoirs à Pétain : fin de la IIIe République, naissance du Régime de Vichy |
+| **24 oct. 1940** | Entrevue de Montoire : Pétain engage la France dans la collaboration avec l'Allemagne nazie |
+| **Oct. 1940** | Premier Statut des Juifs : Vichy exclut les Juifs de la fonction publique et des professions libérales |
+| **16–17 juil. 1942** | Rafle du Vél d'Hiv : 13 000 Juifs arrêtés par la police française, déportés vers Auschwitz |
+| **1943** | STO : Vichy réquisitionne les jeunes Français pour les usines allemandes — des milliers rejoignent les maquis |
+| **Mai 1943** | Jean Moulin crée le CNR, unifiant tous les mouvements de résistance intérieure |
 | **Juin 1941** | Opération Barbarossa : invasion de l'URSS |
 | **Déc. 1941** | Attaque de Pearl Harbor : entrée en guerre des États-Unis |
 | **20 janv. 1942** | Conférence de Wannsee : planification de la « Solution finale » |
