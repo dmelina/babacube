@@ -64,6 +64,64 @@ Note : dans la démonstration de Pythagore (5.3), le fait que les quatre triangl
 4. Erreurs classiques à éviter
 5. Démonstrations (5.1 Arithmétique, 5.2 Proportionnalité, 5.3 Géométrie, 5.4 Fonctions, 5.5 Probabilités, 5.6 Algèbre, 5.7 Statistiques)
 
+## Cours d'histoire
+
+### Structure des fichiers
+
+- Répertoire `histoire/` avec un `README.md` servant d'index général
+- Sous-répertoire par niveau : `histoire/3e/`
+- Chaque chapitre produit deux fichiers : un cours complet (`nom_du_chapitre.md`) et une fiche de révision brevet (`fiche_revision_nom_du_chapitre.md`)
+
+### Cours d'histoire — fichiers existants (3e)
+
+- `histoire/3e/premiere_guerre_mondiale.md` + `fiche_revision_1ere_guerre_mondiale.md`
+- `histoire/3e/seconde_guerre_mondiale.md` + `fiche_revision_2nde_guerre_mondiale.md`
+
+### Structure d'un cours complet
+
+1. Titre `#` + lien retour index
+2. Table des matières avec liens vers chaque section et vers Vocabulaire/Chronologie
+3. Section `## Vocabulaire` avec ancres `<a id="voc-nom-du-terme"></a>` pour chaque terme
+4. Section `## Chronologie` en tableau `| Date | Événement |` avec dates complètes et contexte
+5. Sections narratives en prose (`##` pour les grandes parties, `###` pour les sous-parties, `####` pour les sous-sous-parties)
+6. Chaque section se termine par `[↑ Table des matières](#table-des-matières)`
+7. Blocs `> **Pour aller plus loin:**` pour les enrichissements hors programme
+8. Blocs `> **Exemples de ...:**` pour les exemples illustratifs
+
+### Structure d'une fiche de révision brevet
+
+1. Titre + liens retour index et cours complet
+2. `## Dates clés` : tableau avec dates en **gras**, mois abrégés (ex: `Fév. 1916`), événement court
+3. `## Définitions importantes` : termes avec ancres `<a id="voc-xxx"></a>`, définitions courtes, liens croisés entre termes
+4. `## Les deux camps` : tableau récapitulatif des belligérants
+5. Sections synthétiques par thème (un paragraphe par point clé)
+6. `## Personnages clés` : liste avec rôle et dates
+7. `## Chiffres clés` : bilan humain, chiffres marquants
+
+### Conventions vocabulaire
+
+- Ancre format : `<a id="voc-nom-du-terme"></a>` (minuscules, tirets, pas d'accents dans l'id)
+- Au premier usage d'un terme dans le texte : `[**terme**](#voc-terme)` (gras + lien)
+- Les usages suivants du même terme dans le même fichier n'ont pas besoin d'être reliés
+- Ne jamais définir un terme dans le corps du texte s'il est déjà dans le vocabulaire : renvoyer à l'ancre
+- Dans la fiche de révision, les liens vers le vocabulaire du cours complet utilisent le format `[terme](nom_du_fichier.md#voc-terme)`
+
+### Conventions chronologie
+
+- Cours complet : dates complètes (ex: `21 février – 18 décembre 1916`), colonne Événement avec contexte et portée
+- Fiche de révision : mois abrégés (ex: `Fév. – déc. 1916`), événement concis
+- Ordre strictement chronologique
+- Intégrer les nouvelles dates dans l'ordre, jamais en bloc à la fin
+
+### Conventions de rédaction (histoire)
+
+- Prose narrative pure, jamais de bullet points dans le corps du cours
+- Pas de « car » : préférer « comme » ou « puisque »
+- Pas de tiret long « — » dans le texte courant
+- Pas d'espace avant les deux-points
+- Ne jamais introduire un personnage ou un événement sans le situer (date, contexte)
+- Les termes du vocabulaire sont en **gras** avec lien à leur première occurrence dans chaque section
+
 ## Conventions git
 
 - Préfixe `docs:` pour les commits sur les cours
