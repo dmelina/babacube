@@ -4,11 +4,12 @@
 
 ## Table des matières
 
-1. [Chapitre 2 — Démocratie et régimes totalitaires (1919-1939)](#chapitre-2--démocratie-et-régimes-totalitaires-1919-1939)
+1. [Démocratie et régimes totalitaires (1919-1939)](#démocratie-et-régimes-totalitaires-1919-1939)
    - [I. L'URSS de Staline](#i-lurss-de-staline)
    - [II. L'Allemagne nazie d'Hitler](#ii-lallemagne-nazie-dhitler-1933-1945)
    - [III. La France du Front Populaire](#iii-la-france-du-front-populaire-face-à-la-crise)
-2. [Chapitre 3 — La Seconde Guerre mondiale (1939-1945)](#chapitre-3--la-seconde-guerre-mondiale-1939-1945)
+2. [La Seconde Guerre mondiale (1939-1945)](#la-seconde-guerre-mondiale-1939-1945)
+   - [Les deux camps](#les-deux-camps)
    - [I. Une guerre d'anéantissement planétaire](#i-une-guerre-danéantissement-planétaire-aux-violences-extrêmes)
    - [II. La mobilisation totale](#ii-la-mobilisation-totale-des-économies-et-des-sociétés)
    - [III. Un affrontement idéologique mondial](#iii-un-affrontement-idéologique-mondial)
@@ -20,11 +21,7 @@
 
 ## Vocabulaire
 
-<a id="voc-alliés"></a>**Alliés:** coalition des pays opposés aux puissances de l'Axe, principalement les États-Unis, le Royaume-Uni et l'URSS.
-
 <a id="voc-antisémitisme"></a>**Antisémitisme:** idéologie de haine et de discrimination à l'égard des Juifs, présentés comme une race inférieure et ennemie.
-
-<a id="voc-axe"></a>**Axe:** alliance militaire signée en 1940 entre l'Allemagne nazie, l'Italie fasciste et l'Empire du Japon.
 
 <a id="voc-belligérant"></a>**Belligérant:** pays ou armée qui participe directement à une guerre.
 
@@ -64,37 +61,37 @@
 
 | Date | Événement |
 |---|---|
-| 1917 | Révolution bolchevique : Lénine mène la révolution communiste en Russie |
-| 1922 | Création de l'URSS |
-| 1924 | Mort de Lénine : Staline prend le pouvoir |
-| 1925 | Hitler rédige *Mein Kampf* en prison, exposant son programme idéologique |
-| 1929 | Krach boursier de Wall Street : début de la grande crise économique mondiale |
-| 1932 | Le parti nazi devient le premier parti au Reichstag (Parlement allemand) |
-| 30 janvier 1933 | Hitler nommé chancelier par le président Hindenburg |
-| 1935 | Lois de Nuremberg : les Juifs perdent leur citoyenneté allemande |
-| 1936 | Front Populaire remporte les élections en France. Accords Matignon |
-| 9–10 novembre 1938 | Nuit de cristal : pogrom organisé dans toute l'Allemagne |
-| Mars 1938 | Anschluss : annexion de l'Autriche par l'Allemagne nazie |
-| 30 septembre 1938 | Accords de Munich : la France et le Royaume-Uni cèdent face à Hitler |
-| 23 août 1939 | Pacte germano-soviétique : pacte de non-agression entre Hitler et Staline |
-| 1er septembre 1939 | L'Allemagne envahit la Pologne : début de la Seconde Guerre mondiale |
-| 3 septembre 1939 | La France et le Royaume-Uni déclarent la guerre à l'Allemagne |
-| Mai – juin 1940 | Bataille de France : invasion éclair, les nazis entrent dans Paris le 14 juin |
-| 18 juin 1940 | Appel du général de Gaulle à la Résistance depuis Londres |
-| 22 juin 1940 | Armistice entre la France (gouvernement de Pétain) et l'Allemagne |
-| Juin 1941 | Opération Barbarossa : l'Allemagne envahit l'URSS |
-| 7 décembre 1941 | Attaque japonaise sur Pearl Harbor : entrée en guerre des États-Unis |
-| 20 janvier 1942 | Conférence de Wannsee : les nazis planifient la « Solution finale » |
-| 2 février 1943 | Capitulation allemande à Stalingrad : tournant décisif de la guerre |
-| 6 juin 1944 | Débarquement allié en Normandie |
-| 25 août 1944 | Libération de Paris |
-| 8 mai 1945 | Capitulation de l'Allemagne nazie : fin de la guerre en Europe |
-| 6 et 9 août 1945 | Bombardements atomiques américains sur Hiroshima et Nagasaki |
-| 2 septembre 1945 | Capitulation du Japon : fin définitive du conflit mondial |
+| 1917 | Révolution bolchevique : Lénine renverse le tsar et mène la révolution communiste en Russie. Le pays sort de la guerre. |
+| 1922 | Création de l'URSS (Union des Républiques socialistes soviétiques), nouvel État communiste issu de l'ancien Empire russe. |
+| 1924 | Mort de Lénine : Staline écarte ses rivaux et s'impose comme seul dirigeant de l'URSS. |
+| 1925 | Hitler rédige *Mein Kampf* (Mon Combat) en prison, ouvrage dans lequel il expose son programme raciste et antisémite. |
+| 1929 | Krach boursier de Wall Street : la crise économique mondiale provoque une explosion du chômage en Europe et ouvre la voie aux partis extrémistes. |
+| 1932 | Le parti nazi devient le premier parti au Reichstag (Parlement allemand) avec 37 % des voix. |
+| 30 janvier 1933 | Hitler nommé chancelier par le président Hindenburg. Il est arrivé au pouvoir par les urnes, dans un cadre légal. |
+| 1935 | Lois de Nuremberg : les Juifs sont privés de leur citoyenneté allemande et les mariages entre Juifs et Allemands sont interdits. |
+| Juin 1936 | Le Front Populaire remporte les élections en France. Les Accords Matignon instaurent la semaine de 40 heures et deux semaines de congés payés. |
+| Mars 1938 | Anschluss : Hitler annexe l'Autriche sans rencontrer de résistance. Les démocraties ne réagissent pas. |
+| 30 septembre 1938 | Accords de Munich : la France et le Royaume-Uni acceptent l'annexion par Hitler des Sudètes (région tchèque) pour tenter d'éviter la guerre. C'est la politique d'apaisement. |
+| 9–10 novembre 1938 | Nuit de cristal : un gigantesque pogrom est organisé dans toute l'Allemagne. Synagogues, logements et commerces juifs sont détruits. Les premières déportations vers les camps commencent. |
+| 23 août 1939 | Pacte germano-soviétique : Hitler et Staline signent un pacte de non-agression qui libère l'Allemagne du risque d'une guerre sur deux fronts. |
+| 1er septembre 1939 | L'Allemagne envahit la Pologne : début de la Seconde Guerre mondiale. La Blitzkrieg écrase l'armée polonaise en quelques semaines. |
+| 3 septembre 1939 | La France et le Royaume-Uni déclarent la guerre à l'Allemagne pour respecter leurs engagements envers la Pologne. |
+| 10 mai – 22 juin 1940 | Bataille de France : la Blitzkrieg contourne la ligne Maginot par les Ardennes. Les nazis entrent dans Paris le 14 juin. La France capitule en 43 jours. |
+| 18 juin 1940 | Appel du général de Gaulle depuis Londres : il refuse la défaite et appelle les Français à continuer le combat. C'est l'acte fondateur de la France libre. |
+| 22 juin 1940 | Armistice signé par le maréchal Pétain. La France est coupée en deux : zone occupée au nord, zone libre au sud sous le régime de Vichy. |
+| 22 juin 1941 | Opération Barbarossa : l'Allemagne envahit l'URSS en rompant le pacte de 1939. C'est le plus grand assaut militaire de l'histoire. L'URSS bascule dans le camp des Alliés. |
+| 7 décembre 1941 | Attaque japonaise sur Pearl Harbor (Hawaii) : la flotte américaine du Pacifique est détruite. Les États-Unis entrent en guerre le lendemain. |
+| 20 janvier 1942 | Conférence de Wannsee (Berlin) : les hauts responsables nazis planifient la « Solution finale », c'est-à-dire l'extermination systématique de tous les Juifs d'Europe. |
+| Nov. 1942 – 2 fév. 1943 | Bataille de Stalingrad : après cinq mois de combats acharnés, la 6e armée allemande capitule. C'est le tournant décisif : l'Allemagne ne reprendra plus l'initiative. |
+| 6 juin 1944 | Débarquement allié en Normandie (opération Overlord) : 156 000 soldats alliés débarquent sur les plages normandes. C'est la plus grande opération amphibie de l'histoire. |
+| 25 août 1944 | Libération de Paris par les forces françaises et alliées. |
+| 8 mai 1945 | Capitulation sans condition de l'Allemagne nazie. Hitler s'est suicidé le 30 avril à Berlin. C'est la fin de la guerre en Europe. |
+| 6 et 9 août 1945 | Les États-Unis larguent deux bombes atomiques sur Hiroshima (80 000 morts immédiats) et Nagasaki (40 000 morts immédiats). |
+| 2 septembre 1945 | Capitulation du Japon : fin définitive du conflit mondial, six ans et un jour après le début de la guerre. |
 
 ---
 
-## Chapitre 2 — Démocratie et régimes totalitaires (1919-1939)
+## Démocratie et régimes totalitaires (1919-1939)
 
 ### I. L'URSS de Staline
 
@@ -158,7 +155,23 @@ Victime de violentes critiques, l'alliance éclate et prend fin en 1938. Pendant
 
 ---
 
-## Chapitre 3 — La Seconde Guerre mondiale (1939-1945)
+## La Seconde Guerre mondiale (1939-1945)
+
+### Les deux camps
+
+La guerre oppose deux coalitions aux idéologies radicalement opposées.
+
+Du côté de l'[**Axe**](#voc-axe), on trouve l'Allemagne nazie d'Hitler, l'Italie fasciste de Mussolini et l'Empire du Japon. Ces trois puissances sont liées par le Pacte tripartite signé en septembre 1940. Leur idéologie commune est fondée sur le nationalisme extrême, le racisme et la conquête de nouveaux territoires : l'« espace vital » pour l'Allemagne, et l'expansion impériale en Asie pour le Japon.
+
+Du côté des [**Alliés**](#voc-alliés), la coalition se constitue progressivement. Le Royaume-Uni entre en guerre dès septembre 1939, aux côtés de la France. En juin 1941, l'URSS de Staline bascule dans le camp allié après l'invasion surprise de son territoire par l'Allemagne. En décembre 1941, les États-Unis rejoignent le conflit après l'attaque japonaise sur leur base navale de Pearl Harbor. Ce sont ces trois grandes puissances, surnommées les « Trois Grands », qui scellent l'issue du conflit.
+
+| Les Alliés | L'Axe |
+|---|---|
+| Royaume-Uni, France, URSS (à partir de juin 1941), États-Unis (à partir de décembre 1941) et leurs empires coloniaux. | Allemagne nazie, Italie fasciste, Empire du Japon. |
+
+[↑ Table des matières](#table-des-matières)
+
+---
 
 ### I. Une guerre d'anéantissement planétaire aux violences extrêmes
 

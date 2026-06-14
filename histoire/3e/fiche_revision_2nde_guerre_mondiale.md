@@ -69,7 +69,7 @@
 
 ---
 
-## Chapitre 2 — Les régimes totalitaires (1919-1939)
+## Les régimes totalitaires (1919-1939)
 
 **L'URSS de Staline.** Après la révolution bolchevique de 1917, Staline dirige l'URSS d'une main de fer à partir de 1924. Le parti communiste est le seul autorisé. L'économie est planifiée et collectivisée (les paysans sont regroupés dans des [kolkhozes](#voc-kolkhoze)). La population est tenue par la [**propagande**](seconde_guerre_mondiale.md#voc-propagande) et le [culte de la personnalité](#voc-culte-personnalité) de Staline. Les opposants sont envoyés au [**goulag**](#voc-goulag) ou exécutés. C'est un [**régime totalitaire**](#voc-régime-totalitaire).
 
@@ -79,7 +79,7 @@
 
 ---
 
-## Chapitre 3 — La Seconde Guerre mondiale (1939-1945)
+## La Seconde Guerre mondiale (1939-1945)
 
 **Le déclenchement.** Le 1er septembre 1939, l'Allemagne envahie la Pologne. La France et le Royaume-Uni déclarent la guerre deux jours plus tard. En mai-juin 1940, la [**Blitzkrieg**](#voc-blitzkrieg) allemande écrase la France en six semaines. De Gaulle lance son appel à la Résistance depuis Londres le 18 juin 1940. La France signe l'armistice le 22 juin.
 
