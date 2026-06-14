@@ -45,7 +45,7 @@
 
 ---
 
-\newpage
+<!-- pagebreak -->
 
 ## Les deux camps
 

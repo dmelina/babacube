@@ -49,3 +49,9 @@ end
 function HorizontalRule()
   return {}
 end
+
+function RawBlock(el)
+  if el.format == "html" and el.text:find("pagebreak") then
+    return pandoc.RawBlock("latex", "\\newpage")
+  end
+end
