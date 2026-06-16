@@ -1,6 +1,6 @@
 # Fiche de révision : La décolonisation (Brevet)
 
-[← Retour à l'index](../README.md) · [← Cours complet](decolonisation.md)
+[← Retour à l'index](../README.md) · [← Cours complet](04_decolonisation.md)
 
 ---
 
@@ -83,7 +83,7 @@ La [**décolonisation**](#voc-decolonisation) se déroule en deux grandes vagues
 
 **Une guerre brutale.** La bataille d'Alger (1957) voit l'armée française démanteler les réseaux du FLN en recourant à la torture, ce qui divise profondément la société française. Le 13 mai 1958, un coup de force à Alger provoque l'effondrement de la IVe République et le retour de De Gaulle au pouvoir.
 
-**Vers l'indépendance.** De Gaulle, malgré l'attente des partisans de l'Algérie française, reconnaît le droit à l'autodétermination. Le putsch des généraux (avril 1961) échoue. L'[**OAS**](decolonisation.md#voc-oas), organisation terroriste d'extrême droite, multiplie les attentats pour faire échouer les négociations.
+**Vers l'indépendance.** De Gaulle, malgré l'attente des partisans de l'Algérie française, reconnaît le droit à l'autodétermination. Le putsch des généraux (avril 1961) échoue. L'[**OAS**](04_decolonisation.md#voc-oas), organisation terroriste d'extrême droite, multiplie les attentats pour faire échouer les négociations.
 
 **Les accords d'Évian (19 mars 1962).** Ils mettent fin à la guerre et reconnaissent l'indépendance algérienne, confirmée par référendum (99,7 % pour l'indépendance). Le 5 juillet 1962, l'Algérie est indépendante. Environ 900 000 pieds-noirs fuient vers la France. Les [**harkis**](#voc-harkis), abandonnés sur place, sont massivement massacrés.
 

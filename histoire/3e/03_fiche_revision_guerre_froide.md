@@ -1,6 +1,6 @@
 # Fiche de révision : La Guerre froide (Brevet)
 
-[← Retour à l'index](../README.md) · [← Cours complet](guerre_froide.md)
+[← Retour à l'index](../README.md) · [← Cours complet](03_guerre_froide.md)
 
 ---
 

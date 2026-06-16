@@ -107,9 +107,9 @@ Le Français **Robert Schuman** et le Français d'origine luxembourgeoise **Jean
 
 ### B. Le contexte de la Guerre froide
 
-La construction européenne s'accélère dans le contexte particulier de la [Guerre froide](guerre_froide.md#voc-guerre-froide). Les pays d'Europe de l'Ouest, menacés par l'expansionnisme soviétique et protégés par le parapluie militaire américain (l'OTAN), ressentent le besoin urgent de se regrouper. L'unité économique et politique de l'Europe occidentale est aussi un rempart contre le communisme : des économies prospères et des démocraties stables sont moins vulnérables à l'influence soviétique.
+La construction européenne s'accélère dans le contexte particulier de la [Guerre froide](03_guerre_froide.md#voc-guerre-froide). Les pays d'Europe de l'Ouest, menacés par l'expansionnisme soviétique et protégés par le parapluie militaire américain (l'OTAN), ressentent le besoin urgent de se regrouper. L'unité économique et politique de l'Europe occidentale est aussi un rempart contre le communisme : des économies prospères et des démocraties stables sont moins vulnérables à l'influence soviétique.
 
-Les États-Unis soutiennent activement le projet européen. Le [Plan Marshall](guerre_froide.md#voc-plan-marshall) (1947), qui finance la reconstruction de l'Europe de l'Ouest, est d'abord conditionné à une coordination entre les pays bénéficiaires : il pose ainsi les bases d'une coopération économique européenne. Washington voit dans une Europe unie un partenaire économique solide et un verrou géopolitique contre l'URSS.
+Les États-Unis soutiennent activement le projet européen. Le [Plan Marshall](03_guerre_froide.md#voc-plan-marshall) (1947), qui finance la reconstruction de l'Europe de l'Ouest, est d'abord conditionné à une coordination entre les pays bénéficiaires : il pose ainsi les bases d'une coopération économique européenne. Washington voit dans une Europe unie un partenaire économique solide et un verrou géopolitique contre l'URSS.
 
 La division de l'Allemagne en deux États, la RFA démocratique à l'Ouest et la RDA communiste à l'Est, donne une dimension supplémentaire au projet. Intégrer la RFA dans une organisation européenne, c'est l'ancrer durablement dans le camp occidental et l'empêcher de basculer dans la neutralité ou de s'rapprocher de l'URSS.
 

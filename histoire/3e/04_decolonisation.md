@@ -33,7 +33,7 @@
 
 <a id="voc-tiers-monde"></a>**Tiers-monde:** terme forgé en 1952 par le démographe Alfred Sauvy pour désigner l'ensemble des pays pauvres, anciennement colonisés, qui ne font partie ni du bloc occidental ni du bloc soviétique. Il fait référence au Tiers état de 1789, désignant une majorité dominée et exploitée.
 
-<a id="voc-non-alignement"></a>**Non-alignement:** politique adoptée par de nombreux pays nouvellement indépendants qui refusent de choisir entre le bloc américain et le bloc soviétique lors de la [Guerre froide](guerre_froide.md#voc-guerre-froide). Ce mouvement est fondé lors de la conférence de Bandung en 1955.
+<a id="voc-non-alignement"></a>**Non-alignement:** politique adoptée par de nombreux pays nouvellement indépendants qui refusent de choisir entre le bloc américain et le bloc soviétique lors de la [Guerre froide](03_guerre_froide.md#voc-guerre-froide). Ce mouvement est fondé lors de la conférence de Bandung en 1955.
 
 <a id="voc-droit-peuples"></a>**Droit des peuples à disposer d'eux-mêmes:** principe reconnu par la Charte de l'ONU (1945) affirmant que tout peuple a le droit de choisir librement son régime politique et de s'administrer sans tutelle étrangère.
 
@@ -122,7 +122,7 @@ En avril 1955, vingt-neuf pays d'Afrique et d'Asie se réunissent à **Bandung**
 
 En rejoignant massivement l'ONU, ces nouveaux États constituent une force politique nouvelle. Ils s'allient pour réclamer des relations économiques mondiales plus équitables, une aide au développement et une réforme d'un ordre international qu'ils jugent encore trop favorable aux anciennes puissances coloniales.
 
-> **Pour aller plus loin:** Le non-alignement est une aspiration plus qu'une réalité stricte. Dans les faits, de nombreux pays du Tiers-monde reçoivent l'aide militaire ou économique de l'un ou l'autre des deux blocs, devenant des enjeux de la [Guerre froide](guerre_froide.md#voc-guerre-froide). Cuba, le Vietnam, l'Angola ou le Mozambique basculent dans l'orbite soviétique, tandis que d'autres pays africains ou asiatiques restent sous influence occidentale.
+> **Pour aller plus loin:** Le non-alignement est une aspiration plus qu'une réalité stricte. Dans les faits, de nombreux pays du Tiers-monde reçoivent l'aide militaire ou économique de l'un ou l'autre des deux blocs, devenant des enjeux de la [Guerre froide](03_guerre_froide.md#voc-guerre-froide). Cuba, le Vietnam, l'Angola ou le Mozambique basculent dans l'orbite soviétique, tandis que d'autres pays africains ou asiatiques restent sous influence occidentale.
 
 [↑ Table des matières](#table-des-matières)
 

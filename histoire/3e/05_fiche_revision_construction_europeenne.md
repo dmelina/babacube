@@ -1,6 +1,6 @@
 # Fiche de révision : La construction européenne (Brevet)
 
-[← Retour à l'index](../README.md) · [← Cours complet](construction_europeenne.md)
+[← Retour à l'index](../README.md) · [← Cours complet](05_construction_europeenne.md)
 
 ---
 
@@ -71,7 +71,7 @@
 
 **La CECA (1951).** Proposée par Robert Schuman et imaginée par Jean Monnet, elle crée la première organisation [**supranationale**](#voc-supranational) européenne autour du charbon et de l'acier.
 
-**La CEE (1957).** Le Traité de Rome crée le [**Marché commun**](construction_europeenne.md#voc-marche-commun) : suppression des droits de douane entre les 6, libre circulation des marchandises, politiques communes. La [**PAC**](#voc-pac) (1962) en est le premier grand exemple. Les échanges entre membres sont multipliés par six en quinze ans.
+**La CEE (1957).** Le Traité de Rome crée le [**Marché commun**](05_construction_europeenne.md#voc-marche-commun) : suppression des droits de douane entre les 6, libre circulation des marchandises, politiques communes. La [**PAC**](#voc-pac) (1962) en est le premier grand exemple. Les échanges entre membres sont multipliés par six en quinze ans.
 
 **Les institutions.** La Commission européenne (exécutif, à Bruxelles), le Parlement européen (élu au suffrage universel depuis 1979, à Strasbourg), le Conseil de l'UE (ministres des États membres) et la Cour de Justice (à Luxembourg) forment un système original, à mi-chemin entre organisation internationale et État fédéral.
 

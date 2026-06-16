@@ -1,6 +1,6 @@
 # Fiche de révision : La Seconde Guerre mondiale (Brevet)
 
-[← Retour à l'index](../README.md) · [← Cours complet](seconde_guerre_mondiale.md)
+[← Retour à l'index](../README.md) · [← Cours complet](02_seconde_guerre_mondiale.md)
 
 ---
 
@@ -77,9 +77,9 @@
 
 ## Les régimes totalitaires (1919-1939)
 
-**L'URSS de Staline.** Après la révolution bolchevique de 1917, Staline dirige l'URSS d'une main de fer à partir de 1924. Le parti communiste est le seul autorisé. L'économie est planifiée et collectivisée (les paysans sont regroupés dans des [kolkhozes](#voc-kolkhoze)). La population est tenue par la [**propagande**](seconde_guerre_mondiale.md#voc-propagande) et le [culte de la personnalité](#voc-culte-personnalité) de Staline. Les opposants sont envoyés au [**goulag**](#voc-goulag) ou exécutés. C'est un [**régime totalitaire**](#voc-régime-totalitaire).
+**L'URSS de Staline.** Après la révolution bolchevique de 1917, Staline dirige l'URSS d'une main de fer à partir de 1924. Le parti communiste est le seul autorisé. L'économie est planifiée et collectivisée (les paysans sont regroupés dans des [kolkhozes](#voc-kolkhoze)). La population est tenue par la [**propagande**](02_seconde_guerre_mondiale.md#voc-propagande) et le [culte de la personnalité](#voc-culte-personnalité) de Staline. Les opposants sont envoyés au [**goulag**](#voc-goulag) ou exécutés. C'est un [**régime totalitaire**](#voc-régime-totalitaire).
 
-**L'Allemagne nazie.** La crise économique de 1929 et ses 6 millions de chômeurs ouvrent la voie à Hitler, qui est légalement nommé chancelier le 30 janvier 1933. Il impose rapidement un [régime totalitaire](#voc-régime-totalitaire) fondé sur le racisme et l'[antisémitisme](#voc-antisémitisme). La [propagande](seconde_guerre_mondiale.md#voc-propagande) encadre toute la société ; la Gestapo (police politique) réprime les opposants dans les [camps de concentration](#voc-camp-concentration). En 1935, les lois de Nuremberg privent les Juifs de leur citoyenneté. En novembre 1938, la Nuit de cristal marque le premier grand pogrom organisé par l'État nazi.
+**L'Allemagne nazie.** La crise économique de 1929 et ses 6 millions de chômeurs ouvrent la voie à Hitler, qui est légalement nommé chancelier le 30 janvier 1933. Il impose rapidement un [régime totalitaire](#voc-régime-totalitaire) fondé sur le racisme et l'[antisémitisme](#voc-antisémitisme). La [propagande](02_seconde_guerre_mondiale.md#voc-propagande) encadre toute la société ; la Gestapo (police politique) réprime les opposants dans les [camps de concentration](#voc-camp-concentration). En 1935, les lois de Nuremberg privent les Juifs de leur citoyenneté. En novembre 1938, la Nuit de cristal marque le premier grand pogrom organisé par l'État nazi.
 
 **La France du Front Populaire.** Face à la crise économique et à la menace des ligues d'extrême droite, la gauche unie (Front Populaire) remporte les élections de 1936. Léon Blum signe les Accords Matignon : semaine de 40 heures, deux semaines de congés payés, reconnaissance des syndicats. C'est une avancée sociale majeure pour les travailleurs.
 
@@ -97,11 +97,11 @@
 
 ## La France sous l'Occupation : Vichy et la Résistance
 
-**Le Régime de Vichy.** Après la défaite, Pétain signe l'armistice et obtient les pleins pouvoirs le 10 juillet 1940 : c'est la fin de la République. Il met en place un régime autoritaire fondé sur la devise « Travail, Famille, Patrie ». À Montoire (24 octobre 1940), il engage la France dans la [**collaboration**](seconde_guerre_mondiale.md#voc-collaboration) avec l'Allemagne. En 1943, le [**STO**](seconde_guerre_mondiale.md#voc-sto) réquisitionne les jeunes Français pour les usines allemandes. Vichy mène aussi une politique antisémite de sa propre initiative : Statut des Juifs (octobre 1940), camps d'internement, et la Rafle du Vél d'Hiv (16-17 juillet 1942) où 13 000 Juifs sont arrêtés par la police française et déportés vers Auschwitz.
+**Le Régime de Vichy.** Après la défaite, Pétain signe l'armistice et obtient les pleins pouvoirs le 10 juillet 1940 : c'est la fin de la République. Il met en place un régime autoritaire fondé sur la devise « Travail, Famille, Patrie ». À Montoire (24 octobre 1940), il engage la France dans la [**collaboration**](02_seconde_guerre_mondiale.md#voc-collaboration) avec l'Allemagne. En 1943, le [**STO**](02_seconde_guerre_mondiale.md#voc-sto) réquisitionne les jeunes Français pour les usines allemandes. Vichy mène aussi une politique antisémite de sa propre initiative : Statut des Juifs (octobre 1940), camps d'internement, et la Rafle du Vél d'Hiv (16-17 juillet 1942) où 13 000 Juifs sont arrêtés par la police française et déportés vers Auschwitz.
 
-**La Résistance extérieure.** Le 18 juin 1940, de Gaulle lance depuis Londres son appel à continuer le combat. Il fonde la France Libre et les [**FFL**](seconde_guerre_mondiale.md#voc-ffl) (Forces Françaises Libres), qui combattent aux côtés des Alliés en Afrique du Nord puis en Europe.
+**La Résistance extérieure.** Le 18 juin 1940, de Gaulle lance depuis Londres son appel à continuer le combat. Il fonde la France Libre et les [**FFL**](02_seconde_guerre_mondiale.md#voc-ffl) (Forces Françaises Libres), qui combattent aux côtés des Alliés en Afrique du Nord puis en Europe.
 
-**La Résistance intérieure.** En France occupée, des citoyens agissent clandestinement : journaux interdits, faux papiers, sabotages, renseignements transmis à Londres. Le refus du STO pousse des milliers de jeunes à rejoindre les [**maquis**](seconde_guerre_mondiale.md#voc-maquis), qui forment les [**FFI**](seconde_guerre_mondiale.md#voc-ffi) (Forces Françaises de l'Intérieur). En mai 1943, Jean Moulin unifie tous ces mouvements au sein du [**CNR**](seconde_guerre_mondiale.md#voc-cnr).
+**La Résistance intérieure.** En France occupée, des citoyens agissent clandestinement : journaux interdits, faux papiers, sabotages, renseignements transmis à Londres. Le refus du STO pousse des milliers de jeunes à rejoindre les [**maquis**](02_seconde_guerre_mondiale.md#voc-maquis), qui forment les [**FFI**](02_seconde_guerre_mondiale.md#voc-ffi) (Forces Françaises de l'Intérieur). En mai 1943, Jean Moulin unifie tous ces mouvements au sein du [**CNR**](02_seconde_guerre_mondiale.md#voc-cnr).
 
 **La Libération.** Après les débarquements en Normandie (6 juin 1944) et en Provence (15 août 1944), les FFI et FFL participent à la libération du territoire. Paris est libéré le 25 août 1944. Le programme du CNR est appliqué : rétablissement des libertés, droit de vote pour les femmes, création de la Sécurité sociale.
 
