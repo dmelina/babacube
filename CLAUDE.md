@@ -26,10 +26,15 @@ Les élèves visés sont exigeants : le contenu peut dépasser le programme offi
 
 ### Histoire (3e)
 
-| Fichier | Fiche de révision |
+Les fichiers sont préfixés par un numéro pour respecter l'ordre du programme.
+
+| Cours | Fiche de révision |
 |---|---|
-| `histoire/3e/premiere_guerre_mondiale.md` | `histoire/3e/fiche_revision_1ere_guerre_mondiale.md` |
-| `histoire/3e/seconde_guerre_mondiale.md` | `histoire/3e/fiche_revision_2nde_guerre_mondiale.md` |
+| `histoire/3e/01_premiere_guerre_mondiale.md` | `histoire/3e/01_fiche_revision_1ere_guerre_mondiale.md` |
+| `histoire/3e/02_seconde_guerre_mondiale.md` | `histoire/3e/02_fiche_revision_2nde_guerre_mondiale.md` |
+| `histoire/3e/03_guerre_froide.md` | `histoire/3e/03_fiche_revision_guerre_froide.md` |
+| `histoire/3e/04_decolonisation.md` | `histoire/3e/04_fiche_revision_decolonisation.md` |
+| `histoire/3e/05_construction_europeenne.md` | `histoire/3e/05_fiche_revision_construction_europeenne.md` |
 
 ---
 
@@ -80,16 +85,18 @@ Les élèves visés sont exigeants : le contenu peut dépasser le programme offi
 5. Sections narratives en prose (`##` pour les grandes parties, `###` pour les sous-parties, `####` pour les sous-sous-parties)
 6. Blocs `> **Pour aller plus loin:**` pour les enrichissements hors programme
 7. Blocs `> **Exemples de ...:**` pour les exemples illustratifs
+8. Blocs `> **Références artistiques:**` placés dans la section la plus pertinente (peinture, littérature, cinéma, musique) — nombre libre selon le cours
 
 ### Structure d'une fiche de révision brevet
 
 1. Titre + liens retour index et cours complet
 2. `## Dates clés` : tableau avec dates en **gras**, mois abrégés (ex: `Fév. 1916`), événement court
 3. `## Définitions importantes` : termes avec ancres `<a id="voc-xxx"></a>`, définitions courtes, liens croisés entre termes
-4. `## Les deux camps` : tableau récapitulatif des belligérants
+4. `## Les deux camps` : tableau récapitulatif des belligérants (si pertinent)
 5. Sections synthétiques par thème (un paragraphe par point clé)
 6. `## Personnages clés` : liste avec rôle et dates
 7. `## Chiffres clés` : bilan humain, chiffres marquants
+8. `## Références artistiques` : liste courte des œuvres mentionnées dans le cours complet
 
 ### Conventions vocabulaire
 
@@ -98,6 +105,13 @@ Les élèves visés sont exigeants : le contenu peut dépasser le programme offi
 - Les usages suivants du même terme dans le même fichier n'ont pas besoin d'être reliés
 - Ne jamais définir un terme dans le corps du texte s'il est déjà dans le vocabulaire : renvoyer à l'ancre
 - Dans la fiche de révision, les liens vers le vocabulaire du cours complet utilisent le format `[terme](nom_du_fichier.md#voc-terme)`
+
+### Conventions de nommage des fichiers
+
+- Préfixe numérique à deux chiffres pour trier dans l'ordre du programme : `01_`, `02_`, etc.
+- Cours : `NN_nom_du_cours.md`
+- Fiches de révision : `NN_fiche_revision_nom_du_cours.md`
+- Le README `histoire/README.md` est organisé en deux sections distinctes : **Cours** et **Fiches de révision (Brevet)**
 
 ### Conventions chronologie
 
