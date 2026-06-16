@@ -6,3 +6,5 @@
    - [Fiche de révision (Brevet)](3e/fiche_revision_1ere_guerre_mondiale.md)
 2. [Démocratie et totalitarismes — La Seconde Guerre mondiale (1919-1945)](3e/seconde_guerre_mondiale.md)
    - [Fiche de révision (Brevet)](3e/fiche_revision_2nde_guerre_mondiale.md)
+3. [La Guerre froide (1947-1991)](3e/guerre_froide.md)
+   - [Fiche de révision (Brevet)](3e/fiche_revision_guerre_froide.md)
