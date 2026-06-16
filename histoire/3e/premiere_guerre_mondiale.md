@@ -98,6 +98,8 @@ Pourtant, la plupart tiennent. Le patriotisme et la solidarité entre camarades 
 
 On parle de [**violence de masse**](#voc-violence-de-masse) pour qualifier ce conflit.
 
+> **Références artistiques:** **Otto Dix** (1891-1969), ancien combattant allemand, peint *Der Krieg* (La Guerre, 1924), une suite de cinquante gravures représentant sans concession les tranchées, les cadavres en décomposition et les mutilés. Son tableau *Les Joueurs de skat* (1920) montre trois anciens soldats amputés et défigurés jouant aux cartes, dénonciation de la façon dont la société abandonne ses invalides de guerre. Le poète britannique **Wilfred Owen**, tué au front une semaine avant l'armistice, laisse *Dulce et Decorum est* (1917), poème décrivant une attaque au gaz pour mieux dénoncer le mensonge patriotique du « Il est doux et beau de mourir pour la patrie ».
+
 [↑ Table des matières](#table-des-matières)
 
 ---

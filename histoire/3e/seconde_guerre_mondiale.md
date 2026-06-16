@@ -214,6 +214,8 @@ Les civils deviennent des cibles au même titre que les militaires. Les villes s
 
 Le tournant décisif intervient à la bataille de Stalingrad (1942-1943), où l'armée allemande subit une défaite majeure face aux Soviétiques et entame un recul qui ne s'arrêtera qu'à Berlin. La violence culmine avec l'utilisation de la bombe atomique par les États-Unis sur Hiroshima (6 août 1945) et Nagasaki (9 août 1945), détruisant instantanément des villes entières et forçant le Japon à capituler.
 
+> **Référence artistique:** **Pablo Picasso** peint *Guernica* en 1937 après le bombardement de la ville basque du même nom par l'aviation nazie, à la demande de Franco. En noir et blanc, la toile gigantesque (3,5 m de haut sur 7,8 m de large) représente le chaos, la terreur et la mort parmi les civils. Elle devient l'une des images les plus puissantes du XXe siècle sur la violence faite aux populations civiles. Picasso refuse que l'œuvre retourne en Espagne tant que Franco est au pouvoir : elle ne revient à Madrid qu'en 1981.
+
 [↑ Table des matières](#table-des-matières)
 
 ---
@@ -297,5 +299,7 @@ Au cœur du projet raciste nazi se trouve le génocide des Juifs, la [**Shoah**]
 **L'extermination industrielle.** À la suite de la conférence de Wannsee du 20 janvier 1942, les nazis planifient et industrialisent l'assassinat dans des [**camps d'extermination**](#voc-camp-extermination) spécifiques : Auschwitz-Birkenau, Treblinka, Sobibor, Chelmno. Les déportés y sont acheminés par trains dans des wagons à bestiaux. Dès l'arrivée, une sélection est effectuée : les personnes jugées inaptes au travail, enfants, femmes enceintes, personnes âgées ou malades, sont immédiatement assassinées dans des chambres à gaz au Zyklon B, puis leurs corps sont brûlés dans des fours crématoires. Les autres sont soumis au travail forcé jusqu'à la mort.
 
 Au total, six millions de Juifs et plusieurs centaines de milliers de Tziganes périssent dans ce génocide, soit les deux tiers de la population juive d'Europe.
+
+> **Références artistiques:** **Primo Levi**, chimiste italien déporté à Auschwitz, publie *Si c'est un homme* (1947), récit sobre et lucide de sa survie dans le camp. Son témoignage reste l'une des œuvres fondamentales sur la Shoah. **Art Spiegelman** publie *Maus* (1980-1991), bande dessinée dans laquelle les Juifs sont représentés en souris et les nazis en chats : son père, rescapé d'Auschwitz, y raconte son expérience à son fils. Première bande dessinée à recevoir le prix Pulitzer (1992), *Maus* prouve que ce médium peut aborder les sujets les plus graves de l'histoire.
 
 [↑ Table des matières](#table-des-matières)

@@ -131,3 +131,11 @@ Dans les années 1980, l'URSS s'épuise : économie en panne, guerre coûteuse e
 **La guerre de Corée:** ~3 millions de morts (1950-1953)
 
 **Dissolution de l'URSS:** 15 États indépendants nés en 1991
+
+---
+
+## Références artistiques
+
+- **George Orwell**, *1984* (1949) : roman d'anticipation sur un monde totalitaire dominé par « Big Brother ». Écrit au moment où le monde bipolaire se met en place.
+- **Stanley Kubrick**, *Docteur Folamour* (1964) : comédie noire sur un général fou déclenchant accidentellement une guerre nucléaire. Dénonciation de la logique de la dissuasion.
+- **David Bowie**, *Heroes* (1977) : enregistrée à Berlin-Ouest face au Mur, la chanson évoque deux amants séparés par la frontière. Devenue hymne de la chute du Mur en 1989.

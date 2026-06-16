@@ -135,6 +135,8 @@ Le **bloc de l'Est**, dirigé par l'URSS, repose sur le communisme (propriété 
 | Coopération économique | Plan Marshall / OCDE | CAEM |
 | Puissance dominante | États-Unis | URSS |
 
+> **Référence artistique:** **George Orwell** publie *1984* en 1949, roman d'anticipation dans lequel le monde est divisé en superpuissances totalitaires en guerre permanente. Le héros vit sous la surveillance constante de « Big Brother » dans un régime qui réécrit l'histoire et contrôle le langage lui-même. Écrit au moment précis où le monde bipolaire se met en place, *1984* est une méditation sur la nature du totalitarisme et le danger que fait peser la Guerre froide sur les libertés individuelles. Des expressions comme « Big Brother », « Ministère de la Vérité » ou « novlangue » sont entrées dans le langage courant.
+
 [↑ Table des matières](#table-des-matières)
 
 ---
@@ -148,6 +150,8 @@ En 1945, les États-Unis sont le seul pays à posséder la bombe atomique, qu'il
 Cette accumulation d'armes n'aboutit pourtant pas à la guerre. C'est le paradoxe de la [**dissuasion nucléaire**](#voc-dissuasion-nucleaire) : chacun sait que déclencher une guerre atomique signifierait sa propre destruction. Les stratèges américains résument cette logique par l'acronyme MAD (Mutually Assured Destruction, destruction mutuelle assurée). La bombe atomique est une arme que l'on ne peut pas employer parce qu'elle serait trop destructrice, et c'est précisément parce qu'on ne peut pas l'employer qu'elle préserve paradoxalement la paix entre les deux superpuissances.
 
 > **Pour aller plus loin:** La doctrine de la dissuasion nucléaire soulève un paradoxe moral profond : la paix entre les grandes puissances est achetée par la menace permanente d'un holocauste planétaire. Des penseurs comme le philosophe Raymond Aron ont analysé ce paradoxe sous la formule : « paix impossible, guerre improbable ».
+
+> **Référence artistique:** **Stanley Kubrick** réalise *Docteur Folamour* (1964), comédie noire dans laquelle un général américain fou déclenche accidentellement une guerre nucléaire. Le film, tourné l'année même qui suit la crise de Cuba, tourne en dérision la logique de la dissuasion et la bureaucratie militaire des deux superpuissances. La scène finale, où des bombes atomiques tombent sur fond de *We'll Meet Again*, reste l'une des plus célèbres du cinéma mondial.
 
 [↑ Table des matières](#table-des-matières)
 
@@ -190,6 +194,8 @@ Cette situation est intenable pour l'URSS, et plus encore pour la RDA. Chaque an
 Pour stopper cette hémorragie démographique, le gouvernement de la RDA, avec l'accord de Moscou, décide d'agir dans la nuit du 12 au 13 août 1961 : des soldats et des ouvriers érigent en quelques heures un mur de béton et de barbelés autour de Berlin-Ouest, coupant la ville en deux et séparant des milliers de familles du jour au lendemain. Le **Mur de Berlin** — que les Berlinois de l'Est surnomment le « mur de la honte » — s'étendra sur 155 kilomètres, hérissé de miradors, de chiens de garde et de couloirs de la mort. En vingt-huit ans d'existence, il fera au moins 140 morts parmi ceux qui tenteront de le franchir.
 
 Le Mur de Berlin devient le symbole le plus puissant de la division du monde en deux blocs. En juin 1963, le président Kennedy se rend à Berlin-Ouest et prononce devant la foule en délire un discours mémorable, concluant : « Ich bin ein Berliner » (Je suis un Berlinois), affirmant la solidarité américaine avec la population assiégée.
+
+> **Référence artistique:** **David Bowie** enregistre *Heroes* en 1977 à Berlin-Ouest, dans un studio dont les fenêtres donnaient directement sur le Mur et le no man's land. La chanson évoque deux amants qui se retrouvent chaque jour à l'ombre du Mur, séparés sans pouvoir se rejoindre. Lors d'un concert donné à quelques centaines de mètres du Mur en juin 1987, des milliers de jeunes Est-Allemands se rassemblent de l'autre côté pour l'entendre malgré les gardes. Deux ans plus tard, le Mur tombait.
 
 [↑ Table des matières](#table-des-matières)
 

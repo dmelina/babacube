@@ -151,3 +151,11 @@ Au total, six millions de Juifs et plusieurs centaines de milliers de Tziganes s
 - 6 millions de Juifs assassinés (soit les deux tiers des Juifs d'Europe)
 - Plusieurs centaines de milliers de Tziganes
 - Auschwitz-Birkenau : 1 100 000 victimes à lui seul
+
+---
+
+## Références artistiques
+
+- **Pablo Picasso**, *Guernica* (1937) : toile gigantesque (3,5 × 7,8 m) peinte après le bombardement nazi d'une ville civile basque. Symbole universel de la violence faite aux civils. Refusée à l'Espagne par Picasso tant que Franco était au pouvoir.
+- **Primo Levi**, *Si c'est un homme* (1947) : témoignage sobre et lucide d'un rescapé d'Auschwitz. Œuvre fondamentale sur la Shoah.
+- **Art Spiegelman**, *Maus* (1980-1991) : bande dessinée dans laquelle les Juifs sont des souris et les nazis des chats. Premier roman graphique à recevoir le prix Pulitzer (1992).

@@ -126,3 +126,10 @@ C'est une **guerre industrielle** : les armes sont fabriquées en série, produi
 **Génocide arménien:** +1 million de morts, soit les deux tiers de la population arménienne de Turquie
 
 **Traité de Versailles:** 132 milliards de marks-or de réparations, armée limitée à 100 000 hommes
+
+---
+
+## Références artistiques
+
+- **Otto Dix**, *Der Krieg* (La Guerre, 1924) : cinquante gravures représentant sans concession les tranchées, les cadavres et les mutilés. Aussi *Les Joueurs de skat* (1920) : trois anciens soldats amputés et défigurés jouant aux cartes.
+- **Wilfred Owen**, *Dulce et Decorum est* (1917) : poème décrivant une attaque au gaz, dénonciation du mensonge patriotique « Il est doux et beau de mourir pour la patrie ». Owen est tué au front une semaine avant l'armistice.
