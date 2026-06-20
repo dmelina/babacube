@@ -72,6 +72,25 @@ Les fichiers sont préfixés par un numéro pour respecter l'ordre du programme.
 - Pas d'espace avant les deux-points (écrire `**Définition:**` et non `**Définition :**`)
 - Chaque grande section se termine par `[↑ Table des matières](#table-des-matières)`
 
+### Conventions communes aux cours narratifs (histoire, géo, EMC)
+
+- **Vocabulaire** : ancre format `<a id="voc-nom-du-terme"></a>` — minuscules, tirets, pas d'accents dans l'id
+- **Première occurrence** d'un terme dans le texte : `[**terme**](#voc-terme)` (gras + lien interne)
+- **Occurrences suivantes** dans le même fichier : sans lien, pas besoin de répéter
+- **Ne jamais définir un terme dans le corps du texte** s'il est dans la section Vocabulaire — renvoyer à l'ancre
+- **Blocs enrichissement** (communs à tous les cours narratifs) :
+  - `> **Pour aller plus loin:**` — contenu hors programme ou approfondissement
+  - `> **Exemples de ...:**` — exemples illustratifs dans le corps du cours
+  - `> **Références artistiques:**` — placé dans la section la plus pertinente thématiquement
+
+### Conventions de cross-linking entre disciplines
+
+| Depuis | Vers histoire | Vers géo | Vers EMC |
+|---|---|---|---|
+| Histoire | `[terme](fichier.md#voc-terme)` | `../../geo/3e/fichier.md#voc-terme` | `../../emc/3e/fichier.md#voc-terme` |
+| Géo | `../../histoire/3e/fichier.md#voc-terme` | `[terme](fichier.md#voc-terme)` | `../../emc/3e/fichier.md#voc-terme` |
+| EMC | `../../histoire/3e/fichier.md#voc-terme` | `../../geo/3e/fichier.md#voc-terme` | `[terme](fichier.md#voc-terme)` |
+
 ---
 
 ## Cours de mathématiques
@@ -128,11 +147,9 @@ Les fichiers sont préfixés par un numéro pour respecter l'ordre du programme.
 
 ### Conventions vocabulaire
 
-- Ancre format : `<a id="voc-nom-du-terme"></a>` (minuscules, tirets, pas d'accents dans l'id)
-- Au premier usage d'un terme dans le texte : `[**terme**](#voc-terme)` (gras + lien)
-- Les usages suivants du même terme dans le même fichier n'ont pas besoin d'être reliés
-- Ne jamais définir un terme dans le corps du texte s'il est déjà dans le vocabulaire : renvoyer à l'ancre
-- Dans la fiche de révision, les liens vers le vocabulaire du cours complet utilisent le format `[terme](nom_du_fichier.md#voc-terme)`
+- Mêmes règles que dans les conventions communes (ancres, gras + lien à la première occurrence)
+- Dans la fiche de révision, les liens vers le vocabulaire du cours complet : `[terme](nom_du_fichier.md#voc-terme)`
+- Cross-linking vers géo ou EMC : voir tableau des conventions communes
 
 ### Conventions de nommage des fichiers
 
@@ -180,9 +197,9 @@ Les fichiers sont préfixés par un numéro pour respecter l'ordre du programme.
 
 ### Conventions vocabulaire
 
-- Mêmes règles que pour l'histoire (ancres, gras + lien à la première occurrence, renvoi à l'ancre pour les usages suivants)
-- Les liens croisés vers d'autres cours du même dossier utilisent le format `[terme](nom_du_fichier.md#voc-terme)`
-- Les liens vers des cours d'histoire depuis un cours de géo (et vice-versa) utilisent des chemins relatifs : `../../histoire/3e/nom_du_fichier.md#voc-terme`
+- Mêmes règles que dans les conventions communes (ancres, gras + lien à la première occurrence)
+- Dans la fiche de révision, les liens vers le vocabulaire du cours complet : `[terme](nom_du_fichier.md#voc-terme)`
+- Cross-linking vers histoire ou EMC : voir tableau des conventions communes
 
 ### Conventions de nommage des fichiers
 
@@ -223,9 +240,9 @@ Les fichiers sont préfixés par un numéro pour respecter l'ordre du programme.
 
 ### Conventions vocabulaire
 
-- Mêmes règles que pour l'histoire (ancres, gras + lien à la première occurrence, renvoi à l'ancre pour les usages suivants)
-- Les liens croisés entre cours EMC utilisent le format `[terme](nom_du_fichier.md#voc-terme)`
-- Les liens vers des cours d'histoire ou de géo utilisent des chemins relatifs : `../../histoire/3e/nom_du_fichier.md#voc-terme`
+- Mêmes règles que dans les conventions communes (ancres, gras + lien à la première occurrence)
+- Dans la fiche de révision, les liens vers le vocabulaire du cours complet : `[terme](nom_du_fichier.md#voc-terme)`
+- Cross-linking vers histoire ou géo : voir tableau des conventions communes
 
 ### Conventions de nommage des fichiers
 
