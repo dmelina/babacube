@@ -2,13 +2,14 @@
 
 ## Contexte du projet
 
-Ce repo contient des cours de mathématiques et d'histoire en Markdown, destinés à des élèves de collège et lycée (5e → Terminale). Les cours sont publiés sur GitHub et doivent être lisibles directement dans l'interface GitHub.
+Ce repo contient des cours de mathématiques, d'histoire et de géographie en Markdown, destinés à des élèves de collège et lycée (5e → Terminale). Les cours sont publiés sur GitHub et doivent être lisibles directement dans l'interface GitHub.
 
 Les élèves visés sont exigeants : le contenu peut dépasser le programme officiel.
 
 **Signal rapide pour identifier le type de cours à rédiger:**
 - Cours de **maths** → prose + notation LaTeX, pas de vocabulaire centralisé ni de chronologie
 - Cours d'**histoire** → prose narrative, vocabulaire centralisé avec ancres, chronologie, fiche de révision brevet
+- Cours de **géographie** → prose narrative, vocabulaire centralisé avec ancres, tableau de chiffres clés (pas de chronologie), fiche de révision brevet
 
 ---
 
@@ -35,6 +36,20 @@ Les fichiers sont préfixés par un numéro pour respecter l'ordre du programme.
 | `histoire/3e/03_guerre_froide.md` | `histoire/3e/03_fiche_revision_guerre_froide.md` |
 | `histoire/3e/04_decolonisation.md` | `histoire/3e/04_fiche_revision_decolonisation.md` |
 | `histoire/3e/05_construction_europeenne.md` | `histoire/3e/05_fiche_revision_construction_europeenne.md` |
+| `histoire/3e/06_ve_republique.md` | `histoire/3e/06_fiche_revision_ve_republique.md` |
+
+### Géographie (3e)
+
+Les fichiers sont préfixés par un numéro pour respecter l'ordre du programme.
+
+| Cours | Fiche de révision |
+|---|---|
+| `geo/3e/01_mondialisation.md` | `geo/3e/01_fiche_revision_mondialisation.md` |
+| `geo/3e/02_dynamiques_urbaines.md` | `geo/3e/02_fiche_revision_dynamiques_urbaines.md` |
+| `geo/3e/03_espaces_productifs.md` | `geo/3e/03_fiche_revision_espaces_productifs.md` |
+| `geo/3e/04_espaces_faible_densite.md` | `geo/3e/04_fiche_revision_espaces_faible_densite.md` |
+| `geo/3e/05_amenagement_territoire.md` | `geo/3e/05_fiche_revision_amenagement_territoire.md` |
+| `geo/3e/06_france_monde.md` | `geo/3e/06_fiche_revision_france_monde.md` |
 
 ---
 
@@ -124,6 +139,49 @@ Les fichiers sont préfixés par un numéro pour respecter l'ordre du programme.
 - Prose narrative pure, jamais de bullet points dans le corps du cours
 - Ne jamais introduire un personnage ou un événement sans le situer (date, contexte)
 - Les termes du vocabulaire sont en **gras** avec lien à leur première occurrence dans chaque section
+
+---
+
+## Cours de géographie
+
+### Structure d'un cours complet
+
+1. Titre `#` + lien retour index
+2. Table des matières avec liens vers chaque section et vers Vocabulaire/Chiffres clés
+3. Section `## Vocabulaire` avec ancres `<a id="voc-nom-du-terme"></a>` pour chaque terme
+4. Section `## Chiffres clés` en tableau `| Indicateur | Chiffre |` (pas de chronologie — la géographie raisonne en termes de données, pas de dates)
+5. Section `## Introduction` en prose
+6. Sections narratives en prose (`##` pour les grandes parties, `###` pour les sous-parties)
+7. Blocs `> **Pour aller plus loin:**` pour les enrichissements hors programme
+8. Blocs `> **Exemples de ...:**` pour les exemples illustratifs
+9. Blocs `> **Références artistiques:**` placés dans la section la plus pertinente
+
+### Structure d'une fiche de révision brevet
+
+1. Titre + liens retour index et cours complet
+2. `## Chiffres clés` : tableau avec chiffres en **gras**, indicateurs concis — placé en tête car les chiffres sont au coeur des questions de brevet en géo
+3. `## Définitions importantes` : termes avec ancres, définitions courtes, liens croisés
+4. Sections synthétiques par thème (un paragraphe par point clé, bullet points autorisés pour les listes factuelles)
+5. `## Personnages et organismes clés` : liste avec rôle
+6. `## Références artistiques` : liste courte des œuvres mentionnées dans le cours complet
+
+### Conventions vocabulaire
+
+- Mêmes règles que pour l'histoire (ancres, gras + lien à la première occurrence, renvoi à l'ancre pour les usages suivants)
+- Les liens croisés vers d'autres cours du même dossier utilisent le format `[terme](nom_du_fichier.md#voc-terme)`
+- Les liens vers des cours d'histoire depuis un cours de géo (et vice-versa) utilisent des chemins relatifs : `../../histoire/3e/nom_du_fichier.md#voc-terme`
+
+### Conventions de nommage des fichiers
+
+- Mêmes règles que pour l'histoire : préfixe `NN_`, cours et fiches séparés
+- Le README `geo/README.md` est organisé en deux sections distinctes : **Cours** et **Fiches de révision (Brevet)**
+
+### Conventions de rédaction
+
+- Prose narrative pure dans le corps du cours, jamais de bullet points
+- Les exemples géographiques sont toujours localisés et chiffrés quand c'est possible
+- Les termes du vocabulaire sont en **gras** avec lien à leur première occurrence dans chaque section
+- Les données chiffrées importantes dans le texte sont mises en **gras**
 
 ---
 
