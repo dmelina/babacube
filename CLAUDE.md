@@ -2,7 +2,7 @@
 
 ## Contexte du projet
 
-Ce repo contient des cours de mathématiques, d'histoire et de géographie en Markdown, destinés à des élèves de collège et lycée (5e → Terminale). Les cours sont publiés sur GitHub et doivent être lisibles directement dans l'interface GitHub.
+Ce repo contient des cours de mathématiques, d'histoire, de géographie et d'EMC en Markdown, destinés à des élèves de collège et lycée (5e → Terminale). Les cours sont publiés sur GitHub et doivent être lisibles directement dans l'interface GitHub.
 
 Les élèves visés sont exigeants : le contenu peut dépasser le programme officiel.
 
@@ -10,6 +10,7 @@ Les élèves visés sont exigeants : le contenu peut dépasser le programme offi
 - Cours de **maths** → prose + notation LaTeX, pas de vocabulaire centralisé ni de chronologie
 - Cours d'**histoire** → prose narrative, vocabulaire centralisé avec ancres, chronologie, fiche de révision brevet
 - Cours de **géographie** → prose narrative, vocabulaire centralisé avec ancres, tableau de chiffres clés (pas de chronologie), fiche de révision brevet
+- Cours d'**EMC** → prose narrative, vocabulaire centralisé avec ancres, chronologie, fiche de révision brevet (structure proche de l'histoire)
 
 ---
 
@@ -50,6 +51,18 @@ Les fichiers sont préfixés par un numéro pour respecter l'ordre du programme.
 | `geo/3e/04_espaces_faible_densite.md` | `geo/3e/04_fiche_revision_espaces_faible_densite.md` |
 | `geo/3e/05_amenagement_territoire.md` | `geo/3e/05_fiche_revision_amenagement_territoire.md` |
 | `geo/3e/06_france_monde.md` | `geo/3e/06_fiche_revision_france_monde.md` |
+
+### EMC (3e)
+
+Les fichiers sont préfixés par un numéro pour respecter l'ordre du programme.
+
+| Cours | Fiche de révision |
+|---|---|
+| `emc/3e/01_democratie_institutions.md` | `emc/3e/01_fiche_revision_democratie_institutions.md` |
+| `emc/3e/02_citoyennete_laicite.md` | `emc/3e/02_fiche_revision_citoyennete_laicite.md` |
+| `emc/3e/03_droits_homme.md` | `emc/3e/03_fiche_revision_droits_homme.md` |
+| `emc/3e/04_justice.md` | `emc/3e/04_fiche_revision_justice.md` |
+| `emc/3e/05_engagement_civique.md` | `emc/3e/05_fiche_revision_engagement_civique.md` |
 
 ---
 
@@ -182,6 +195,48 @@ Les fichiers sont préfixés par un numéro pour respecter l'ordre du programme.
 - Les exemples géographiques sont toujours localisés et chiffrés quand c'est possible
 - Les termes du vocabulaire sont en **gras** avec lien à leur première occurrence dans chaque section
 - Les données chiffrées importantes dans le texte sont mises en **gras**
+
+---
+
+## Cours d'EMC
+
+### Structure d'un cours complet
+
+1. Titre `#` + lien retour index
+2. Table des matières avec liens vers chaque section et vers Vocabulaire/Chronologie
+3. Section `## Vocabulaire` avec ancres `<a id="voc-nom-du-terme"></a>` pour chaque terme
+4. Section `## Chronologie` en tableau `| Date | Événement |` avec dates complètes et contexte
+5. Sections narratives en prose (`##` pour les grandes parties, `###` pour les sous-parties)
+6. Blocs `> **Pour aller plus loin:**` pour les enrichissements hors programme
+7. Blocs `> **Exemples de ...:**` pour les exemples illustratifs
+8. Blocs `> **Références artistiques:**` placés dans la section la plus pertinente
+
+### Structure d'une fiche de révision brevet
+
+1. Titre + liens retour index et cours complet
+2. `## Dates clés` : tableau avec dates en **gras**, événement court
+3. `## Définitions importantes` : termes avec ancres, définitions courtes, liens croisés
+4. Sections synthétiques par thème (tableaux comparatifs bienvenus pour les notions structurées)
+5. `## Personnages clés` : liste avec rôle et dates
+6. `## Chiffres clés` : chiffres marquants
+7. `## Références artistiques` : liste courte des œuvres mentionnées dans le cours complet
+
+### Conventions vocabulaire
+
+- Mêmes règles que pour l'histoire (ancres, gras + lien à la première occurrence, renvoi à l'ancre pour les usages suivants)
+- Les liens croisés entre cours EMC utilisent le format `[terme](nom_du_fichier.md#voc-terme)`
+- Les liens vers des cours d'histoire ou de géo utilisent des chemins relatifs : `../../histoire/3e/nom_du_fichier.md#voc-terme`
+
+### Conventions de nommage des fichiers
+
+- Mêmes règles que pour l'histoire : préfixe `NN_`, cours et fiches séparés
+- Le README `emc/README.md` est organisé en deux sections distinctes : **Cours** et **Fiches de révision (Brevet)**
+
+### Conventions de rédaction
+
+- Prose narrative pure dans le corps du cours, jamais de bullet points
+- Les notions juridiques et institutionnelles sont toujours référencées à leur texte fondateur (Constitution, loi, article)
+- Les termes du vocabulaire sont en **gras** avec lien à leur première occurrence dans chaque section
 
 ---
 
