@@ -9,6 +9,7 @@
 3. [La Guerre froide (1947-1991)](3e/03_guerre_froide.md)
 4. [Indépendances et construction de nouveaux États : la décolonisation](3e/04_decolonisation.md)
 5. [La construction européenne (1950 à aujourd'hui)](3e/05_construction_europeenne.md)
+6. [La Ve République et la France depuis 1958](3e/06_ve_republique.md)
 
 ### Fiches de révision (Brevet)
 
@@ -17,3 +18,4 @@
 3. [Fiche — La Guerre froide](3e/03_fiche_revision_guerre_froide.md)
 4. [Fiche — La décolonisation](3e/04_fiche_revision_decolonisation.md)
 5. [Fiche — La construction européenne](3e/05_fiche_revision_construction_europeenne.md)
+6. [Fiche — La Ve République et la France depuis 1958](3e/06_fiche_revision_ve_republique.md)
